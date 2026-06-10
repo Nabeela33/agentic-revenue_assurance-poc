@@ -1,0 +1,1001 @@
+account_id,account_name,account_type,region,created_date,status,contact_email,contact_phone
+ACC00001,Orion Health 0001,Consumer,East,30/06/2025,Active,contact00001@exampletelco.co.uk,07125676184
+ACC00002,Metro Retail 0002,SME,West,06/02/2023,Ceased,contact00002@exampletelco.co.uk,07256745809
+ACC00003,Cedar Finance 0003,Retail,East,17/10/2025,Active,contact00003@exampletelco.co.uk,07246675961
+ACC00004,Oak Health 0004,Public Sector,West,08/09/2024,Active,contact00004@exampletelco.co.uk,07322551713
+ACC00005,Bluepeak Logistics 0005,SME,West,16/06/2025,Active,contact00005@exampletelco.co.uk,07385822874
+ACC00006,Kaya Finance 0006,Wholesale,Scotland,10/10/2025,Active,contact00006@exampletelco.co.uk,07490286117
+ACC00007,Horizon Logistics 0007,Consumer,London,27/06/2025,Inactive,contact00007@exampletelco.co.uk,07835489688
+ACC00008,Metro Finance 0008,Retail,East,21/08/2025,Ceased,contact00008@exampletelco.co.uk,07112882608
+ACC00009,Kaya Council 0009,Consumer,North,01/05/2023,Active,contact00009@exampletelco.co.uk,07865533365
+ACC00010,Horizon Logistics 0010,Wholesale,North,03/01/2024,Active,contact00010@exampletelco.co.uk,07197879143
+ACC00011,Kaya Telecom 0011,Wholesale,Wales,22/09/2025,Active,contact00011@exampletelco.co.uk,07128339260
+ACC00012,Metro Health 0012,Wholesale,Wales,30/10/2025,Active,contact00012@exampletelco.co.uk,07823164488
+ACC00013,Aster Health 0013,Retail,South,24/04/2023,Active,contact00013@exampletelco.co.uk,07850191842
+ACC00014,Zenith Health 0014,Consumer,Scotland,04/06/2024,Inactive,contact00014@exampletelco.co.uk,07702919167
+ACC00015,Horizon Finance 0015,Retail,Wales,08/04/2023,Active,contact00015@exampletelco.co.uk,07982530525
+ACC00016,Aster Finance 0016,Retail,Wales,30/07/2024,Active,contact00016@exampletelco.co.uk,07812231167
+ACC00017,Kaya Media 0017,Public Sector,North,18/11/2023,Active,contact00017@exampletelco.co.uk,07340004341
+ACC00018,Cedar Telecom 0018,Consumer,Midlands,20/01/2025,Active,contact00018@exampletelco.co.uk,07835986408
+ACC00019,Vista Health 0019,Enterprise,East,08/07/2025,Active,contact00019@exampletelco.co.uk,07799687199
+ACC00020,Horizon Energy 0020,Wholesale,Scotland,27/11/2023,Active,contact00020@exampletelco.co.uk,07389471563
+ACC00021,Oak Media 0021,Retail,Midlands,09/08/2024,Active,contact00021@exampletelco.co.uk,07708969624
+ACC00022,Orion Council 0022,Enterprise,Midlands,03/04/2024,Active,contact00022@exampletelco.co.uk,07528970823
+ACC00023,Metro Media 0023,Consumer,Wales,02/04/2025,Active,contact00023@exampletelco.co.uk,07335814408
+ACC00024,Vista Logistics 0024,Wholesale,Midlands,12/04/2024,Active,contact00024@exampletelco.co.uk,07875446589
+ACC00025,Orion Health 0025,Retail,West,20/06/2023,Active,contact00025@exampletelco.co.uk,07122397416
+ACC00026,Zenith Health 0026,Consumer,East,24/09/2023,Active,contact00026@exampletelco.co.uk,07616663691
+ACC00027,Horizon Media 0027,Wholesale,Midlands,29/02/2024,Active,contact00027@exampletelco.co.uk,07539450380
+ACC00028,Cedar Retail 0028,Consumer,South,24/04/2024,Active,contact00028@exampletelco.co.uk,07380371591
+ACC00029,Zenith Finance 0029,Enterprise,Scotland,02/05/2023,Inactive,contact00029@exampletelco.co.uk,07608517111
+ACC00030,Vista Telecom 0030,Enterprise,Wales,14/03/2024,Inactive,contact00030@exampletelco.co.uk,07688378705
+ACC00031,Cedar Retail 0031,SME,North,24/05/2023,Active,contact00031@exampletelco.co.uk,07717443119
+ACC00032,Bluepeak Telecom 0032,Public Sector,North,16/12/2023,Active,contact00032@exampletelco.co.uk,07545811881
+ACC00033,Aster Telecom 0033,Consumer,West,16/05/2024,Ceased,contact00033@exampletelco.co.uk,07285195061
+ACC00034,Oak Energy 0034,SME,Midlands,04/01/2025,Ceased,contact00034@exampletelco.co.uk,07625243506
+ACC00035,Metro Council 0035,SME,South,23/09/2024,Active,contact00035@exampletelco.co.uk,07784476531
+ACC00036,Bluepeak Logistics 0036,Public Sector,North,17/05/2024,Active,contact00036@exampletelco.co.uk,07119066539
+ACC00037,Bluepeak Media 0037,Consumer,West,14/09/2025,Active,contact00037@exampletelco.co.uk,07453737714
+ACC00038,Vista Council 0038,Wholesale,East,24/08/2025,Active,contact00038@exampletelco.co.uk,07509736429
+ACC00039,Vista Finance 0039,SME,London,21/03/2024,Ceased,contact00039@exampletelco.co.uk,07432394313
+ACC00040,Aster Finance 0040,Wholesale,London,21/02/2024,Ceased,contact00040@exampletelco.co.uk,07722815839
+ACC00041,Bluepeak Finance 0041,Public Sector,West,21/06/2023,Active,contact00041@exampletelco.co.uk,07265988619
+ACC00042,Horizon Health 0042,Public Sector,East,15/08/2024,Active,contact00042@exampletelco.co.uk,07782289209
+ACC00043,Metro Health 0043,SME,London,06/08/2025,Active,contact00043@exampletelco.co.uk,07773726838
+ACC00044,Cedar Energy 0044,SME,North,20/02/2025,Active,contact00044@exampletelco.co.uk,07493277324
+ACC00045,Aster Energy 0045,Public Sector,London,22/05/2023,Active,contact00045@exampletelco.co.uk,07845162954
+ACC00046,Zenith Logistics 0046,Wholesale,Scotland,01/07/2024,Active,contact00046@exampletelco.co.uk,07344692136
+ACC00047,Aster Energy 0047,Public Sector,Scotland,29/05/2024,Active,contact00047@exampletelco.co.uk,07869725036
+ACC00048,Kaya Retail 0048,Retail,North,23/07/2024,Inactive,contact00048@exampletelco.co.uk,07542076357
+ACC00049,Cedar Finance 0049,Consumer,South,12/01/2026,Active,contact00049@exampletelco.co.uk,07660788788
+ACC00050,Bluepeak Finance 0050,Enterprise,Midlands,11/07/2024,Ceased,contact00050@exampletelco.co.uk,07979245162
+ACC00051,Metro Telecom 0051,Public Sector,London,06/06/2023,Active,contact00051@exampletelco.co.uk,07336921080
+ACC00052,Cedar Media 0052,Wholesale,East,07/03/2024,Active,contact00052@exampletelco.co.uk,07672161000
+ACC00053,Orion Media 0053,SME,London,21/12/2023,Ceased,contact00053@exampletelco.co.uk,07808642671
+ACC00054,Cedar Health 0054,Public Sector,Wales,17/10/2023,Active,contact00054@exampletelco.co.uk,07964491054
+ACC00055,Cedar Media 0055,Consumer,Wales,19/01/2026,Active,contact00055@exampletelco.co.uk,07158550152
+ACC00056,Aster Retail 0056,Enterprise,West,12/12/2024,Inactive,contact00056@exampletelco.co.uk,07284098903
+ACC00057,Kaya Health 0057,Consumer,Wales,22/06/2024,Active,contact00057@exampletelco.co.uk,07360223226
+ACC00058,Horizon Energy 0058,Retail,South,14/01/2023,Active,contact00058@exampletelco.co.uk,07189628575
+ACC00059,Cedar Logistics 0059,Public Sector,North,14/11/2023,Active,contact00059@exampletelco.co.uk,07547912821
+ACC00060,Oak Finance 0060,Enterprise,Wales,05/10/2023,Active,contact00060@exampletelco.co.uk,07269518058
+ACC00061,Orion Logistics 0061,Wholesale,Midlands,30/03/2025,Active,contact00061@exampletelco.co.uk,07711225494
+ACC00062,Oak Council 0062,SME,North,18/07/2023,Inactive,contact00062@exampletelco.co.uk,07289263822
+ACC00063,Cedar Media 0063,Wholesale,Midlands,19/06/2024,Active,contact00063@exampletelco.co.uk,07482039515
+ACC00064,Vista Telecom 0064,Consumer,Wales,21/11/2023,Active,contact00064@exampletelco.co.uk,07131387470
+ACC00065,Aster Logistics 0065,Wholesale,South,26/09/2023,Active,contact00065@exampletelco.co.uk,07862607719
+ACC00066,Horizon Media 0066,Enterprise,East,08/10/2023,Active,contact00066@exampletelco.co.uk,07756303672
+ACC00067,Metro Media 0067,Public Sector,West,24/05/2025,Active,contact00067@exampletelco.co.uk,07277533848
+ACC00068,Orion Health 0068,Enterprise,East,15/07/2024,Inactive,contact00068@exampletelco.co.uk,07163712839
+ACC00069,Cedar Council 0069,Retail,Scotland,22/02/2026,Ceased,contact00069@exampletelco.co.uk,07148316722
+ACC00070,Kaya Logistics 0070,SME,Wales,21/12/2023,Active,contact00070@exampletelco.co.uk,07826188123
+ACC00071,Vista Logistics 0071,SME,Midlands,18/11/2024,Active,contact00071@exampletelco.co.uk,07589567405
+ACC00072,Aster Retail 0072,Enterprise,Midlands,30/11/2023,Active,contact00072@exampletelco.co.uk,07648069385
+ACC00073,Bluepeak Finance 0073,Wholesale,Wales,15/02/2026,Active,contact00073@exampletelco.co.uk,07841356510
+ACC00074,Oak Energy 0074,Enterprise,Scotland,10/05/2024,Active,contact00074@exampletelco.co.uk,07267847632
+ACC00075,Metro Telecom 0075,Consumer,East,13/02/2024,Active,contact00075@exampletelco.co.uk,07592814321
+ACC00076,Metro Retail 0076,Retail,Scotland,02/02/2023,Active,contact00076@exampletelco.co.uk,07891671963
+ACC00077,Horizon Retail 0077,Public Sector,North,05/02/2024,Active,contact00077@exampletelco.co.uk,07927433004
+ACC00078,Aster Council 0078,SME,Midlands,03/06/2024,Active,contact00078@exampletelco.co.uk,07983331621
+ACC00079,Vista Finance 0079,Wholesale,London,09/12/2023,Active,contact00079@exampletelco.co.uk,07815114113
+ACC00080,Bluepeak Media 0080,SME,Wales,25/04/2025,Active,contact00080@exampletelco.co.uk,07138744275
+ACC00081,Oak Council 0081,SME,London,02/08/2024,Active,contact00081@exampletelco.co.uk,07475222578
+ACC00082,Aster Energy 0082,Wholesale,London,30/10/2023,Active,contact00082@exampletelco.co.uk,07966688991
+ACC00083,Bluepeak Retail 0083,Consumer,Scotland,05/01/2024,Ceased,contact00083@exampletelco.co.uk,07315563362
+ACC00084,Aster Media 0084,Wholesale,Midlands,09/11/2025,Active,contact00084@exampletelco.co.uk,07680108683
+ACC00085,Orion Finance 0085,Wholesale,South,09/08/2024,Active,contact00085@exampletelco.co.uk,07531586700
+ACC00086,Metro Media 0086,Consumer,Midlands,21/01/2025,Active,contact00086@exampletelco.co.uk,07403294661
+ACC00087,Orion Retail 0087,Wholesale,Midlands,09/10/2025,Active,contact00087@exampletelco.co.uk,07286648985
+ACC00088,Vista Media 0088,Retail,North,13/10/2023,Ceased,contact00088@exampletelco.co.uk,07625490265
+ACC00089,Kaya Health 0089,Consumer,Wales,03/06/2025,Active,contact00089@exampletelco.co.uk,07496483035
+ACC00090,Kaya Council 0090,SME,Scotland,16/04/2025,Active,contact00090@exampletelco.co.uk,07676531369
+ACC00091,Cedar Media 0091,SME,Midlands,26/12/2023,Ceased,contact00091@exampletelco.co.uk,07796152985
+ACC00092,Orion Health 0092,SME,West,02/01/2024,Ceased,contact00092@exampletelco.co.uk,07800154331
+ACC00093,Horizon Logistics 0093,Consumer,East,25/02/2024,Active,contact00093@exampletelco.co.uk,07112541338
+ACC00094,Horizon Council 0094,Public Sector,North,29/04/2023,Active,contact00094@exampletelco.co.uk,07754907842
+ACC00095,Horizon Telecom 0095,Consumer,Midlands,18/06/2023,Active,contact00095@exampletelco.co.uk,07195715419
+ACC00096,Orion Retail 0096,Wholesale,East,18/12/2024,Active,contact00096@exampletelco.co.uk,07783683990
+ACC00097,Cedar Logistics 0097,Wholesale,North,28/06/2024,Active,contact00097@exampletelco.co.uk,07777217639
+ACC00098,Orion Media 0098,Consumer,Midlands,21/06/2023,Active,contact00098@exampletelco.co.uk,07218235739
+ACC00099,Bluepeak Media 0099,SME,Midlands,24/12/2024,Active,contact00099@exampletelco.co.uk,07888954358
+ACC00100,Bluepeak Council 0100,Wholesale,North,26/02/2025,Active,contact00100@exampletelco.co.uk,07985168747
+ACC00101,Orion Retail 0101,Public Sector,London,09/11/2024,Active,contact00101@exampletelco.co.uk,07277714832
+ACC00102,Aster Telecom 0102,Enterprise,London,21/10/2024,Active,contact00102@exampletelco.co.uk,07394226292
+ACC00103,Horizon Logistics 0103,Public Sector,Scotland,28/12/2023,Ceased,contact00103@exampletelco.co.uk,07135842503
+ACC00104,Kaya Council 0104,SME,Midlands,22/10/2023,Active,contact00104@exampletelco.co.uk,07217381103
+ACC00105,Orion Retail 0105,Public Sector,West,12/11/2025,Active,contact00105@exampletelco.co.uk,07786883949
+ACC00106,Orion Logistics 0106,Public Sector,Midlands,23/11/2024,Active,contact00106@exampletelco.co.uk,07179183305
+ACC00107,Cedar Retail 0107,Enterprise,Wales,09/04/2025,Active,contact00107@exampletelco.co.uk,07430736479
+ACC00108,Metro Council 0108,Public Sector,North,28/01/2025,Active,contact00108@exampletelco.co.uk,07306659540
+ACC00109,Oak Energy 0109,Public Sector,London,29/04/2025,Active,contact00109@exampletelco.co.uk,07586628154
+ACC00110,Orion Health 0110,Enterprise,Scotland,01/12/2024,Active,contact00110@exampletelco.co.uk,07764074050
+ACC00111,Vista Logistics 0111,SME,South,03/05/2023,Active,contact00111@exampletelco.co.uk,07705145351
+ACC00112,Aster Logistics 0112,Retail,Wales,01/07/2025,Active,contact00112@exampletelco.co.uk,07188202804
+ACC00113,Horizon Energy 0113,Wholesale,London,13/03/2025,Active,contact00113@exampletelco.co.uk,07646047069
+ACC00114,Metro Retail 0114,Wholesale,West,27/04/2023,Active,contact00114@exampletelco.co.uk,07730678660
+ACC00115,Orion Health 0115,Enterprise,North,10/09/2025,Active,contact00115@exampletelco.co.uk,07964087849
+ACC00116,Metro Logistics 0116,Consumer,Scotland,03/05/2025,Active,contact00116@exampletelco.co.uk,07233415403
+ACC00117,Cedar Health 0117,Enterprise,West,04/06/2024,Active,contact00117@exampletelco.co.uk,07413578422
+ACC00118,Cedar Logistics 0118,Consumer,London,22/06/2023,Active,contact00118@exampletelco.co.uk,07216622412
+ACC00119,Bluepeak Council 0119,Retail,West,11/04/2023,Active,contact00119@exampletelco.co.uk,07589478686
+ACC00120,Metro Retail 0120,Public Sector,Scotland,02/06/2024,Active,contact00120@exampletelco.co.uk,07298993275
+ACC00121,Vista Logistics 0121,Enterprise,West,30/01/2024,Active,contact00121@exampletelco.co.uk,07633341934
+ACC00122,Cedar Health 0122,Consumer,South,01/12/2024,Inactive,contact00122@exampletelco.co.uk,07699012476
+ACC00123,Vista Council 0123,Public Sector,London,23/09/2025,Ceased,contact00123@exampletelco.co.uk,07575611038
+ACC00124,Metro Health 0124,Enterprise,East,21/07/2024,Ceased,contact00124@exampletelco.co.uk,07607971313
+ACC00125,Bluepeak Retail 0125,Retail,East,16/01/2023,Active,contact00125@exampletelco.co.uk,07577441642
+ACC00126,Aster Logistics 0126,Public Sector,North,09/08/2024,Active,contact00126@exampletelco.co.uk,07916677652
+ACC00127,Oak Health 0127,Retail,West,24/10/2025,Active,contact00127@exampletelco.co.uk,07944436692
+ACC00128,Orion Logistics 0128,Retail,London,22/02/2026,Active,contact00128@exampletelco.co.uk,07371005223
+ACC00129,Vista Energy 0129,Retail,Wales,24/06/2024,Active,contact00129@exampletelco.co.uk,07426232151
+ACC00130,Vista Retail 0130,Enterprise,South,07/04/2025,Active,contact00130@exampletelco.co.uk,07653984134
+ACC00131,Orion Finance 0131,SME,North,18/03/2024,Active,contact00131@exampletelco.co.uk,07418737377
+ACC00132,Kaya Retail 0132,Enterprise,Wales,21/02/2023,Active,contact00132@exampletelco.co.uk,07896575004
+ACC00133,Zenith Retail 0133,Consumer,London,08/12/2024,Active,contact00133@exampletelco.co.uk,07784888849
+ACC00134,Kaya Media 0134,Wholesale,London,24/09/2025,Active,contact00134@exampletelco.co.uk,07440208916
+ACC00135,Metro Logistics 0135,Retail,North,14/08/2024,Active,contact00135@exampletelco.co.uk,07337499655
+ACC00136,Cedar Energy 0136,Enterprise,South,26/07/2023,Inactive,contact00136@exampletelco.co.uk,07388947861
+ACC00137,Metro Logistics 0137,SME,London,06/04/2025,Ceased,contact00137@exampletelco.co.uk,07348015852
+ACC00138,Orion Retail 0138,Wholesale,Midlands,26/12/2024,Active,contact00138@exampletelco.co.uk,07165987951
+ACC00139,Vista Telecom 0139,Public Sector,London,31/08/2023,Active,contact00139@exampletelco.co.uk,07542063796
+ACC00140,Zenith Energy 0140,Enterprise,Midlands,07/01/2026,Active,contact00140@exampletelco.co.uk,07114834065
+ACC00141,Aster Finance 0141,Wholesale,Wales,07/03/2024,Active,contact00141@exampletelco.co.uk,07719540088
+ACC00142,Kaya Telecom 0142,Enterprise,East,04/11/2025,Active,contact00142@exampletelco.co.uk,07642791461
+ACC00143,Cedar Retail 0143,Retail,Scotland,03/01/2024,Active,contact00143@exampletelco.co.uk,07488685790
+ACC00144,Oak Energy 0144,Public Sector,Wales,27/06/2023,Inactive,contact00144@exampletelco.co.uk,07163891316
+ACC00145,Horizon Media 0145,Consumer,Wales,07/07/2023,Inactive,contact00145@exampletelco.co.uk,07981624096
+ACC00146,Kaya Telecom 0146,Wholesale,Wales,30/04/2024,Active,contact00146@exampletelco.co.uk,07534483954
+ACC00147,Cedar Council 0147,Wholesale,Wales,07/12/2023,Inactive,contact00147@exampletelco.co.uk,07950007260
+ACC00148,Orion Logistics 0148,Retail,South,25/12/2025,Active,contact00148@exampletelco.co.uk,07741205880
+ACC00149,Aster Retail 0149,Enterprise,West,06/01/2026,Active,contact00149@exampletelco.co.uk,07686710325
+ACC00150,Zenith Energy 0150,SME,West,09/07/2024,Ceased,contact00150@exampletelco.co.uk,07634801740
+ACC00151,Orion Council 0151,Retail,South,01/03/2023,Active,contact00151@exampletelco.co.uk,07942596239
+ACC00152,Metro Media 0152,Wholesale,London,02/10/2025,Active,contact00152@exampletelco.co.uk,07624915588
+ACC00153,Kaya Energy 0153,Retail,North,01/05/2024,Active,contact00153@exampletelco.co.uk,07477718901
+ACC00154,Zenith Media 0154,SME,East,15/08/2023,Active,contact00154@exampletelco.co.uk,07499156984
+ACC00155,Cedar Finance 0155,Enterprise,Scotland,12/06/2023,Active,contact00155@exampletelco.co.uk,07703205663
+ACC00156,Bluepeak Energy 0156,Consumer,Scotland,19/03/2024,Active,contact00156@exampletelco.co.uk,07624412301
+ACC00157,Kaya Media 0157,Public Sector,North,24/03/2023,Inactive,contact00157@exampletelco.co.uk,07994043995
+ACC00158,Kaya Retail 0158,Public Sector,Midlands,25/05/2023,Active,contact00158@exampletelco.co.uk,07590002116
+ACC00159,Metro Finance 0159,SME,East,26/09/2025,Active,contact00159@exampletelco.co.uk,07307184446
+ACC00160,Cedar Telecom 0160,Public Sector,North,21/10/2025,Ceased,contact00160@exampletelco.co.uk,07943689944
+ACC00161,Bluepeak Retail 0161,Consumer,East,21/05/2024,Active,contact00161@exampletelco.co.uk,07618651218
+ACC00162,Vista Finance 0162,Retail,Midlands,01/02/2025,Active,contact00162@exampletelco.co.uk,07367534264
+ACC00163,Kaya Finance 0163,Wholesale,Wales,21/06/2025,Active,contact00163@exampletelco.co.uk,07685654003
+ACC00164,Bluepeak Health 0164,Wholesale,Wales,04/09/2023,Active,contact00164@exampletelco.co.uk,07388024398
+ACC00165,Oak Telecom 0165,Public Sector,East,01/09/2024,Ceased,contact00165@exampletelco.co.uk,07398152466
+ACC00166,Oak Health 0166,Public Sector,Wales,23/03/2024,Active,contact00166@exampletelco.co.uk,07506991983
+ACC00167,Aster Media 0167,Wholesale,North,18/09/2024,Active,contact00167@exampletelco.co.uk,07468748096
+ACC00168,Horizon Telecom 0168,Retail,North,06/07/2025,Ceased,contact00168@exampletelco.co.uk,07527746854
+ACC00169,Zenith Retail 0169,Retail,South,28/08/2025,Active,contact00169@exampletelco.co.uk,07394137419
+ACC00170,Oak Energy 0170,Public Sector,East,16/10/2023,Active,contact00170@exampletelco.co.uk,07328084277
+ACC00171,Cedar Media 0171,Retail,West,21/07/2025,Active,contact00171@exampletelco.co.uk,07873677120
+ACC00172,Cedar Telecom 0172,Enterprise,Scotland,31/12/2023,Active,contact00172@exampletelco.co.uk,07851198037
+ACC00173,Metro Telecom 0173,Enterprise,East,31/12/2024,Active,contact00173@exampletelco.co.uk,07810445280
+ACC00174,Aster Retail 0174,SME,West,02/05/2024,Active,contact00174@exampletelco.co.uk,07363734891
+ACC00175,Metro Retail 0175,Enterprise,Wales,15/11/2025,Active,contact00175@exampletelco.co.uk,07515693033
+ACC00176,Metro Finance 0176,Public Sector,North,28/09/2023,Active,contact00176@exampletelco.co.uk,07297715828
+ACC00177,Orion Council 0177,Consumer,London,18/08/2024,Active,contact00177@exampletelco.co.uk,07156257961
+ACC00178,Zenith Logistics 0178,Enterprise,South,16/11/2025,Active,contact00178@exampletelco.co.uk,07935675638
+ACC00179,Metro Media 0179,Consumer,North,21/01/2023,Active,contact00179@exampletelco.co.uk,07569822453
+ACC00180,Cedar Health 0180,Wholesale,North,17/11/2023,Active,contact00180@exampletelco.co.uk,07219561073
+ACC00181,Orion Logistics 0181,Wholesale,West,01/10/2024,Inactive,contact00181@exampletelco.co.uk,07649252449
+ACC00182,Aster Finance 0182,Enterprise,East,24/09/2025,Active,contact00182@exampletelco.co.uk,07690028260
+ACC00183,Aster Logistics 0183,Consumer,North,18/07/2023,Active,contact00183@exampletelco.co.uk,07947875601
+ACC00184,Aster Finance 0184,Public Sector,East,18/01/2024,Active,contact00184@exampletelco.co.uk,07409464087
+ACC00185,Orion Telecom 0185,SME,Wales,22/05/2023,Active,contact00185@exampletelco.co.uk,07505840272
+ACC00186,Horizon Telecom 0186,SME,Midlands,06/02/2024,Inactive,contact00186@exampletelco.co.uk,07147715677
+ACC00187,Bluepeak Logistics 0187,Enterprise,London,23/08/2025,Active,contact00187@exampletelco.co.uk,07887933957
+ACC00188,Aster Council 0188,Consumer,Midlands,29/08/2023,Active,contact00188@exampletelco.co.uk,07285586581
+ACC00189,Orion Logistics 0189,Consumer,Wales,22/01/2026,Active,contact00189@exampletelco.co.uk,07883725046
+ACC00190,Horizon Retail 0190,Wholesale,North,23/01/2025,Active,contact00190@exampletelco.co.uk,07752715848
+ACC00191,Aster Telecom 0191,Wholesale,South,22/12/2024,Active,contact00191@exampletelco.co.uk,07517146991
+ACC00192,Kaya Energy 0192,Enterprise,Wales,15/05/2023,Active,contact00192@exampletelco.co.uk,07831589810
+ACC00193,Kaya Finance 0193,Wholesale,Wales,26/12/2024,Ceased,contact00193@exampletelco.co.uk,07368805141
+ACC00194,Orion Retail 0194,SME,Wales,26/08/2024,Active,contact00194@exampletelco.co.uk,07983819882
+ACC00195,Metro Telecom 0195,Enterprise,North,21/01/2025,Ceased,contact00195@exampletelco.co.uk,07413830893
+ACC00196,Metro Telecom 0196,Retail,East,07/04/2025,Active,contact00196@exampletelco.co.uk,07605894808
+ACC00197,Aster Health 0197,Public Sector,London,16/10/2024,Active,contact00197@exampletelco.co.uk,07261528266
+ACC00198,Cedar Telecom 0198,Retail,North,02/10/2024,Active,contact00198@exampletelco.co.uk,07739481056
+ACC00199,Metro Telecom 0199,Public Sector,West,18/03/2024,Active,contact00199@exampletelco.co.uk,07172837079
+ACC00200,Oak Energy 0200,Enterprise,East,10/03/2025,Active,contact00200@exampletelco.co.uk,07512287248
+ACC00201,Bluepeak Telecom 0201,Retail,Wales,06/01/2026,Active,contact00201@exampletelco.co.uk,07464449790
+ACC00202,Zenith Media 0202,Enterprise,London,20/07/2025,Active,contact00202@exampletelco.co.uk,07697165516
+ACC00203,Zenith Energy 0203,SME,London,15/03/2024,Active,contact00203@exampletelco.co.uk,07276885382
+ACC00204,Aster Telecom 0204,Wholesale,Scotland,19/01/2025,Active,contact00204@exampletelco.co.uk,07109002527
+ACC00205,Bluepeak Logistics 0205,Public Sector,Midlands,12/02/2024,Active,contact00205@exampletelco.co.uk,07554201884
+ACC00206,Aster Finance 0206,Wholesale,Scotland,13/07/2025,Active,contact00206@exampletelco.co.uk,07695640742
+ACC00207,Cedar Energy 0207,SME,London,21/10/2023,Active,contact00207@exampletelco.co.uk,07628932006
+ACC00208,Vista Energy 0208,Retail,Wales,14/09/2025,Active,contact00208@exampletelco.co.uk,07273939054
+ACC00209,Kaya Retail 0209,Enterprise,London,13/01/2024,Active,contact00209@exampletelco.co.uk,07592887682
+ACC00210,Metro Health 0210,Enterprise,Wales,28/01/2025,Active,contact00210@exampletelco.co.uk,07492975980
+ACC00211,Cedar Retail 0211,Retail,Wales,01/11/2023,Active,contact00211@exampletelco.co.uk,07817386634
+ACC00212,Bluepeak Media 0212,SME,Wales,13/02/2023,Active,contact00212@exampletelco.co.uk,07236862212
+ACC00213,Zenith Telecom 0213,SME,Wales,03/11/2025,Active,contact00213@exampletelco.co.uk,07595682325
+ACC00214,Horizon Media 0214,Wholesale,Midlands,27/05/2024,Active,contact00214@exampletelco.co.uk,07315392692
+ACC00215,Kaya Media 0215,Enterprise,East,16/04/2024,Active,contact00215@exampletelco.co.uk,07445099474
+ACC00216,Vista Logistics 0216,Retail,North,27/01/2023,Active,contact00216@exampletelco.co.uk,07297115040
+ACC00217,Metro Energy 0217,Public Sector,Midlands,04/11/2025,Active,contact00217@exampletelco.co.uk,07434042071
+ACC00218,Vista Energy 0218,Consumer,West,01/12/2023,Active,contact00218@exampletelco.co.uk,07632862665
+ACC00219,Orion Council 0219,Retail,Wales,08/12/2024,Active,contact00219@exampletelco.co.uk,07269658231
+ACC00220,Kaya Council 0220,Retail,West,17/03/2023,Active,contact00220@exampletelco.co.uk,07245863335
+ACC00221,Kaya Logistics 0221,Wholesale,West,07/05/2023,Active,contact00221@exampletelco.co.uk,07645681030
+ACC00222,Orion Finance 0222,Consumer,East,19/11/2023,Active,contact00222@exampletelco.co.uk,07878594759
+ACC00223,Metro Health 0223,Public Sector,North,20/02/2025,Active,contact00223@exampletelco.co.uk,07772919327
+ACC00224,Cedar Energy 0224,Consumer,North,05/10/2025,Active,contact00224@exampletelco.co.uk,07607485628
+ACC00225,Kaya Energy 0225,Retail,South,25/10/2025,Active,contact00225@exampletelco.co.uk,07277707973
+ACC00226,Cedar Telecom 0226,Public Sector,East,29/03/2023,Active,contact00226@exampletelco.co.uk,07203558584
+ACC00227,Bluepeak Energy 0227,Public Sector,Scotland,06/10/2025,Active,contact00227@exampletelco.co.uk,07803207673
+ACC00228,Horizon Council 0228,Retail,West,14/09/2023,Active,contact00228@exampletelco.co.uk,07973428566
+ACC00229,Horizon Retail 0229,Enterprise,East,10/01/2024,Ceased,contact00229@exampletelco.co.uk,07457770574
+ACC00230,Zenith Energy 0230,Wholesale,East,10/02/2026,Active,contact00230@exampletelco.co.uk,07112759737
+ACC00231,Bluepeak Retail 0231,Public Sector,Scotland,22/01/2023,Active,contact00231@exampletelco.co.uk,07113793985
+ACC00232,Horizon Health 0232,Wholesale,Scotland,18/04/2023,Active,contact00232@exampletelco.co.uk,07849848198
+ACC00233,Oak Retail 0233,Consumer,London,15/10/2025,Active,contact00233@exampletelco.co.uk,07635565601
+ACC00234,Aster Retail 0234,Consumer,North,06/07/2024,Ceased,contact00234@exampletelco.co.uk,07500004601
+ACC00235,Oak Retail 0235,Public Sector,London,05/08/2024,Inactive,contact00235@exampletelco.co.uk,07494153717
+ACC00236,Orion Council 0236,Wholesale,Midlands,13/11/2025,Active,contact00236@exampletelco.co.uk,07842700887
+ACC00237,Orion Media 0237,Enterprise,Wales,17/03/2023,Active,contact00237@exampletelco.co.uk,07808101399
+ACC00238,Orion Retail 0238,Wholesale,Scotland,25/03/2025,Active,contact00238@exampletelco.co.uk,07995153738
+ACC00239,Kaya Energy 0239,SME,Wales,15/04/2024,Active,contact00239@exampletelco.co.uk,07209703214
+ACC00240,Kaya Logistics 0240,Consumer,East,11/04/2023,Active,contact00240@exampletelco.co.uk,07875962091
+ACC00241,Cedar Finance 0241,Consumer,North,18/12/2025,Active,contact00241@exampletelco.co.uk,07373746928
+ACC00242,Aster Health 0242,Wholesale,Wales,22/09/2023,Active,contact00242@exampletelco.co.uk,07293070545
+ACC00243,Vista Telecom 0243,Public Sector,London,19/01/2026,Active,contact00243@exampletelco.co.uk,07194778191
+ACC00244,Zenith Telecom 0244,Consumer,North,12/04/2025,Active,contact00244@exampletelco.co.uk,07518038350
+ACC00245,Metro Health 0245,Enterprise,Wales,25/11/2023,Active,contact00245@exampletelco.co.uk,07983093040
+ACC00246,Orion Media 0246,Wholesale,West,02/04/2023,Active,contact00246@exampletelco.co.uk,07605312251
+ACC00247,Metro Finance 0247,Consumer,West,30/12/2024,Active,contact00247@exampletelco.co.uk,07732911696
+ACC00248,Vista Energy 0248,Enterprise,Wales,15/06/2023,Active,contact00248@exampletelco.co.uk,07172140445
+ACC00249,Cedar Logistics 0249,Consumer,North,11/05/2023,Active,contact00249@exampletelco.co.uk,07784339122
+ACC00250,Oak Telecom 0250,SME,East,26/03/2023,Ceased,contact00250@exampletelco.co.uk,07138132218
+ACC00251,Cedar Council 0251,Enterprise,Wales,06/09/2023,Active,contact00251@exampletelco.co.uk,07123159220
+ACC00252,Metro Finance 0252,Public Sector,Wales,16/08/2025,Active,contact00252@exampletelco.co.uk,07792042233
+ACC00253,Vista Health 0253,SME,North,27/11/2023,Active,contact00253@exampletelco.co.uk,07166270423
+ACC00254,Orion Finance 0254,Retail,Midlands,04/03/2023,Active,contact00254@exampletelco.co.uk,07521839964
+ACC00255,Metro Logistics 0255,Retail,North,19/10/2024,Inactive,contact00255@exampletelco.co.uk,07473387844
+ACC00256,Zenith Logistics 0256,Retail,West,18/01/2026,Active,contact00256@exampletelco.co.uk,07584437388
+ACC00257,Zenith Media 0257,SME,Midlands,06/10/2025,Active,contact00257@exampletelco.co.uk,07696264074
+ACC00258,Metro Health 0258,SME,London,23/08/2023,Active,contact00258@exampletelco.co.uk,07578294208
+ACC00259,Bluepeak Health 0259,Consumer,Scotland,19/05/2025,Inactive,contact00259@exampletelco.co.uk,07977466794
+ACC00260,Metro Retail 0260,Enterprise,East,21/11/2025,Active,contact00260@exampletelco.co.uk,07439765537
+ACC00261,Zenith Energy 0261,Consumer,East,18/11/2024,Active,contact00261@exampletelco.co.uk,07177458998
+ACC00262,Bluepeak Telecom 0262,Retail,Wales,23/02/2025,Active,contact00262@exampletelco.co.uk,07881555596
+ACC00263,Bluepeak Retail 0263,Public Sector,East,10/07/2025,Active,contact00263@exampletelco.co.uk,07236508280
+ACC00264,Orion Finance 0264,Consumer,London,01/01/2023,Active,contact00264@exampletelco.co.uk,07880943795
+ACC00265,Orion Council 0265,Wholesale,Scotland,03/06/2025,Active,contact00265@exampletelco.co.uk,07927203227
+ACC00266,Vista Retail 0266,Enterprise,London,28/09/2023,Active,contact00266@exampletelco.co.uk,07242903237
+ACC00267,Oak Health 0267,Consumer,Wales,19/04/2025,Active,contact00267@exampletelco.co.uk,07801685016
+ACC00268,Vista Health 0268,SME,West,08/11/2025,Active,contact00268@exampletelco.co.uk,07720509776
+ACC00269,Horizon Health 0269,Public Sector,Midlands,06/02/2025,Active,contact00269@exampletelco.co.uk,07116711438
+ACC00270,Bluepeak Energy 0270,Enterprise,West,20/11/2023,Active,contact00270@exampletelco.co.uk,07162737565
+ACC00271,Kaya Media 0271,Consumer,Midlands,07/06/2023,Active,contact00271@exampletelco.co.uk,07969397047
+ACC00272,Aster Media 0272,SME,Wales,21/12/2023,Active,contact00272@exampletelco.co.uk,07970035461
+ACC00273,Kaya Finance 0273,SME,London,26/09/2023,Active,contact00273@exampletelco.co.uk,07272442542
+ACC00274,Metro Health 0274,Enterprise,Scotland,11/10/2025,Active,contact00274@exampletelco.co.uk,07670125169
+ACC00275,Cedar Health 0275,Enterprise,London,12/01/2024,Active,contact00275@exampletelco.co.uk,07328353729
+ACC00276,Zenith Council 0276,Consumer,London,07/05/2023,Active,contact00276@exampletelco.co.uk,07224820984
+ACC00277,Cedar Media 0277,Public Sector,West,15/09/2023,Active,contact00277@exampletelco.co.uk,07135156895
+ACC00278,Cedar Logistics 0278,Enterprise,South,05/01/2026,Active,contact00278@exampletelco.co.uk,07375237136
+ACC00279,Orion Retail 0279,Public Sector,West,09/11/2023,Active,contact00279@exampletelco.co.uk,07618428205
+ACC00280,Zenith Retail 0280,Wholesale,Scotland,08/03/2023,Active,contact00280@exampletelco.co.uk,07614771492
+ACC00281,Cedar Telecom 0281,Public Sector,Wales,17/10/2023,Ceased,contact00281@exampletelco.co.uk,07463456191
+ACC00282,Vista Council 0282,Enterprise,Scotland,07/09/2025,Active,contact00282@exampletelco.co.uk,07626009036
+ACC00283,Cedar Retail 0283,Enterprise,South,08/01/2026,Active,contact00283@exampletelco.co.uk,07367507204
+ACC00284,Aster Retail 0284,Public Sector,North,11/09/2025,Active,contact00284@exampletelco.co.uk,07591375238
+ACC00285,Metro Retail 0285,SME,South,29/10/2023,Active,contact00285@exampletelco.co.uk,07286817820
+ACC00286,Kaya Energy 0286,Wholesale,Scotland,22/01/2026,Active,contact00286@exampletelco.co.uk,07499900839
+ACC00287,Metro Finance 0287,Wholesale,Wales,15/03/2023,Active,contact00287@exampletelco.co.uk,07472989670
+ACC00288,Cedar Retail 0288,Consumer,Midlands,08/12/2024,Active,contact00288@exampletelco.co.uk,07400480450
+ACC00289,Kaya Retail 0289,Retail,East,22/06/2025,Active,contact00289@exampletelco.co.uk,07845084629
+ACC00290,Kaya Retail 0290,Wholesale,Wales,10/12/2025,Inactive,contact00290@exampletelco.co.uk,07579253800
+ACC00291,Aster Retail 0291,Retail,London,15/06/2023,Active,contact00291@exampletelco.co.uk,07298132030
+ACC00292,Aster Logistics 0292,Public Sector,South,14/07/2025,Active,contact00292@exampletelco.co.uk,07196894319
+ACC00293,Cedar Health 0293,Consumer,London,15/01/2023,Active,contact00293@exampletelco.co.uk,07973231376
+ACC00294,Bluepeak Health 0294,Enterprise,Scotland,08/05/2023,Active,contact00294@exampletelco.co.uk,07861652488
+ACC00295,Oak Media 0295,Wholesale,North,21/05/2024,Active,contact00295@exampletelco.co.uk,07565957421
+ACC00296,Bluepeak Finance 0296,Enterprise,Wales,10/12/2024,Ceased,contact00296@exampletelco.co.uk,07520445835
+ACC00297,Oak Health 0297,Wholesale,Midlands,15/07/2023,Active,contact00297@exampletelco.co.uk,07345366755
+ACC00298,Oak Telecom 0298,Public Sector,North,10/10/2025,Active,contact00298@exampletelco.co.uk,07861739937
+ACC00299,Kaya Health 0299,Wholesale,London,12/02/2025,Active,contact00299@exampletelco.co.uk,07300918062
+ACC00300,Aster Finance 0300,SME,South,24/07/2024,Active,contact00300@exampletelco.co.uk,07993217277
+ACC00301,Oak Finance 0301,Retail,Wales,30/11/2023,Active,contact00301@exampletelco.co.uk,07310992788
+ACC00302,Kaya Energy 0302,Retail,Midlands,19/01/2025,Active,contact00302@exampletelco.co.uk,07243534626
+ACC00303,Orion Health 0303,Public Sector,Midlands,12/12/2025,Ceased,contact00303@exampletelco.co.uk,07998390333
+ACC00304,Horizon Telecom 0304,Wholesale,East,06/01/2026,Active,contact00304@exampletelco.co.uk,07700060800
+ACC00305,Kaya Retail 0305,Public Sector,Wales,06/08/2024,Active,contact00305@exampletelco.co.uk,07598987186
+ACC00306,Bluepeak Retail 0306,Retail,East,02/04/2025,Active,contact00306@exampletelco.co.uk,07614104211
+ACC00307,Oak Logistics 0307,Retail,North,17/12/2025,Active,contact00307@exampletelco.co.uk,07266128392
+ACC00308,Orion Logistics 0308,SME,Midlands,01/05/2025,Active,contact00308@exampletelco.co.uk,07956111474
+ACC00309,Cedar Media 0309,Enterprise,Midlands,24/01/2026,Active,contact00309@exampletelco.co.uk,07511636524
+ACC00310,Vista Logistics 0310,SME,South,12/08/2023,Active,contact00310@exampletelco.co.uk,07381886902
+ACC00311,Bluepeak Finance 0311,Retail,East,02/08/2023,Active,contact00311@exampletelco.co.uk,07236472239
+ACC00312,Horizon Health 0312,Public Sector,North,23/02/2023,Active,contact00312@exampletelco.co.uk,07639092261
+ACC00313,Vista Health 0313,SME,Scotland,05/12/2024,Active,contact00313@exampletelco.co.uk,07811065524
+ACC00314,Cedar Energy 0314,Retail,North,21/02/2026,Active,contact00314@exampletelco.co.uk,07774635602
+ACC00315,Metro Logistics 0315,Public Sector,North,03/03/2025,Active,contact00315@exampletelco.co.uk,07341623733
+ACC00316,Aster Media 0316,Consumer,London,06/04/2025,Active,contact00316@exampletelco.co.uk,07280741524
+ACC00317,Orion Finance 0317,SME,Scotland,04/08/2024,Active,contact00317@exampletelco.co.uk,07377070899
+ACC00318,Oak Council 0318,Retail,South,01/10/2023,Inactive,contact00318@exampletelco.co.uk,07232688418
+ACC00319,Horizon Telecom 0319,Enterprise,London,21/10/2024,Active,contact00319@exampletelco.co.uk,07297468049
+ACC00320,Cedar Finance 0320,Wholesale,Wales,29/02/2024,Active,contact00320@exampletelco.co.uk,07884282987
+ACC00321,Aster Finance 0321,Consumer,Scotland,12/06/2025,Active,contact00321@exampletelco.co.uk,07613489104
+ACC00322,Aster Finance 0322,Wholesale,Midlands,01/10/2025,Active,contact00322@exampletelco.co.uk,07963894583
+ACC00323,Aster Telecom 0323,Retail,Midlands,21/05/2023,Active,contact00323@exampletelco.co.uk,07450914748
+ACC00324,Kaya Energy 0324,Retail,West,14/08/2025,Active,contact00324@exampletelco.co.uk,07610386555
+ACC00325,Cedar Retail 0325,Consumer,West,22/06/2023,Active,contact00325@exampletelco.co.uk,07738493103
+ACC00326,Horizon Energy 0326,Wholesale,Wales,27/06/2025,Active,contact00326@exampletelco.co.uk,07188764651
+ACC00327,Kaya Energy 0327,Enterprise,Wales,19/02/2026,Inactive,contact00327@exampletelco.co.uk,07275953402
+ACC00328,Metro Retail 0328,Public Sector,Wales,21/10/2025,Ceased,contact00328@exampletelco.co.uk,07868036548
+ACC00329,Oak Media 0329,Enterprise,Scotland,03/12/2024,Active,contact00329@exampletelco.co.uk,07530633070
+ACC00330,Oak Council 0330,Public Sector,Scotland,10/11/2023,Active,contact00330@exampletelco.co.uk,07718570511
+ACC00331,Aster Energy 0331,Public Sector,Midlands,23/05/2023,Active,contact00331@exampletelco.co.uk,07290276739
+ACC00332,Kaya Media 0332,Wholesale,Scotland,18/05/2024,Active,contact00332@exampletelco.co.uk,07168827048
+ACC00333,Kaya Health 0333,Retail,South,03/08/2024,Active,contact00333@exampletelco.co.uk,07672566102
+ACC00334,Aster Logistics 0334,Wholesale,London,08/10/2025,Active,contact00334@exampletelco.co.uk,07380870311
+ACC00335,Kaya Media 0335,SME,Midlands,16/02/2023,Active,contact00335@exampletelco.co.uk,07186406549
+ACC00336,Metro Retail 0336,Wholesale,Midlands,30/03/2024,Active,contact00336@exampletelco.co.uk,07714851872
+ACC00337,Vista Finance 0337,Retail,London,03/01/2026,Inactive,contact00337@exampletelco.co.uk,07526118466
+ACC00338,Horizon Telecom 0338,Enterprise,London,02/01/2024,Active,contact00338@exampletelco.co.uk,07286245809
+ACC00339,Vista Retail 0339,Wholesale,North,12/01/2023,Active,contact00339@exampletelco.co.uk,07598325084
+ACC00340,Bluepeak Health 0340,Wholesale,Midlands,18/02/2024,Ceased,contact00340@exampletelco.co.uk,07728698906
+ACC00341,Zenith Media 0341,Public Sector,Scotland,05/11/2023,Active,contact00341@exampletelco.co.uk,07916976937
+ACC00342,Aster Energy 0342,Wholesale,North,26/01/2023,Active,contact00342@exampletelco.co.uk,07496030302
+ACC00343,Orion Telecom 0343,Public Sector,West,07/08/2024,Active,contact00343@exampletelco.co.uk,07713208373
+ACC00344,Kaya Finance 0344,SME,West,29/05/2023,Active,contact00344@exampletelco.co.uk,07289315821
+ACC00345,Horizon Logistics 0345,Wholesale,East,14/11/2024,Active,contact00345@exampletelco.co.uk,07517924352
+ACC00346,Oak Energy 0346,Public Sector,Midlands,29/10/2023,Active,contact00346@exampletelco.co.uk,07267286166
+ACC00347,Cedar Finance 0347,Retail,Midlands,14/08/2024,Active,contact00347@exampletelco.co.uk,07280934175
+ACC00348,Zenith Telecom 0348,Enterprise,West,29/03/2023,Active,contact00348@exampletelco.co.uk,07954749984
+ACC00349,Orion Council 0349,Public Sector,London,22/08/2023,Active,contact00349@exampletelco.co.uk,07903752939
+ACC00350,Zenith Media 0350,Retail,Midlands,08/06/2023,Inactive,contact00350@exampletelco.co.uk,07656479677
+ACC00351,Horizon Council 0351,SME,Midlands,10/09/2025,Active,contact00351@exampletelco.co.uk,07614675724
+ACC00352,Cedar Energy 0352,Retail,East,22/11/2023,Active,contact00352@exampletelco.co.uk,07634862770
+ACC00353,Aster Energy 0353,Public Sector,East,16/02/2026,Active,contact00353@exampletelco.co.uk,07162879513
+ACC00354,Metro Logistics 0354,Retail,Midlands,26/12/2023,Active,contact00354@exampletelco.co.uk,07155306955
+ACC00355,Metro Telecom 0355,SME,Midlands,13/07/2025,Active,contact00355@exampletelco.co.uk,07922366951
+ACC00356,Orion Logistics 0356,Enterprise,West,02/12/2024,Ceased,contact00356@exampletelco.co.uk,07629692506
+ACC00357,Oak Health 0357,Retail,Wales,25/12/2024,Inactive,contact00357@exampletelco.co.uk,07602319761
+ACC00358,Vista Logistics 0358,SME,Midlands,06/05/2023,Ceased,contact00358@exampletelco.co.uk,07709353955
+ACC00359,Metro Telecom 0359,Retail,South,06/01/2023,Ceased,contact00359@exampletelco.co.uk,07117645855
+ACC00360,Zenith Health 0360,Consumer,East,14/06/2023,Active,contact00360@exampletelco.co.uk,07148272216
+ACC00361,Cedar Retail 0361,SME,East,19/02/2025,Active,contact00361@exampletelco.co.uk,07199316772
+ACC00362,Horizon Retail 0362,SME,West,11/11/2023,Active,contact00362@exampletelco.co.uk,07886013108
+ACC00363,Vista Council 0363,Enterprise,Scotland,02/08/2025,Inactive,contact00363@exampletelco.co.uk,07769644348
+ACC00364,Orion Finance 0364,SME,South,23/10/2025,Active,contact00364@exampletelco.co.uk,07251680185
+ACC00365,Cedar Energy 0365,Public Sector,London,14/01/2023,Active,contact00365@exampletelco.co.uk,07375815557
+ACC00366,Vista Council 0366,Enterprise,Wales,04/08/2024,Active,contact00366@exampletelco.co.uk,07657800364
+ACC00367,Metro Energy 0367,Public Sector,Scotland,12/04/2024,Active,contact00367@exampletelco.co.uk,07654699028
+ACC00368,Zenith Telecom 0368,Wholesale,Wales,26/03/2024,Inactive,contact00368@exampletelco.co.uk,07892645622
+ACC00369,Cedar Retail 0369,Wholesale,North,07/10/2025,Active,contact00369@exampletelco.co.uk,07316107042
+ACC00370,Bluepeak Council 0370,Enterprise,South,26/08/2024,Active,contact00370@exampletelco.co.uk,07298875752
+ACC00371,Orion Logistics 0371,Retail,South,25/03/2023,Active,contact00371@exampletelco.co.uk,07920506415
+ACC00372,Cedar Finance 0372,Consumer,London,14/05/2023,Inactive,contact00372@exampletelco.co.uk,07693625014
+ACC00373,Horizon Finance 0373,Enterprise,West,30/03/2024,Inactive,contact00373@exampletelco.co.uk,07695444093
+ACC00374,Horizon Health 0374,Enterprise,London,27/08/2024,Active,contact00374@exampletelco.co.uk,07428357706
+ACC00375,Aster Health 0375,Consumer,East,25/11/2024,Inactive,contact00375@exampletelco.co.uk,07366170616
+ACC00376,Horizon Retail 0376,SME,Scotland,04/02/2026,Active,contact00376@exampletelco.co.uk,07569430673
+ACC00377,Cedar Council 0377,Consumer,East,30/07/2023,Active,contact00377@exampletelco.co.uk,07333625297
+ACC00378,Aster Logistics 0378,Public Sector,West,26/11/2023,Ceased,contact00378@exampletelco.co.uk,07323610761
+ACC00379,Cedar Logistics 0379,Wholesale,North,12/02/2025,Active,contact00379@exampletelco.co.uk,07191675216
+ACC00380,Bluepeak Logistics 0380,Enterprise,Scotland,27/01/2026,Active,contact00380@exampletelco.co.uk,07128791293
+ACC00381,Orion Finance 0381,SME,Scotland,11/01/2023,Active,contact00381@exampletelco.co.uk,07528771805
+ACC00382,Orion Council 0382,Public Sector,London,30/03/2024,Active,contact00382@exampletelco.co.uk,07631701523
+ACC00383,Metro Media 0383,Public Sector,West,20/09/2023,Active,contact00383@exampletelco.co.uk,07136676505
+ACC00384,Kaya Health 0384,Retail,Wales,08/07/2025,Active,contact00384@exampletelco.co.uk,07455816741
+ACC00385,Cedar Energy 0385,Retail,London,11/09/2025,Active,contact00385@exampletelco.co.uk,07752335492
+ACC00386,Kaya Council 0386,Consumer,Scotland,11/08/2025,Active,contact00386@exampletelco.co.uk,07249577087
+ACC00387,Metro Telecom 0387,Wholesale,East,16/06/2024,Active,contact00387@exampletelco.co.uk,07566128351
+ACC00388,Orion Logistics 0388,Retail,Midlands,23/06/2024,Ceased,contact00388@exampletelco.co.uk,07708594606
+ACC00389,Cedar Retail 0389,Consumer,Midlands,16/06/2024,Active,contact00389@exampletelco.co.uk,07437235007
+ACC00390,Aster Logistics 0390,SME,North,16/07/2025,Active,contact00390@exampletelco.co.uk,07517653381
+ACC00391,Zenith Health 0391,Public Sector,South,02/11/2024,Active,contact00391@exampletelco.co.uk,07318933218
+ACC00392,Vista Retail 0392,Retail,Midlands,07/09/2025,Active,contact00392@exampletelco.co.uk,07403393910
+ACC00393,Bluepeak Media 0393,Retail,North,18/05/2024,Active,contact00393@exampletelco.co.uk,07145943958
+ACC00394,Horizon Media 0394,Retail,West,20/05/2023,Inactive,contact00394@exampletelco.co.uk,07619888135
+ACC00395,Orion Telecom 0395,SME,South,12/12/2024,Active,contact00395@exampletelco.co.uk,07487099255
+ACC00396,Oak Health 0396,Retail,Scotland,10/12/2025,Inactive,contact00396@exampletelco.co.uk,07659129064
+ACC00397,Kaya Media 0397,Wholesale,London,29/12/2023,Active,contact00397@exampletelco.co.uk,07680308197
+ACC00398,Vista Health 0398,Enterprise,East,10/10/2023,Active,contact00398@exampletelco.co.uk,07202907770
+ACC00399,Bluepeak Finance 0399,SME,West,20/01/2026,Active,contact00399@exampletelco.co.uk,07163156673
+ACC00400,Bluepeak Council 0400,Consumer,London,18/08/2025,Active,contact00400@exampletelco.co.uk,07907607802
+ACC00401,Cedar Telecom 0401,Enterprise,Scotland,13/01/2024,Active,contact00401@exampletelco.co.uk,07483716810
+ACC00402,Metro Retail 0402,Wholesale,London,08/09/2024,Active,contact00402@exampletelco.co.uk,07332894753
+ACC00403,Bluepeak Media 0403,Wholesale,East,08/03/2023,Inactive,contact00403@exampletelco.co.uk,07928647090
+ACC00404,Aster Council 0404,Public Sector,Scotland,07/12/2025,Active,contact00404@exampletelco.co.uk,07570892417
+ACC00405,Aster Council 0405,Consumer,Wales,05/02/2025,Active,contact00405@exampletelco.co.uk,07982090275
+ACC00406,Cedar Energy 0406,Consumer,North,09/01/2025,Active,contact00406@exampletelco.co.uk,07526529234
+ACC00407,Aster Finance 0407,Wholesale,Wales,21/06/2025,Active,contact00407@exampletelco.co.uk,07734515003
+ACC00408,Vista Logistics 0408,Wholesale,Wales,04/04/2024,Active,contact00408@exampletelco.co.uk,07618738228
+ACC00409,Vista Logistics 0409,Retail,Wales,22/07/2024,Active,contact00409@exampletelco.co.uk,07929741846
+ACC00410,Vista Logistics 0410,SME,West,21/09/2024,Active,contact00410@exampletelco.co.uk,07513116068
+ACC00411,Horizon Health 0411,Consumer,East,10/12/2025,Active,contact00411@exampletelco.co.uk,07893828570
+ACC00412,Aster Telecom 0412,Retail,North,30/07/2025,Active,contact00412@exampletelco.co.uk,07773420958
+ACC00413,Orion Retail 0413,SME,West,16/03/2023,Ceased,contact00413@exampletelco.co.uk,07111586101
+ACC00414,Orion Energy 0414,Retail,North,09/01/2025,Active,contact00414@exampletelco.co.uk,07433509257
+ACC00415,Cedar Telecom 0415,Retail,South,17/01/2025,Active,contact00415@exampletelco.co.uk,07681171506
+ACC00416,Zenith Retail 0416,Retail,Wales,13/12/2024,Active,contact00416@exampletelco.co.uk,07971741671
+ACC00417,Metro Health 0417,SME,Midlands,24/08/2024,Inactive,contact00417@exampletelco.co.uk,07669314948
+ACC00418,Vista Logistics 0418,Wholesale,Scotland,08/02/2024,Active,contact00418@exampletelco.co.uk,07203839640
+ACC00419,Metro Finance 0419,Consumer,South,24/10/2025,Active,contact00419@exampletelco.co.uk,07389394461
+ACC00420,Vista Finance 0420,Public Sector,Midlands,22/12/2023,Active,contact00420@exampletelco.co.uk,07111523221
+ACC00421,Metro Finance 0421,Consumer,South,11/03/2025,Active,contact00421@exampletelco.co.uk,07472605818
+ACC00422,Orion Council 0422,Retail,London,23/07/2025,Active,contact00422@exampletelco.co.uk,07201191514
+ACC00423,Oak Retail 0423,Consumer,West,07/10/2023,Active,contact00423@exampletelco.co.uk,07611297748
+ACC00424,Metro Council 0424,Consumer,South,01/10/2023,Active,contact00424@exampletelco.co.uk,07703552676
+ACC00425,Kaya Telecom 0425,Wholesale,Midlands,20/05/2024,Inactive,contact00425@exampletelco.co.uk,07538113533
+ACC00426,Zenith Logistics 0426,Enterprise,West,23/02/2023,Active,contact00426@exampletelco.co.uk,07519701671
+ACC00427,Kaya Retail 0427,Public Sector,Scotland,16/11/2025,Active,contact00427@exampletelco.co.uk,07429445740
+ACC00428,Metro Logistics 0428,Consumer,Wales,29/09/2025,Active,contact00428@exampletelco.co.uk,07724468663
+ACC00429,Aster Health 0429,Consumer,West,24/07/2023,Active,contact00429@exampletelco.co.uk,07391485159
+ACC00430,Horizon Council 0430,Consumer,West,30/06/2024,Active,contact00430@exampletelco.co.uk,07314102328
+ACC00431,Vista Telecom 0431,Wholesale,South,29/05/2024,Active,contact00431@exampletelco.co.uk,07965187953
+ACC00432,Bluepeak Media 0432,SME,Wales,13/11/2023,Active,contact00432@exampletelco.co.uk,07704167245
+ACC00433,Aster Media 0433,Retail,Wales,19/09/2024,Inactive,contact00433@exampletelco.co.uk,07892301866
+ACC00434,Orion Retail 0434,Retail,East,15/06/2023,Inactive,contact00434@exampletelco.co.uk,07749018546
+ACC00435,Cedar Energy 0435,Retail,Scotland,08/12/2025,Active,contact00435@exampletelco.co.uk,07231768061
+ACC00436,Aster Council 0436,Public Sector,Wales,05/02/2025,Active,contact00436@exampletelco.co.uk,07360117727
+ACC00437,Metro Logistics 0437,Retail,Wales,18/12/2023,Active,contact00437@exampletelco.co.uk,07863066643
+ACC00438,Cedar Retail 0438,Enterprise,Wales,28/05/2024,Inactive,contact00438@exampletelco.co.uk,07772292179
+ACC00439,Aster Council 0439,Enterprise,London,01/09/2024,Ceased,contact00439@exampletelco.co.uk,07244856621
+ACC00440,Bluepeak Retail 0440,SME,South,12/05/2024,Active,contact00440@exampletelco.co.uk,07953439955
+ACC00441,Orion Health 0441,Enterprise,London,10/06/2024,Active,contact00441@exampletelco.co.uk,07886909311
+ACC00442,Kaya Health 0442,Consumer,North,20/10/2024,Active,contact00442@exampletelco.co.uk,07851451618
+ACC00443,Oak Energy 0443,Public Sector,South,13/08/2025,Active,contact00443@exampletelco.co.uk,07981091907
+ACC00444,Cedar Logistics 0444,SME,Midlands,07/01/2023,Active,contact00444@exampletelco.co.uk,07296080605
+ACC00445,Vista Energy 0445,Consumer,East,03/12/2025,Active,contact00445@exampletelco.co.uk,07378772145
+ACC00446,Oak Finance 0446,Public Sector,North,09/05/2025,Active,contact00446@exampletelco.co.uk,07140060177
+ACC00447,Aster Logistics 0447,Retail,London,31/10/2023,Active,contact00447@exampletelco.co.uk,07622699549
+ACC00448,Aster Media 0448,Consumer,East,25/08/2025,Active,contact00448@exampletelco.co.uk,07587919613
+ACC00449,Orion Retail 0449,Retail,Scotland,28/09/2025,Active,contact00449@exampletelco.co.uk,07720335922
+ACC00450,Cedar Energy 0450,Wholesale,South,17/02/2024,Ceased,contact00450@exampletelco.co.uk,07180554370
+ACC00451,Aster Energy 0451,Consumer,North,29/07/2023,Active,contact00451@exampletelco.co.uk,07776925494
+ACC00452,Bluepeak Logistics 0452,Enterprise,Wales,13/04/2023,Active,contact00452@exampletelco.co.uk,07983229247
+ACC00453,Metro Logistics 0453,Wholesale,North,10/08/2023,Inactive,contact00453@exampletelco.co.uk,07714294350
+ACC00454,Oak Logistics 0454,Public Sector,West,11/12/2023,Active,contact00454@exampletelco.co.uk,07240097806
+ACC00455,Vista Retail 0455,Retail,East,09/09/2025,Active,contact00455@exampletelco.co.uk,07530258419
+ACC00456,Horizon Council 0456,Consumer,Wales,07/05/2024,Active,contact00456@exampletelco.co.uk,07121992536
+ACC00457,Bluepeak Energy 0457,Enterprise,South,21/11/2024,Active,contact00457@exampletelco.co.uk,07974605135
+ACC00458,Horizon Health 0458,Retail,Scotland,16/12/2025,Active,contact00458@exampletelco.co.uk,07333088125
+ACC00459,Aster Energy 0459,Wholesale,Scotland,26/11/2025,Inactive,contact00459@exampletelco.co.uk,07808771329
+ACC00460,Bluepeak Logistics 0460,Consumer,East,20/11/2023,Active,contact00460@exampletelco.co.uk,07507506464
+ACC00461,Vista Media 0461,Enterprise,London,13/06/2024,Active,contact00461@exampletelco.co.uk,07184543224
+ACC00462,Bluepeak Telecom 0462,Consumer,West,04/09/2023,Active,contact00462@exampletelco.co.uk,07822588717
+ACC00463,Vista Energy 0463,SME,Midlands,27/02/2025,Active,contact00463@exampletelco.co.uk,07368484516
+ACC00464,Zenith Finance 0464,Wholesale,West,15/07/2024,Ceased,contact00464@exampletelco.co.uk,07792391651
+ACC00465,Cedar Telecom 0465,Consumer,East,22/01/2026,Active,contact00465@exampletelco.co.uk,07142293905
+ACC00466,Zenith Logistics 0466,SME,Midlands,11/04/2023,Active,contact00466@exampletelco.co.uk,07290774779
+ACC00467,Metro Council 0467,Public Sector,Scotland,24/01/2024,Active,contact00467@exampletelco.co.uk,07891009748
+ACC00468,Zenith Telecom 0468,Retail,South,24/02/2026,Active,contact00468@exampletelco.co.uk,07217873663
+ACC00469,Aster Retail 0469,SME,North,23/06/2023,Active,contact00469@exampletelco.co.uk,07500209864
+ACC00470,Kaya Finance 0470,Wholesale,South,20/04/2025,Active,contact00470@exampletelco.co.uk,07480096623
+ACC00471,Aster Finance 0471,Consumer,West,14/05/2024,Active,contact00471@exampletelco.co.uk,07785392533
+ACC00472,Oak Telecom 0472,SME,Wales,09/10/2024,Active,contact00472@exampletelco.co.uk,07190513762
+ACC00473,Vista Telecom 0473,Retail,East,10/10/2025,Active,contact00473@exampletelco.co.uk,07694006334
+ACC00474,Orion Council 0474,SME,London,08/11/2023,Active,contact00474@exampletelco.co.uk,07573586327
+ACC00475,Metro Media 0475,Public Sector,Wales,06/07/2024,Active,contact00475@exampletelco.co.uk,07613780291
+ACC00476,Horizon Finance 0476,Enterprise,North,27/06/2024,Inactive,contact00476@exampletelco.co.uk,07228305962
+ACC00477,Vista Council 0477,Consumer,East,23/02/2026,Ceased,contact00477@exampletelco.co.uk,07834530947
+ACC00478,Oak Finance 0478,Retail,Midlands,16/12/2025,Active,contact00478@exampletelco.co.uk,07471717250
+ACC00479,Orion Council 0479,Wholesale,South,10/04/2023,Active,contact00479@exampletelco.co.uk,07106634846
+ACC00480,Aster Telecom 0480,SME,Wales,17/05/2023,Active,contact00480@exampletelco.co.uk,07424190095
+ACC00481,Vista Energy 0481,Wholesale,East,18/02/2024,Active,contact00481@exampletelco.co.uk,07180733317
+ACC00482,Metro Logistics 0482,Consumer,Scotland,23/08/2024,Active,contact00482@exampletelco.co.uk,07715589439
+ACC00483,Bluepeak Health 0483,SME,South,06/02/2024,Active,contact00483@exampletelco.co.uk,07971692057
+ACC00484,Bluepeak Energy 0484,Retail,North,11/02/2025,Active,contact00484@exampletelco.co.uk,07993396522
+ACC00485,Zenith Energy 0485,Public Sector,Wales,18/09/2024,Active,contact00485@exampletelco.co.uk,07331656085
+ACC00486,Cedar Council 0486,Consumer,West,26/01/2026,Active,contact00486@exampletelco.co.uk,07879779333
+ACC00487,Kaya Telecom 0487,Wholesale,Wales,01/04/2023,Active,contact00487@exampletelco.co.uk,07327941063
+ACC00488,Zenith Retail 0488,SME,Wales,18/02/2023,Active,contact00488@exampletelco.co.uk,07861313607
+ACC00489,Orion Finance 0489,Retail,Wales,15/02/2025,Active,contact00489@exampletelco.co.uk,07866236813
+ACC00490,Oak Health 0490,Consumer,North,30/09/2023,Active,contact00490@exampletelco.co.uk,07207104480
+ACC00491,Bluepeak Finance 0491,Public Sector,Wales,12/07/2025,Active,contact00491@exampletelco.co.uk,07390582696
+ACC00492,Cedar Energy 0492,Wholesale,East,18/05/2025,Active,contact00492@exampletelco.co.uk,07297676482
+ACC00493,Cedar Media 0493,SME,London,02/04/2023,Active,contact00493@exampletelco.co.uk,07590644434
+ACC00494,Zenith Health 0494,Public Sector,South,03/08/2024,Active,contact00494@exampletelco.co.uk,07220980333
+ACC00495,Metro Energy 0495,Public Sector,South,07/01/2024,Active,contact00495@exampletelco.co.uk,07210781390
+ACC00496,Horizon Media 0496,Public Sector,South,25/08/2024,Active,contact00496@exampletelco.co.uk,07525747099
+ACC00497,Horizon Media 0497,Retail,Scotland,03/12/2024,Active,contact00497@exampletelco.co.uk,07369964690
+ACC00498,Zenith Health 0498,Consumer,Wales,04/07/2024,Ceased,contact00498@exampletelco.co.uk,07341794676
+ACC00499,Zenith Telecom 0499,Wholesale,Midlands,07/02/2023,Active,contact00499@exampletelco.co.uk,07392426555
+ACC00500,Aster Telecom 0500,Public Sector,Midlands,18/05/2024,Active,contact00500@exampletelco.co.uk,07160817474
+ACC00501,Kaya Council 0501,Wholesale,East,09/05/2025,Inactive,contact00501@exampletelco.co.uk,07489230735
+ACC00502,Aster Telecom 0502,Retail,Wales,12/06/2025,Active,contact00502@exampletelco.co.uk,07430536405
+ACC00503,Oak Media 0503,SME,North,04/04/2024,Active,contact00503@exampletelco.co.uk,07872509209
+ACC00504,Metro Health 0504,Consumer,South,26/11/2024,Active,contact00504@exampletelco.co.uk,07944085853
+ACC00505,Kaya Finance 0505,Public Sector,Scotland,18/06/2025,Active,contact00505@exampletelco.co.uk,07508029026
+ACC00506,Vista Retail 0506,Enterprise,Wales,27/05/2025,Inactive,contact00506@exampletelco.co.uk,07303707957
+ACC00507,Bluepeak Energy 0507,Consumer,London,05/06/2023,Active,contact00507@exampletelco.co.uk,07750091869
+ACC00508,Metro Telecom 0508,Retail,North,11/09/2023,Active,contact00508@exampletelco.co.uk,07829830556
+ACC00509,Zenith Council 0509,Wholesale,London,18/03/2025,Active,contact00509@exampletelco.co.uk,07886962865
+ACC00510,Vista Retail 0510,SME,East,01/08/2024,Inactive,contact00510@exampletelco.co.uk,07251417611
+ACC00511,Orion Logistics 0511,Public Sector,Midlands,28/12/2023,Active,contact00511@exampletelco.co.uk,07353119512
+ACC00512,Kaya Retail 0512,SME,North,29/06/2025,Active,contact00512@exampletelco.co.uk,07194803520
+ACC00513,Vista Retail 0513,SME,East,05/04/2023,Active,contact00513@exampletelco.co.uk,07991969184
+ACC00514,Horizon Health 0514,Consumer,South,31/12/2025,Inactive,contact00514@exampletelco.co.uk,07211555331
+ACC00515,Orion Council 0515,Retail,London,28/09/2023,Active,contact00515@exampletelco.co.uk,07411345572
+ACC00516,Oak Retail 0516,Public Sector,Scotland,08/09/2023,Ceased,contact00516@exampletelco.co.uk,07730360717
+ACC00517,Kaya Energy 0517,Public Sector,Wales,17/11/2025,Active,contact00517@exampletelco.co.uk,07739547456
+ACC00518,Horizon Council 0518,Wholesale,East,01/03/2024,Ceased,contact00518@exampletelco.co.uk,07256664190
+ACC00519,Zenith Energy 0519,Retail,Wales,23/03/2025,Active,contact00519@exampletelco.co.uk,07799370147
+ACC00520,Vista Media 0520,Enterprise,London,28/07/2024,Active,contact00520@exampletelco.co.uk,07494148074
+ACC00521,Vista Media 0521,Wholesale,Wales,23/09/2025,Inactive,contact00521@exampletelco.co.uk,07604663662
+ACC00522,Horizon Health 0522,SME,Midlands,07/01/2024,Active,contact00522@exampletelco.co.uk,07629060865
+ACC00523,Oak Retail 0523,Consumer,Midlands,20/02/2024,Active,contact00523@exampletelco.co.uk,07574421181
+ACC00524,Orion Health 0524,Wholesale,London,05/12/2024,Active,contact00524@exampletelco.co.uk,07890325504
+ACC00525,Horizon Retail 0525,Wholesale,Scotland,09/09/2023,Active,contact00525@exampletelco.co.uk,07185758197
+ACC00526,Metro Health 0526,Retail,Wales,13/06/2024,Active,contact00526@exampletelco.co.uk,07366969439
+ACC00527,Aster Energy 0527,SME,West,16/10/2023,Ceased,contact00527@exampletelco.co.uk,07314157014
+ACC00528,Aster Telecom 0528,Public Sector,Midlands,14/10/2023,Active,contact00528@exampletelco.co.uk,07439234600
+ACC00529,Vista Telecom 0529,Consumer,Midlands,02/11/2025,Active,contact00529@exampletelco.co.uk,07329111427
+ACC00530,Kaya Retail 0530,Wholesale,Wales,15/08/2024,Active,contact00530@exampletelco.co.uk,07951705676
+ACC00531,Horizon Logistics 0531,SME,North,26/05/2025,Active,contact00531@exampletelco.co.uk,07400551940
+ACC00532,Zenith Telecom 0532,Consumer,West,24/04/2025,Active,contact00532@exampletelco.co.uk,07642376073
+ACC00533,Aster Retail 0533,Enterprise,East,23/07/2023,Active,contact00533@exampletelco.co.uk,07788481646
+ACC00534,Oak Logistics 0534,SME,South,24/11/2025,Active,contact00534@exampletelco.co.uk,07782116838
+ACC00535,Horizon Media 0535,Consumer,South,27/02/2024,Active,contact00535@exampletelco.co.uk,07141853558
+ACC00536,Cedar Energy 0536,Wholesale,North,11/03/2023,Inactive,contact00536@exampletelco.co.uk,07718057916
+ACC00537,Kaya Health 0537,Retail,Wales,05/01/2024,Inactive,contact00537@exampletelco.co.uk,07513751349
+ACC00538,Horizon Telecom 0538,Retail,West,13/04/2025,Active,contact00538@exampletelco.co.uk,07655163112
+ACC00539,Bluepeak Telecom 0539,Retail,Scotland,22/07/2023,Ceased,contact00539@exampletelco.co.uk,07802614514
+ACC00540,Bluepeak Telecom 0540,Wholesale,Midlands,08/09/2025,Active,contact00540@exampletelco.co.uk,07236434117
+ACC00541,Kaya Finance 0541,Wholesale,North,02/06/2023,Active,contact00541@exampletelco.co.uk,07627696426
+ACC00542,Metro Energy 0542,Consumer,West,11/04/2025,Active,contact00542@exampletelco.co.uk,07203653301
+ACC00543,Kaya Media 0543,SME,Wales,26/04/2024,Active,contact00543@exampletelco.co.uk,07730464750
+ACC00544,Cedar Media 0544,Public Sector,South,21/03/2025,Active,contact00544@exampletelco.co.uk,07444964808
+ACC00545,Orion Energy 0545,Consumer,Scotland,09/11/2023,Inactive,contact00545@exampletelco.co.uk,07213741746
+ACC00546,Cedar Media 0546,Enterprise,Midlands,30/06/2024,Active,contact00546@exampletelco.co.uk,07471475929
+ACC00547,Bluepeak Telecom 0547,Public Sector,Scotland,19/01/2025,Active,contact00547@exampletelco.co.uk,07695950544
+ACC00548,Horizon Retail 0548,Wholesale,London,12/05/2025,Active,contact00548@exampletelco.co.uk,07339751216
+ACC00549,Vista Telecom 0549,Wholesale,South,16/12/2025,Active,contact00549@exampletelco.co.uk,07229456397
+ACC00550,Bluepeak Retail 0550,Consumer,North,04/01/2026,Active,contact00550@exampletelco.co.uk,07715338834
+ACC00551,Zenith Health 0551,Enterprise,West,19/11/2023,Active,contact00551@exampletelco.co.uk,07374083139
+ACC00552,Cedar Finance 0552,Public Sector,North,26/10/2024,Inactive,contact00552@exampletelco.co.uk,07391008652
+ACC00553,Aster Health 0553,Consumer,South,19/05/2025,Active,contact00553@exampletelco.co.uk,07793128139
+ACC00554,Bluepeak Health 0554,Retail,East,02/04/2024,Ceased,contact00554@exampletelco.co.uk,07599989965
+ACC00555,Aster Logistics 0555,SME,North,12/01/2026,Active,contact00555@exampletelco.co.uk,07184866018
+ACC00556,Oak Retail 0556,Retail,London,09/12/2024,Active,contact00556@exampletelco.co.uk,07484801758
+ACC00557,Horizon Telecom 0557,Enterprise,Midlands,26/03/2025,Active,contact00557@exampletelco.co.uk,07561949973
+ACC00558,Kaya Telecom 0558,Retail,East,17/04/2024,Active,contact00558@exampletelco.co.uk,07785702907
+ACC00559,Kaya Retail 0559,Retail,West,09/02/2025,Active,contact00559@exampletelco.co.uk,07927560874
+ACC00560,Kaya Finance 0560,Enterprise,Wales,09/12/2025,Active,contact00560@exampletelco.co.uk,07453221813
+ACC00561,Aster Finance 0561,Public Sector,Wales,21/08/2025,Active,contact00561@exampletelco.co.uk,07393412659
+ACC00562,Bluepeak Council 0562,Public Sector,Scotland,26/12/2023,Ceased,contact00562@exampletelco.co.uk,07909968635
+ACC00563,Kaya Telecom 0563,Public Sector,London,08/08/2024,Active,contact00563@exampletelco.co.uk,07506360809
+ACC00564,Bluepeak Health 0564,Retail,Scotland,03/03/2023,Active,contact00564@exampletelco.co.uk,07563787375
+ACC00565,Zenith Retail 0565,Public Sector,South,17/11/2025,Active,contact00565@exampletelco.co.uk,07118282626
+ACC00566,Zenith Logistics 0566,Public Sector,London,19/05/2023,Active,contact00566@exampletelco.co.uk,07956664302
+ACC00567,Horizon Media 0567,Consumer,London,13/02/2023,Active,contact00567@exampletelco.co.uk,07666674499
+ACC00568,Oak Logistics 0568,SME,North,08/03/2025,Active,contact00568@exampletelco.co.uk,07495711273
+ACC00569,Vista Energy 0569,SME,Midlands,24/08/2025,Active,contact00569@exampletelco.co.uk,07534505071
+ACC00570,Kaya Energy 0570,Consumer,West,28/01/2026,Inactive,contact00570@exampletelco.co.uk,07624615099
+ACC00571,Vista Council 0571,Wholesale,South,01/06/2025,Active,contact00571@exampletelco.co.uk,07521492246
+ACC00572,Kaya Finance 0572,Public Sector,West,17/01/2025,Active,contact00572@exampletelco.co.uk,07623083066
+ACC00573,Orion Media 0573,SME,South,18/01/2024,Active,contact00573@exampletelco.co.uk,07713708799
+ACC00574,Aster Finance 0574,Public Sector,Midlands,26/07/2024,Active,contact00574@exampletelco.co.uk,07198955626
+ACC00575,Vista Media 0575,Retail,Midlands,05/12/2025,Active,contact00575@exampletelco.co.uk,07697990571
+ACC00576,Oak Council 0576,Consumer,North,31/07/2023,Active,contact00576@exampletelco.co.uk,07180889713
+ACC00577,Metro Finance 0577,Wholesale,London,19/05/2024,Active,contact00577@exampletelco.co.uk,07321172382
+ACC00578,Kaya Health 0578,SME,Scotland,08/04/2023,Active,contact00578@exampletelco.co.uk,07457536243
+ACC00579,Kaya Council 0579,SME,Wales,14/11/2023,Active,contact00579@exampletelco.co.uk,07832226313
+ACC00580,Zenith Health 0580,Public Sector,Wales,05/03/2023,Active,contact00580@exampletelco.co.uk,07421321362
+ACC00581,Horizon Health 0581,SME,East,23/10/2023,Active,contact00581@exampletelco.co.uk,07315445119
+ACC00582,Aster Finance 0582,Enterprise,Wales,31/07/2023,Active,contact00582@exampletelco.co.uk,07882541715
+ACC00583,Kaya Finance 0583,Retail,Wales,28/02/2024,Inactive,contact00583@exampletelco.co.uk,07525517398
+ACC00584,Horizon Logistics 0584,SME,Wales,22/02/2024,Active,contact00584@exampletelco.co.uk,07424219978
+ACC00585,Bluepeak Media 0585,Enterprise,Midlands,27/12/2024,Active,contact00585@exampletelco.co.uk,07498451817
+ACC00586,Kaya Energy 0586,Retail,Wales,14/03/2025,Active,contact00586@exampletelco.co.uk,07693787764
+ACC00587,Metro Health 0587,Retail,North,13/11/2025,Inactive,contact00587@exampletelco.co.uk,07365566354
+ACC00588,Orion Logistics 0588,Consumer,East,16/01/2025,Inactive,contact00588@exampletelco.co.uk,07975580964
+ACC00589,Aster Council 0589,SME,South,06/10/2024,Ceased,contact00589@exampletelco.co.uk,07134432772
+ACC00590,Bluepeak Media 0590,Consumer,South,01/02/2026,Active,contact00590@exampletelco.co.uk,07902603830
+ACC00591,Zenith Health 0591,Retail,Scotland,25/06/2023,Active,contact00591@exampletelco.co.uk,07462549591
+ACC00592,Horizon Energy 0592,Public Sector,South,26/11/2025,Active,contact00592@exampletelco.co.uk,07805982126
+ACC00593,Vista Logistics 0593,Retail,Scotland,03/02/2023,Active,contact00593@exampletelco.co.uk,07598740410
+ACC00594,Oak Health 0594,Enterprise,Midlands,31/10/2024,Active,contact00594@exampletelco.co.uk,07899705921
+ACC00595,Cedar Health 0595,Wholesale,Wales,14/11/2025,Active,contact00595@exampletelco.co.uk,07911324976
+ACC00596,Orion Telecom 0596,SME,South,12/04/2024,Active,contact00596@exampletelco.co.uk,07886721645
+ACC00597,Vista Council 0597,Public Sector,South,03/05/2023,Active,contact00597@exampletelco.co.uk,07271911661
+ACC00598,Orion Energy 0598,Retail,South,07/10/2025,Ceased,contact00598@exampletelco.co.uk,07823053274
+ACC00599,Metro Health 0599,Public Sector,Midlands,26/04/2024,Inactive,contact00599@exampletelco.co.uk,07130023015
+ACC00600,Kaya Retail 0600,Retail,North,20/01/2024,Active,contact00600@exampletelco.co.uk,07373208448
+ACC00601,Aster Health 0601,Wholesale,North,23/12/2023,Active,contact00601@exampletelco.co.uk,07330211102
+ACC00602,Horizon Energy 0602,SME,Wales,18/08/2024,Active,contact00602@exampletelco.co.uk,07649227319
+ACC00603,Bluepeak Council 0603,SME,North,26/06/2024,Active,contact00603@exampletelco.co.uk,07498998979
+ACC00604,Kaya Telecom 0604,Consumer,Midlands,06/09/2025,Ceased,contact00604@exampletelco.co.uk,07132977057
+ACC00605,Kaya Health 0605,Retail,North,23/09/2024,Active,contact00605@exampletelco.co.uk,07504635603
+ACC00606,Aster Media 0606,Enterprise,West,03/10/2025,Active,contact00606@exampletelco.co.uk,07238994347
+ACC00607,Oak Energy 0607,Retail,South,12/04/2023,Active,contact00607@exampletelco.co.uk,07825796553
+ACC00608,Vista Logistics 0608,SME,South,02/09/2024,Inactive,contact00608@exampletelco.co.uk,07825181845
+ACC00609,Horizon Energy 0609,Wholesale,West,21/06/2025,Inactive,contact00609@exampletelco.co.uk,07775908713
+ACC00610,Zenith Telecom 0610,Retail,South,14/07/2025,Active,contact00610@exampletelco.co.uk,07682348627
+ACC00611,Metro Media 0611,Retail,West,20/09/2025,Active,contact00611@exampletelco.co.uk,07813981789
+ACC00612,Metro Logistics 0612,Wholesale,Scotland,17/05/2024,Active,contact00612@exampletelco.co.uk,07857869507
+ACC00613,Orion Logistics 0613,SME,North,16/04/2024,Active,contact00613@exampletelco.co.uk,07119752956
+ACC00614,Metro Retail 0614,Retail,West,03/05/2024,Active,contact00614@exampletelco.co.uk,07585459901
+ACC00615,Cedar Council 0615,Retail,West,25/01/2024,Active,contact00615@exampletelco.co.uk,07352370982
+ACC00616,Bluepeak Finance 0616,Retail,South,17/10/2023,Active,contact00616@exampletelco.co.uk,07319256043
+ACC00617,Orion Council 0617,Public Sector,North,20/06/2023,Active,contact00617@exampletelco.co.uk,07242383393
+ACC00618,Kaya Telecom 0618,SME,Midlands,22/09/2024,Active,contact00618@exampletelco.co.uk,07860772620
+ACC00619,Cedar Health 0619,Consumer,Midlands,25/08/2024,Ceased,contact00619@exampletelco.co.uk,07734541498
+ACC00620,Zenith Finance 0620,Consumer,London,28/07/2025,Active,contact00620@exampletelco.co.uk,07460621267
+ACC00621,Oak Retail 0621,Enterprise,Scotland,04/04/2025,Active,contact00621@exampletelco.co.uk,07654009876
+ACC00622,Zenith Retail 0622,Retail,West,04/05/2024,Active,contact00622@exampletelco.co.uk,07769536357
+ACC00623,Orion Council 0623,Consumer,South,07/02/2026,Active,contact00623@exampletelco.co.uk,07892640225
+ACC00624,Kaya Finance 0624,Enterprise,North,28/06/2025,Active,contact00624@exampletelco.co.uk,07143240268
+ACC00625,Zenith Logistics 0625,Wholesale,London,29/09/2025,Active,contact00625@exampletelco.co.uk,07896380532
+ACC00626,Aster Media 0626,Enterprise,North,18/05/2023,Active,contact00626@exampletelco.co.uk,07981477961
+ACC00627,Horizon Finance 0627,SME,Midlands,25/03/2025,Active,contact00627@exampletelco.co.uk,07508131975
+ACC00628,Oak Telecom 0628,Consumer,East,25/03/2024,Active,contact00628@exampletelco.co.uk,07561302292
+ACC00629,Orion Energy 0629,Wholesale,Scotland,19/02/2025,Ceased,contact00629@exampletelco.co.uk,07689955386
+ACC00630,Orion Retail 0630,Consumer,West,18/04/2023,Ceased,contact00630@exampletelco.co.uk,07590285788
+ACC00631,Horizon Logistics 0631,Enterprise,South,27/04/2024,Active,contact00631@exampletelco.co.uk,07994464276
+ACC00632,Horizon Media 0632,Enterprise,London,04/10/2023,Active,contact00632@exampletelco.co.uk,07605158839
+ACC00633,Metro Energy 0633,Wholesale,East,19/01/2024,Active,contact00633@exampletelco.co.uk,07837521092
+ACC00634,Oak Logistics 0634,Wholesale,West,16/07/2025,Active,contact00634@exampletelco.co.uk,07869795101
+ACC00635,Vista Council 0635,Consumer,Midlands,10/03/2024,Active,contact00635@exampletelco.co.uk,07774193228
+ACC00636,Zenith Retail 0636,Public Sector,Scotland,20/02/2023,Active,contact00636@exampletelco.co.uk,07617371588
+ACC00637,Bluepeak Energy 0637,SME,London,06/02/2025,Ceased,contact00637@exampletelco.co.uk,07123811179
+ACC00638,Zenith Media 0638,Retail,Midlands,19/08/2025,Inactive,contact00638@exampletelco.co.uk,07207434083
+ACC00639,Zenith Media 0639,Consumer,North,27/01/2026,Active,contact00639@exampletelco.co.uk,07174445593
+ACC00640,Cedar Health 0640,Public Sector,North,30/12/2025,Active,contact00640@exampletelco.co.uk,07727748914
+ACC00641,Horizon Retail 0641,SME,Wales,15/01/2023,Active,contact00641@exampletelco.co.uk,07243829559
+ACC00642,Orion Council 0642,Enterprise,South,13/08/2023,Active,contact00642@exampletelco.co.uk,07238146671
+ACC00643,Cedar Council 0643,SME,East,29/06/2023,Active,contact00643@exampletelco.co.uk,07395016387
+ACC00644,Horizon Media 0644,SME,Wales,23/03/2025,Active,contact00644@exampletelco.co.uk,07382343467
+ACC00645,Orion Logistics 0645,Retail,North,18/07/2023,Active,contact00645@exampletelco.co.uk,07469169502
+ACC00646,Cedar Health 0646,Wholesale,North,02/07/2025,Active,contact00646@exampletelco.co.uk,07754250995
+ACC00647,Orion Energy 0647,Public Sector,West,22/07/2024,Active,contact00647@exampletelco.co.uk,07278071715
+ACC00648,Horizon Media 0648,Retail,North,04/01/2026,Active,contact00648@exampletelco.co.uk,07518888061
+ACC00649,Metro Logistics 0649,SME,East,16/05/2023,Active,contact00649@exampletelco.co.uk,07460711436
+ACC00650,Orion Retail 0650,Enterprise,Wales,22/02/2025,Active,contact00650@exampletelco.co.uk,07552479782
+ACC00651,Horizon Logistics 0651,Retail,North,11/01/2025,Active,contact00651@exampletelco.co.uk,07862485808
+ACC00652,Orion Finance 0652,Public Sector,East,25/02/2025,Active,contact00652@exampletelco.co.uk,07222796435
+ACC00653,Vista Health 0653,Retail,South,01/07/2024,Active,contact00653@exampletelco.co.uk,07432466419
+ACC00654,Kaya Logistics 0654,Wholesale,Wales,06/02/2025,Active,contact00654@exampletelco.co.uk,07849400378
+ACC00655,Horizon Finance 0655,SME,Scotland,28/07/2024,Active,contact00655@exampletelco.co.uk,07881862304
+ACC00656,Aster Telecom 0656,Wholesale,London,26/05/2025,Active,contact00656@exampletelco.co.uk,07216125551
+ACC00657,Oak Media 0657,Public Sector,East,29/01/2023,Active,contact00657@exampletelco.co.uk,07597064694
+ACC00658,Metro Media 0658,Enterprise,London,05/12/2023,Inactive,contact00658@exampletelco.co.uk,07887753984
+ACC00659,Horizon Telecom 0659,SME,North,17/02/2025,Active,contact00659@exampletelco.co.uk,07219263596
+ACC00660,Aster Health 0660,Public Sector,South,17/09/2025,Active,contact00660@exampletelco.co.uk,07186633111
+ACC00661,Metro Logistics 0661,Enterprise,Scotland,04/10/2023,Inactive,contact00661@exampletelco.co.uk,07882133009
+ACC00662,Cedar Media 0662,Retail,West,10/08/2025,Active,contact00662@exampletelco.co.uk,07393267816
+ACC00663,Bluepeak Energy 0663,Wholesale,London,17/11/2023,Active,contact00663@exampletelco.co.uk,07491553911
+ACC00664,Oak Media 0664,Consumer,North,11/04/2023,Inactive,contact00664@exampletelco.co.uk,07307588289
+ACC00665,Orion Council 0665,Consumer,South,23/01/2024,Active,contact00665@exampletelco.co.uk,07141040986
+ACC00666,Metro Telecom 0666,Public Sector,Midlands,17/12/2023,Active,contact00666@exampletelco.co.uk,07889102316
+ACC00667,Vista Logistics 0667,Wholesale,Midlands,10/02/2024,Active,contact00667@exampletelco.co.uk,07231187094
+ACC00668,Zenith Health 0668,Wholesale,Wales,18/08/2024,Active,contact00668@exampletelco.co.uk,07101171713
+ACC00669,Horizon Telecom 0669,Retail,London,26/11/2024,Active,contact00669@exampletelco.co.uk,07473285164
+ACC00670,Metro Retail 0670,Retail,Wales,23/04/2025,Inactive,contact00670@exampletelco.co.uk,07281804867
+ACC00671,Horizon Media 0671,Enterprise,Scotland,30/05/2025,Active,contact00671@exampletelco.co.uk,07485534312
+ACC00672,Kaya Health 0672,SME,Wales,20/04/2023,Active,contact00672@exampletelco.co.uk,07818075407
+ACC00673,Zenith Media 0673,Retail,Wales,29/04/2024,Active,contact00673@exampletelco.co.uk,07807340415
+ACC00674,Oak Logistics 0674,SME,Midlands,28/09/2025,Active,contact00674@exampletelco.co.uk,07259703360
+ACC00675,Kaya Media 0675,Public Sector,East,01/12/2023,Active,contact00675@exampletelco.co.uk,07837151918
+ACC00676,Oak Media 0676,Consumer,Midlands,19/07/2023,Active,contact00676@exampletelco.co.uk,07363127550
+ACC00677,Cedar Finance 0677,Public Sector,Wales,13/10/2023,Active,contact00677@exampletelco.co.uk,07966088671
+ACC00678,Kaya Council 0678,Consumer,North,20/07/2024,Active,contact00678@exampletelco.co.uk,07422560565
+ACC00679,Orion Energy 0679,Wholesale,Scotland,09/03/2024,Active,contact00679@exampletelco.co.uk,07390530902
+ACC00680,Kaya Media 0680,Wholesale,Scotland,26/09/2024,Active,contact00680@exampletelco.co.uk,07582151650
+ACC00681,Aster Council 0681,Retail,Midlands,25/08/2025,Active,contact00681@exampletelco.co.uk,07753187562
+ACC00682,Cedar Telecom 0682,Enterprise,London,01/06/2024,Active,contact00682@exampletelco.co.uk,07635765528
+ACC00683,Cedar Energy 0683,Enterprise,North,06/02/2025,Active,contact00683@exampletelco.co.uk,07294419254
+ACC00684,Orion Council 0684,Retail,West,28/03/2024,Active,contact00684@exampletelco.co.uk,07358328942
+ACC00685,Bluepeak Media 0685,Consumer,London,10/10/2025,Inactive,contact00685@exampletelco.co.uk,07106441933
+ACC00686,Kaya Media 0686,SME,East,13/11/2023,Active,contact00686@exampletelco.co.uk,07222335150
+ACC00687,Vista Logistics 0687,Consumer,Scotland,11/09/2024,Active,contact00687@exampletelco.co.uk,07379619895
+ACC00688,Metro Energy 0688,Enterprise,North,22/07/2023,Ceased,contact00688@exampletelco.co.uk,07533297937
+ACC00689,Metro Logistics 0689,Wholesale,London,23/05/2025,Active,contact00689@exampletelco.co.uk,07972592930
+ACC00690,Aster Council 0690,Wholesale,East,17/06/2024,Active,contact00690@exampletelco.co.uk,07664803995
+ACC00691,Horizon Logistics 0691,Enterprise,East,24/11/2025,Active,contact00691@exampletelco.co.uk,07941747382
+ACC00692,Vista Telecom 0692,Public Sector,Scotland,09/12/2023,Active,contact00692@exampletelco.co.uk,07297922811
+ACC00693,Zenith Media 0693,Wholesale,West,25/12/2025,Ceased,contact00693@exampletelco.co.uk,07104646415
+ACC00694,Cedar Finance 0694,SME,Scotland,06/11/2024,Active,contact00694@exampletelco.co.uk,07551491052
+ACC00695,Zenith Logistics 0695,SME,East,07/03/2024,Active,contact00695@exampletelco.co.uk,07394871622
+ACC00696,Cedar Telecom 0696,Wholesale,East,01/11/2023,Active,contact00696@exampletelco.co.uk,07374981268
+ACC00697,Orion Energy 0697,SME,East,11/06/2024,Active,contact00697@exampletelco.co.uk,07627933135
+ACC00698,Horizon Media 0698,Wholesale,Midlands,22/05/2024,Active,contact00698@exampletelco.co.uk,07233028662
+ACC00699,Vista Telecom 0699,Public Sector,North,26/11/2024,Active,contact00699@exampletelco.co.uk,07421752894
+ACC00700,Bluepeak Telecom 0700,Retail,North,05/08/2025,Active,contact00700@exampletelco.co.uk,07859860570
+ACC00701,Orion Council 0701,Enterprise,Midlands,19/08/2024,Inactive,contact00701@exampletelco.co.uk,07546956762
+ACC00702,Horizon Energy 0702,SME,Wales,24/11/2023,Active,contact00702@exampletelco.co.uk,07797486852
+ACC00703,Bluepeak Retail 0703,Retail,Midlands,25/11/2023,Active,contact00703@exampletelco.co.uk,07795936315
+ACC00704,Horizon Media 0704,Enterprise,Midlands,02/01/2026,Active,contact00704@exampletelco.co.uk,07101287788
+ACC00705,Bluepeak Logistics 0705,Wholesale,Wales,13/02/2023,Ceased,contact00705@exampletelco.co.uk,07673678944
+ACC00706,Oak Logistics 0706,SME,North,30/04/2023,Active,contact00706@exampletelco.co.uk,07181997636
+ACC00707,Aster Logistics 0707,Retail,South,02/08/2023,Active,contact00707@exampletelco.co.uk,07835791807
+ACC00708,Zenith Finance 0708,Retail,Scotland,18/03/2024,Active,contact00708@exampletelco.co.uk,07674996826
+ACC00709,Horizon Retail 0709,Public Sector,Scotland,02/01/2024,Active,contact00709@exampletelco.co.uk,07522756865
+ACC00710,Bluepeak Media 0710,Retail,West,24/01/2023,Active,contact00710@exampletelco.co.uk,07580078000
+ACC00711,Horizon Energy 0711,Enterprise,East,16/08/2025,Ceased,contact00711@exampletelco.co.uk,07389188857
+ACC00712,Bluepeak Council 0712,Public Sector,North,29/06/2025,Active,contact00712@exampletelco.co.uk,07131363896
+ACC00713,Aster Finance 0713,Enterprise,Midlands,16/05/2025,Ceased,contact00713@exampletelco.co.uk,07848149908
+ACC00714,Oak Media 0714,Enterprise,North,15/10/2025,Active,contact00714@exampletelco.co.uk,07412241960
+ACC00715,Cedar Logistics 0715,SME,Midlands,12/07/2025,Active,contact00715@exampletelco.co.uk,07698586117
+ACC00716,Cedar Media 0716,Consumer,London,16/11/2023,Active,contact00716@exampletelco.co.uk,07564476120
+ACC00717,Zenith Energy 0717,Public Sector,London,13/07/2024,Active,contact00717@exampletelco.co.uk,07205319534
+ACC00718,Zenith Telecom 0718,Consumer,West,12/11/2024,Active,contact00718@exampletelco.co.uk,07854044289
+ACC00719,Metro Media 0719,Retail,South,24/11/2025,Active,contact00719@exampletelco.co.uk,07358487310
+ACC00720,Zenith Council 0720,Enterprise,East,23/03/2025,Active,contact00720@exampletelco.co.uk,07215550211
+ACC00721,Cedar Logistics 0721,Wholesale,South,03/08/2023,Active,contact00721@exampletelco.co.uk,07220104436
+ACC00722,Oak Health 0722,Enterprise,London,17/01/2026,Active,contact00722@exampletelco.co.uk,07191174497
+ACC00723,Horizon Council 0723,Wholesale,North,16/07/2024,Active,contact00723@exampletelco.co.uk,07938163328
+ACC00724,Oak Finance 0724,Public Sector,Scotland,11/04/2023,Active,contact00724@exampletelco.co.uk,07558788326
+ACC00725,Oak Energy 0725,Wholesale,Wales,23/12/2025,Active,contact00725@exampletelco.co.uk,07829100805
+ACC00726,Orion Media 0726,SME,North,30/05/2024,Active,contact00726@exampletelco.co.uk,07899202093
+ACC00727,Orion Retail 0727,Wholesale,Midlands,27/11/2025,Inactive,contact00727@exampletelco.co.uk,07258670233
+ACC00728,Oak Logistics 0728,Wholesale,London,01/03/2023,Active,contact00728@exampletelco.co.uk,07404189680
+ACC00729,Bluepeak Media 0729,Retail,Wales,19/10/2023,Active,contact00729@exampletelco.co.uk,07824755383
+ACC00730,Oak Finance 0730,Public Sector,Wales,06/11/2023,Active,contact00730@exampletelco.co.uk,07649812367
+ACC00731,Horizon Media 0731,Retail,Midlands,13/05/2025,Active,contact00731@exampletelco.co.uk,07808434374
+ACC00732,Vista Council 0732,Enterprise,South,19/02/2025,Active,contact00732@exampletelco.co.uk,07785751475
+ACC00733,Horizon Council 0733,SME,North,12/04/2023,Active,contact00733@exampletelco.co.uk,07133651698
+ACC00734,Aster Health 0734,SME,Wales,22/05/2024,Active,contact00734@exampletelco.co.uk,07483279911
+ACC00735,Metro Health 0735,Wholesale,Wales,13/07/2023,Active,contact00735@exampletelco.co.uk,07467076902
+ACC00736,Bluepeak Retail 0736,Public Sector,London,03/04/2023,Active,contact00736@exampletelco.co.uk,07662304979
+ACC00737,Horizon Energy 0737,SME,South,01/07/2023,Active,contact00737@exampletelco.co.uk,07669598269
+ACC00738,Kaya Finance 0738,Enterprise,Scotland,19/12/2025,Active,contact00738@exampletelco.co.uk,07166599213
+ACC00739,Bluepeak Energy 0739,Consumer,South,28/01/2026,Active,contact00739@exampletelco.co.uk,07561508833
+ACC00740,Vista Health 0740,Retail,East,23/05/2023,Ceased,contact00740@exampletelco.co.uk,07969570052
+ACC00741,Orion Health 0741,SME,South,16/11/2023,Active,contact00741@exampletelco.co.uk,07672731037
+ACC00742,Kaya Finance 0742,Enterprise,Scotland,14/01/2025,Active,contact00742@exampletelco.co.uk,07827751109
+ACC00743,Metro Health 0743,Public Sector,North,10/02/2024,Active,contact00743@exampletelco.co.uk,07818442607
+ACC00744,Cedar Council 0744,Enterprise,Wales,10/06/2025,Active,contact00744@exampletelco.co.uk,07223830416
+ACC00745,Oak Energy 0745,Public Sector,West,20/07/2023,Active,contact00745@exampletelco.co.uk,07444236532
+ACC00746,Zenith Logistics 0746,Public Sector,North,05/08/2025,Ceased,contact00746@exampletelco.co.uk,07955948389
+ACC00747,Zenith Energy 0747,Public Sector,East,11/07/2025,Active,contact00747@exampletelco.co.uk,07237654657
+ACC00748,Vista Logistics 0748,SME,Midlands,13/03/2023,Active,contact00748@exampletelco.co.uk,07301890383
+ACC00749,Bluepeak Council 0749,SME,South,02/11/2024,Active,contact00749@exampletelco.co.uk,07145761540
+ACC00750,Bluepeak Council 0750,Public Sector,North,10/11/2025,Active,contact00750@exampletelco.co.uk,07717151848
+ACC00751,Bluepeak Media 0751,SME,South,15/07/2025,Inactive,contact00751@exampletelco.co.uk,07857014307
+ACC00752,Cedar Retail 0752,Public Sector,Scotland,25/09/2025,Active,contact00752@exampletelco.co.uk,07323712898
+ACC00753,Bluepeak Logistics 0753,Public Sector,Wales,26/03/2024,Active,contact00753@exampletelco.co.uk,07188373171
+ACC00754,Horizon Energy 0754,Consumer,Wales,10/05/2025,Active,contact00754@exampletelco.co.uk,07539469226
+ACC00755,Bluepeak Council 0755,SME,North,30/03/2023,Active,contact00755@exampletelco.co.uk,07397450097
+ACC00756,Oak Energy 0756,Public Sector,West,28/11/2025,Active,contact00756@exampletelco.co.uk,07439555398
+ACC00757,Zenith Health 0757,Retail,Midlands,29/02/2024,Active,contact00757@exampletelco.co.uk,07860947061
+ACC00758,Oak Media 0758,SME,London,19/02/2025,Active,contact00758@exampletelco.co.uk,07145564361
+ACC00759,Cedar Logistics 0759,SME,West,25/01/2025,Active,contact00759@exampletelco.co.uk,07784871250
+ACC00760,Zenith Energy 0760,Consumer,London,12/09/2024,Active,contact00760@exampletelco.co.uk,07853414533
+ACC00761,Cedar Logistics 0761,Enterprise,West,18/08/2024,Ceased,contact00761@exampletelco.co.uk,07648985663
+ACC00762,Vista Health 0762,Retail,North,25/01/2024,Active,contact00762@exampletelco.co.uk,07536332585
+ACC00763,Zenith Finance 0763,Wholesale,Wales,22/06/2025,Active,contact00763@exampletelco.co.uk,07949353543
+ACC00764,Horizon Health 0764,Enterprise,London,09/02/2025,Active,contact00764@exampletelco.co.uk,07906244649
+ACC00765,Vista Health 0765,Consumer,Scotland,23/07/2023,Active,contact00765@exampletelco.co.uk,07652926613
+ACC00766,Oak Retail 0766,Public Sector,West,14/08/2025,Active,contact00766@exampletelco.co.uk,07402140445
+ACC00767,Zenith Council 0767,Public Sector,London,16/07/2023,Active,contact00767@exampletelco.co.uk,07734319152
+ACC00768,Bluepeak Retail 0768,Public Sector,East,15/01/2023,Active,contact00768@exampletelco.co.uk,07486178207
+ACC00769,Aster Finance 0769,Wholesale,West,13/04/2025,Active,contact00769@exampletelco.co.uk,07154253109
+ACC00770,Vista Finance 0770,Consumer,Midlands,10/03/2024,Active,contact00770@exampletelco.co.uk,07654059178
+ACC00771,Vista Media 0771,Consumer,North,17/05/2025,Active,contact00771@exampletelco.co.uk,07895615163
+ACC00772,Orion Media 0772,Wholesale,South,03/04/2023,Active,contact00772@exampletelco.co.uk,07875506370
+ACC00773,Oak Media 0773,SME,Wales,06/07/2024,Active,contact00773@exampletelco.co.uk,07233880741
+ACC00774,Kaya Retail 0774,Consumer,Wales,01/10/2024,Active,contact00774@exampletelco.co.uk,07695349955
+ACC00775,Bluepeak Energy 0775,Retail,North,11/02/2024,Active,contact00775@exampletelco.co.uk,07599308605
+ACC00776,Aster Retail 0776,Wholesale,Midlands,17/12/2025,Active,contact00776@exampletelco.co.uk,07964448569
+ACC00777,Aster Health 0777,Consumer,West,20/11/2025,Active,contact00777@exampletelco.co.uk,07770874004
+ACC00778,Horizon Telecom 0778,Wholesale,London,18/01/2026,Ceased,contact00778@exampletelco.co.uk,07698850202
+ACC00779,Horizon Health 0779,Wholesale,South,21/01/2026,Active,contact00779@exampletelco.co.uk,07415466148
+ACC00780,Bluepeak Council 0780,Wholesale,South,08/12/2024,Active,contact00780@exampletelco.co.uk,07776092499
+ACC00781,Metro Finance 0781,Consumer,London,09/02/2025,Ceased,contact00781@exampletelco.co.uk,07480380857
+ACC00782,Horizon Retail 0782,Public Sector,West,23/06/2024,Active,contact00782@exampletelco.co.uk,07330022784
+ACC00783,Vista Media 0783,Enterprise,Wales,08/02/2025,Active,contact00783@exampletelco.co.uk,07684171495
+ACC00784,Bluepeak Health 0784,SME,London,14/02/2024,Active,contact00784@exampletelco.co.uk,07385429726
+ACC00785,Kaya Council 0785,Enterprise,South,15/09/2024,Active,contact00785@exampletelco.co.uk,07761886470
+ACC00786,Zenith Telecom 0786,Retail,North,02/02/2025,Ceased,contact00786@exampletelco.co.uk,07484089929
+ACC00787,Metro Media 0787,SME,Wales,20/12/2024,Inactive,contact00787@exampletelco.co.uk,07901974096
+ACC00788,Horizon Finance 0788,SME,North,21/09/2023,Ceased,contact00788@exampletelco.co.uk,07987694768
+ACC00789,Oak Health 0789,Public Sector,London,27/05/2025,Active,contact00789@exampletelco.co.uk,07206882203
+ACC00790,Zenith Media 0790,Enterprise,West,06/11/2025,Ceased,contact00790@exampletelco.co.uk,07813960021
+ACC00791,Vista Finance 0791,Retail,West,16/04/2024,Inactive,contact00791@exampletelco.co.uk,07785718716
+ACC00792,Aster Retail 0792,Retail,Wales,18/09/2025,Ceased,contact00792@exampletelco.co.uk,07173366739
+ACC00793,Horizon Energy 0793,SME,West,01/02/2025,Active,contact00793@exampletelco.co.uk,07488943901
+ACC00794,Aster Finance 0794,Consumer,West,26/10/2025,Ceased,contact00794@exampletelco.co.uk,07482119160
+ACC00795,Orion Finance 0795,Consumer,North,27/12/2023,Inactive,contact00795@exampletelco.co.uk,07753680083
+ACC00796,Oak Energy 0796,Enterprise,Midlands,20/07/2025,Inactive,contact00796@exampletelco.co.uk,07789511069
+ACC00797,Metro Council 0797,Public Sector,Wales,01/01/2024,Active,contact00797@exampletelco.co.uk,07970806018
+ACC00798,Bluepeak Logistics 0798,Enterprise,South,08/06/2023,Ceased,contact00798@exampletelco.co.uk,07629720973
+ACC00799,Horizon Logistics 0799,Consumer,London,25/03/2025,Active,contact00799@exampletelco.co.uk,07545635741
+ACC00800,Zenith Retail 0800,Public Sector,East,08/11/2023,Active,contact00800@exampletelco.co.uk,07160701387
+ACC00801,Zenith Telecom 0801,Enterprise,East,30/08/2024,Active,contact00801@exampletelco.co.uk,07710814407
+ACC00802,Oak Telecom 0802,SME,South,08/06/2025,Active,contact00802@exampletelco.co.uk,07950187855
+ACC00803,Bluepeak Retail 0803,Consumer,South,15/03/2024,Active,contact00803@exampletelco.co.uk,07680312007
+ACC00804,Zenith Council 0804,Consumer,East,20/03/2025,Active,contact00804@exampletelco.co.uk,07262232291
+ACC00805,Vista Energy 0805,Retail,South,07/12/2023,Active,contact00805@exampletelco.co.uk,07847030001
+ACC00806,Bluepeak Finance 0806,Public Sector,West,05/12/2025,Active,contact00806@exampletelco.co.uk,07579627027
+ACC00807,Zenith Energy 0807,Public Sector,Wales,10/09/2023,Active,contact00807@exampletelco.co.uk,07134718666
+ACC00808,Cedar Logistics 0808,Public Sector,Wales,20/03/2025,Active,contact00808@exampletelco.co.uk,07852247870
+ACC00809,Cedar Media 0809,Consumer,South,29/09/2024,Active,contact00809@exampletelco.co.uk,07735753062
+ACC00810,Zenith Energy 0810,Wholesale,Midlands,23/01/2024,Ceased,contact00810@exampletelco.co.uk,07270124355
+ACC00811,Orion Retail 0811,Enterprise,Midlands,16/10/2023,Active,contact00811@exampletelco.co.uk,07895114078
+ACC00812,Zenith Energy 0812,Enterprise,North,29/09/2023,Active,contact00812@exampletelco.co.uk,07682717387
+ACC00813,Cedar Council 0813,Wholesale,South,10/09/2023,Active,contact00813@exampletelco.co.uk,07111923432
+ACC00814,Cedar Health 0814,Consumer,Wales,14/02/2023,Active,contact00814@exampletelco.co.uk,07524737447
+ACC00815,Orion Media 0815,Consumer,North,20/08/2025,Active,contact00815@exampletelco.co.uk,07928733669
+ACC00816,Metro Energy 0816,SME,South,04/07/2023,Inactive,contact00816@exampletelco.co.uk,07314431754
+ACC00817,Metro Retail 0817,Enterprise,Scotland,22/10/2023,Inactive,contact00817@exampletelco.co.uk,07463546011
+ACC00818,Aster Media 0818,SME,Scotland,02/03/2024,Active,contact00818@exampletelco.co.uk,07851699984
+ACC00819,Zenith Council 0819,Public Sector,Midlands,28/12/2023,Active,contact00819@exampletelco.co.uk,07343895937
+ACC00820,Oak Logistics 0820,Public Sector,Midlands,25/09/2023,Active,contact00820@exampletelco.co.uk,07503990094
+ACC00821,Cedar Health 0821,Retail,West,01/01/2024,Active,contact00821@exampletelco.co.uk,07243064696
+ACC00822,Oak Media 0822,Consumer,East,05/10/2023,Active,contact00822@exampletelco.co.uk,07968488577
+ACC00823,Vista Energy 0823,Public Sector,West,17/01/2024,Ceased,contact00823@exampletelco.co.uk,07110717863
+ACC00824,Vista Health 0824,Consumer,South,11/10/2025,Active,contact00824@exampletelco.co.uk,07906600321
+ACC00825,Horizon Retail 0825,Consumer,Midlands,19/02/2025,Active,contact00825@exampletelco.co.uk,07827271290
+ACC00826,Bluepeak Energy 0826,Public Sector,North,14/03/2023,Active,contact00826@exampletelco.co.uk,07223662488
+ACC00827,Vista Finance 0827,Wholesale,Scotland,28/12/2025,Active,contact00827@exampletelco.co.uk,07446633532
+ACC00828,Vista Health 0828,Public Sector,North,15/08/2024,Active,contact00828@exampletelco.co.uk,07515236871
+ACC00829,Kaya Finance 0829,SME,London,12/12/2025,Active,contact00829@exampletelco.co.uk,07143014716
+ACC00830,Aster Telecom 0830,Retail,London,30/03/2024,Active,contact00830@exampletelco.co.uk,07106198854
+ACC00831,Vista Media 0831,SME,Scotland,03/06/2023,Active,contact00831@exampletelco.co.uk,07603527319
+ACC00832,Cedar Telecom 0832,Wholesale,North,24/04/2023,Active,contact00832@exampletelco.co.uk,07928676270
+ACC00833,Zenith Council 0833,Public Sector,London,19/12/2023,Ceased,contact00833@exampletelco.co.uk,07640352463
+ACC00834,Bluepeak Media 0834,SME,West,06/03/2024,Active,contact00834@exampletelco.co.uk,07284206323
+ACC00835,Zenith Health 0835,Public Sector,Scotland,04/02/2025,Active,contact00835@exampletelco.co.uk,07491343021
+ACC00836,Oak Logistics 0836,Enterprise,South,16/05/2025,Inactive,contact00836@exampletelco.co.uk,07181440608
+ACC00837,Horizon Finance 0837,SME,Wales,04/02/2024,Active,contact00837@exampletelco.co.uk,07674038334
+ACC00838,Kaya Health 0838,Public Sector,Wales,08/02/2025,Active,contact00838@exampletelco.co.uk,07507879090
+ACC00839,Bluepeak Media 0839,Wholesale,Wales,04/08/2025,Active,contact00839@exampletelco.co.uk,07587648124
+ACC00840,Cedar Media 0840,Consumer,Midlands,05/08/2024,Active,contact00840@exampletelco.co.uk,07559808094
+ACC00841,Aster Finance 0841,Enterprise,Wales,03/09/2025,Active,contact00841@exampletelco.co.uk,07624128555
+ACC00842,Aster Health 0842,Public Sector,London,02/11/2023,Active,contact00842@exampletelco.co.uk,07893807642
+ACC00843,Aster Finance 0843,Consumer,Wales,09/05/2025,Active,contact00843@exampletelco.co.uk,07223024796
+ACC00844,Oak Logistics 0844,Retail,Midlands,13/08/2023,Active,contact00844@exampletelco.co.uk,07289596059
+ACC00845,Cedar Logistics 0845,Public Sector,West,30/11/2023,Active,contact00845@exampletelco.co.uk,07928841976
+ACC00846,Metro Media 0846,Enterprise,East,14/07/2025,Active,contact00846@exampletelco.co.uk,07193181105
+ACC00847,Orion Telecom 0847,Wholesale,West,29/10/2025,Active,contact00847@exampletelco.co.uk,07333603310
+ACC00848,Bluepeak Telecom 0848,Wholesale,Midlands,12/06/2024,Active,contact00848@exampletelco.co.uk,07363677046
+ACC00849,Cedar Energy 0849,Wholesale,Scotland,06/10/2024,Active,contact00849@exampletelco.co.uk,07707722344
+ACC00850,Metro Telecom 0850,SME,London,31/07/2023,Active,contact00850@exampletelco.co.uk,07682857937
+ACC00851,Zenith Energy 0851,Consumer,Wales,04/09/2025,Active,contact00851@exampletelco.co.uk,07522120257
+ACC00852,Orion Logistics 0852,Retail,Midlands,05/04/2023,Active,contact00852@exampletelco.co.uk,07257064795
+ACC00853,Orion Energy 0853,Wholesale,Scotland,03/01/2025,Active,contact00853@exampletelco.co.uk,07559419289
+ACC00854,Horizon Health 0854,Consumer,Wales,28/10/2025,Active,contact00854@exampletelco.co.uk,07721650813
+ACC00855,Metro Retail 0855,SME,South,11/08/2023,Active,contact00855@exampletelco.co.uk,07194581645
+ACC00856,Oak Retail 0856,Enterprise,London,29/05/2025,Ceased,contact00856@exampletelco.co.uk,07758009010
+ACC00857,Orion Media 0857,Public Sector,East,20/01/2024,Active,contact00857@exampletelco.co.uk,07962943185
+ACC00858,Vista Council 0858,Enterprise,Scotland,24/06/2023,Active,contact00858@exampletelco.co.uk,07842211738
+ACC00859,Aster Media 0859,Wholesale,East,26/07/2024,Active,contact00859@exampletelco.co.uk,07286521285
+ACC00860,Oak Telecom 0860,Wholesale,Scotland,21/11/2023,Active,contact00860@exampletelco.co.uk,07854051057
+ACC00861,Zenith Finance 0861,SME,Scotland,29/05/2025,Ceased,contact00861@exampletelco.co.uk,07454125921
+ACC00862,Horizon Logistics 0862,Enterprise,South,22/05/2023,Active,contact00862@exampletelco.co.uk,07112936842
+ACC00863,Kaya Retail 0863,Wholesale,North,01/04/2025,Active,contact00863@exampletelco.co.uk,07957801166
+ACC00864,Oak Media 0864,Wholesale,North,04/07/2025,Active,contact00864@exampletelco.co.uk,07268113320
+ACC00865,Orion Retail 0865,Retail,Scotland,11/02/2023,Active,contact00865@exampletelco.co.uk,07726015443
+ACC00866,Metro Logistics 0866,Consumer,South,14/06/2024,Active,contact00866@exampletelco.co.uk,07220873567
+ACC00867,Metro Retail 0867,Wholesale,Wales,25/04/2024,Active,contact00867@exampletelco.co.uk,07854768453
+ACC00868,Kaya Logistics 0868,Retail,London,23/09/2023,Inactive,contact00868@exampletelco.co.uk,07872332209
+ACC00869,Cedar Finance 0869,SME,Midlands,30/08/2024,Active,contact00869@exampletelco.co.uk,07702128356
+ACC00870,Oak Telecom 0870,Consumer,Scotland,24/11/2023,Active,contact00870@exampletelco.co.uk,07450721874
+ACC00871,Orion Logistics 0871,Consumer,East,27/10/2024,Active,contact00871@exampletelco.co.uk,07371496662
+ACC00872,Cedar Finance 0872,Public Sector,Wales,05/11/2024,Active,contact00872@exampletelco.co.uk,07333298847
+ACC00873,Bluepeak Logistics 0873,Retail,West,11/09/2024,Active,contact00873@exampletelco.co.uk,07969576217
+ACC00874,Oak Media 0874,Wholesale,Wales,08/01/2025,Active,contact00874@exampletelco.co.uk,07333832932
+ACC00875,Vista Health 0875,Wholesale,Wales,25/07/2024,Active,contact00875@exampletelco.co.uk,07125409142
+ACC00876,Zenith Media 0876,Enterprise,Wales,31/05/2023,Active,contact00876@exampletelco.co.uk,07787776129
+ACC00877,Horizon Logistics 0877,SME,Midlands,12/04/2023,Active,contact00877@exampletelco.co.uk,07374000024
+ACC00878,Vista Media 0878,SME,Wales,15/03/2024,Active,contact00878@exampletelco.co.uk,07438302461
+ACC00879,Kaya Council 0879,SME,South,21/11/2025,Active,contact00879@exampletelco.co.uk,07929227876
+ACC00880,Zenith Media 0880,Wholesale,Midlands,13/02/2026,Inactive,contact00880@exampletelco.co.uk,07318286796
+ACC00881,Metro Energy 0881,Wholesale,Scotland,16/01/2023,Active,contact00881@exampletelco.co.uk,07362986837
+ACC00882,Vista Telecom 0882,Consumer,Scotland,16/02/2023,Ceased,contact00882@exampletelco.co.uk,07349142481
+ACC00883,Horizon Logistics 0883,Consumer,Wales,29/01/2025,Active,contact00883@exampletelco.co.uk,07696575059
+ACC00884,Oak Telecom 0884,Enterprise,Wales,05/07/2023,Active,contact00884@exampletelco.co.uk,07367888406
+ACC00885,Kaya Health 0885,Wholesale,Scotland,04/07/2024,Active,contact00885@exampletelco.co.uk,07656688815
+ACC00886,Orion Council 0886,SME,South,09/10/2024,Active,contact00886@exampletelco.co.uk,07594184836
+ACC00887,Vista Finance 0887,Public Sector,South,04/07/2025,Inactive,contact00887@exampletelco.co.uk,07536966713
+ACC00888,Aster Council 0888,Wholesale,Scotland,07/10/2025,Ceased,contact00888@exampletelco.co.uk,07472889401
+ACC00889,Zenith Telecom 0889,Retail,South,23/01/2026,Active,contact00889@exampletelco.co.uk,07998549819
+ACC00890,Zenith Media 0890,SME,Midlands,15/09/2024,Active,contact00890@exampletelco.co.uk,07437033265
+ACC00891,Kaya Telecom 0891,Retail,South,17/02/2026,Ceased,contact00891@exampletelco.co.uk,07611966555
+ACC00892,Kaya Logistics 0892,SME,London,26/11/2023,Active,contact00892@exampletelco.co.uk,07195943659
+ACC00893,Aster Health 0893,Enterprise,Scotland,17/07/2023,Inactive,contact00893@exampletelco.co.uk,07169141148
+ACC00894,Kaya Health 0894,Public Sector,West,15/11/2024,Active,contact00894@exampletelco.co.uk,07307298061
+ACC00895,Aster Logistics 0895,Consumer,Wales,12/08/2024,Active,contact00895@exampletelco.co.uk,07905981689
+ACC00896,Bluepeak Telecom 0896,Retail,Scotland,14/10/2023,Active,contact00896@exampletelco.co.uk,07934398906
+ACC00897,Aster Energy 0897,Wholesale,Midlands,27/06/2024,Active,contact00897@exampletelco.co.uk,07174711179
+ACC00898,Horizon Media 0898,Enterprise,Wales,11/07/2023,Active,contact00898@exampletelco.co.uk,07603879251
+ACC00899,Metro Energy 0899,Consumer,London,24/09/2023,Active,contact00899@exampletelco.co.uk,07821683682
+ACC00900,Zenith Telecom 0900,Consumer,Midlands,21/01/2024,Active,contact00900@exampletelco.co.uk,07305275220
+ACC00901,Zenith Retail 0901,Wholesale,Midlands,24/04/2025,Active,contact00901@exampletelco.co.uk,07148547229
+ACC00902,Aster Finance 0902,SME,Midlands,29/05/2024,Active,contact00902@exampletelco.co.uk,07181106168
+ACC00903,Oak Energy 0903,Public Sector,Midlands,14/02/2024,Active,contact00903@exampletelco.co.uk,07850540778
+ACC00904,Oak Council 0904,Public Sector,Scotland,16/07/2025,Active,contact00904@exampletelco.co.uk,07788701543
+ACC00905,Aster Finance 0905,Retail,London,30/11/2023,Active,contact00905@exampletelco.co.uk,07995149327
+ACC00906,Metro Council 0906,Public Sector,North,30/04/2024,Active,contact00906@exampletelco.co.uk,07449019689
+ACC00907,Oak Telecom 0907,Enterprise,London,21/05/2025,Active,contact00907@exampletelco.co.uk,07342855946
+ACC00908,Aster Energy 0908,Wholesale,West,27/11/2024,Active,contact00908@exampletelco.co.uk,07232903094
+ACC00909,Aster Energy 0909,Wholesale,Midlands,23/08/2024,Active,contact00909@exampletelco.co.uk,07602719064
+ACC00910,Oak Telecom 0910,Wholesale,East,24/02/2023,Active,contact00910@exampletelco.co.uk,07719521971
+ACC00911,Bluepeak Telecom 0911,Consumer,Scotland,20/11/2024,Active,contact00911@exampletelco.co.uk,07525506087
+ACC00912,Vista Health 0912,Consumer,London,19/01/2023,Ceased,contact00912@exampletelco.co.uk,07754600508
+ACC00913,Zenith Finance 0913,Public Sector,Midlands,27/12/2023,Active,contact00913@exampletelco.co.uk,07288265215
+ACC00914,Orion Telecom 0914,Public Sector,East,23/01/2024,Inactive,contact00914@exampletelco.co.uk,07434712368
+ACC00915,Oak Finance 0915,Enterprise,Midlands,07/03/2025,Active,contact00915@exampletelco.co.uk,07196478170
+ACC00916,Metro Energy 0916,Retail,Midlands,10/02/2026,Active,contact00916@exampletelco.co.uk,07364550909
+ACC00917,Bluepeak Health 0917,Public Sector,South,25/05/2025,Active,contact00917@exampletelco.co.uk,07978512882
+ACC00918,Cedar Energy 0918,Retail,North,11/11/2024,Active,contact00918@exampletelco.co.uk,07762603229
+ACC00919,Zenith Telecom 0919,Retail,South,18/11/2024,Active,contact00919@exampletelco.co.uk,07115115080
+ACC00920,Bluepeak Energy 0920,Retail,South,25/07/2023,Active,contact00920@exampletelco.co.uk,07773979518
+ACC00921,Zenith Energy 0921,SME,London,18/02/2026,Active,contact00921@exampletelco.co.uk,07717683220
+ACC00922,Bluepeak Media 0922,Public Sector,Midlands,12/03/2024,Active,contact00922@exampletelco.co.uk,07117871313
+ACC00923,Metro Finance 0923,Consumer,West,19/09/2023,Inactive,contact00923@exampletelco.co.uk,07381813234
+ACC00924,Cedar Retail 0924,Public Sector,West,06/05/2024,Ceased,contact00924@exampletelco.co.uk,07891226939
+ACC00925,Oak Logistics 0925,Consumer,Scotland,10/11/2023,Active,contact00925@exampletelco.co.uk,07511948563
+ACC00926,Zenith Media 0926,Consumer,West,31/05/2024,Active,contact00926@exampletelco.co.uk,07827227218
+ACC00927,Zenith Retail 0927,Public Sector,North,05/04/2025,Active,contact00927@exampletelco.co.uk,07462313672
+ACC00928,Bluepeak Telecom 0928,Enterprise,Scotland,02/10/2023,Active,contact00928@exampletelco.co.uk,07392649909
+ACC00929,Bluepeak Telecom 0929,Consumer,Midlands,20/12/2023,Active,contact00929@exampletelco.co.uk,07958472316
+ACC00930,Zenith Council 0930,Retail,Wales,17/08/2025,Inactive,contact00930@exampletelco.co.uk,07593334633
+ACC00931,Oak Telecom 0931,Retail,Scotland,06/04/2025,Active,contact00931@exampletelco.co.uk,07576043777
+ACC00932,Bluepeak Retail 0932,Consumer,East,26/12/2023,Active,contact00932@exampletelco.co.uk,07465122406
+ACC00933,Zenith Logistics 0933,SME,South,12/05/2025,Inactive,contact00933@exampletelco.co.uk,07808958783
+ACC00934,Cedar Logistics 0934,Enterprise,East,14/01/2024,Inactive,contact00934@exampletelco.co.uk,07290445181
+ACC00935,Bluepeak Energy 0935,Public Sector,Wales,25/12/2023,Ceased,contact00935@exampletelco.co.uk,07775593659
+ACC00936,Cedar Finance 0936,Retail,Midlands,07/01/2024,Active,contact00936@exampletelco.co.uk,07843947510
+ACC00937,Cedar Health 0937,Wholesale,North,31/08/2024,Inactive,contact00937@exampletelco.co.uk,07805707847
+ACC00938,Cedar Media 0938,Consumer,East,30/11/2023,Active,contact00938@exampletelco.co.uk,07848524727
+ACC00939,Horizon Council 0939,Consumer,Scotland,24/04/2023,Ceased,contact00939@exampletelco.co.uk,07110318298
+ACC00940,Vista Finance 0940,Retail,West,21/06/2024,Active,contact00940@exampletelco.co.uk,07566837259
+ACC00941,Orion Finance 0941,SME,London,16/08/2025,Active,contact00941@exampletelco.co.uk,07901301156
+ACC00942,Zenith Finance 0942,Public Sector,South,03/12/2025,Active,contact00942@exampletelco.co.uk,07794481643
+ACC00943,Kaya Media 0943,Public Sector,South,06/02/2024,Active,contact00943@exampletelco.co.uk,07209301454
+ACC00944,Vista Logistics 0944,Consumer,West,10/04/2025,Active,contact00944@exampletelco.co.uk,07128409104
+ACC00945,Zenith Finance 0945,Public Sector,Scotland,03/05/2025,Active,contact00945@exampletelco.co.uk,07821170579
+ACC00946,Kaya Finance 0946,Wholesale,Scotland,10/05/2023,Active,contact00946@exampletelco.co.uk,07982538271
+ACC00947,Vista Retail 0947,Public Sector,South,19/05/2023,Active,contact00947@exampletelco.co.uk,07276497571
+ACC00948,Cedar Logistics 0948,Retail,Scotland,17/10/2024,Active,contact00948@exampletelco.co.uk,07959764262
+ACC00949,Oak Telecom 0949,Retail,South,03/12/2024,Active,contact00949@exampletelco.co.uk,07239936595
+ACC00950,Cedar Finance 0950,Enterprise,North,24/03/2023,Ceased,contact00950@exampletelco.co.uk,07715709134
+ACC00951,Cedar Telecom 0951,Wholesale,North,04/11/2023,Active,contact00951@exampletelco.co.uk,07538560474
+ACC00952,Cedar Retail 0952,Wholesale,South,23/01/2025,Active,contact00952@exampletelco.co.uk,07950483054
+ACC00953,Oak Health 0953,Wholesale,Wales,12/01/2026,Ceased,contact00953@exampletelco.co.uk,07652372241
+ACC00954,Bluepeak Logistics 0954,SME,Scotland,23/08/2023,Active,contact00954@exampletelco.co.uk,07151889263
+ACC00955,Kaya Retail 0955,SME,South,17/06/2023,Active,contact00955@exampletelco.co.uk,07574090229
+ACC00956,Orion Telecom 0956,Retail,South,30/05/2023,Active,contact00956@exampletelco.co.uk,07151859953
+ACC00957,Vista Logistics 0957,Consumer,Wales,10/05/2025,Active,contact00957@exampletelco.co.uk,07736398031
+ACC00958,Vista Retail 0958,SME,West,28/11/2023,Active,contact00958@exampletelco.co.uk,07963872342
+ACC00959,Metro Health 0959,SME,East,05/01/2025,Active,contact00959@exampletelco.co.uk,07352634015
+ACC00960,Metro Health 0960,Retail,South,04/09/2023,Active,contact00960@exampletelco.co.uk,07270161968
+ACC00961,Vista Health 0961,Public Sector,South,04/03/2024,Ceased,contact00961@exampletelco.co.uk,07638315116
+ACC00962,Aster Logistics 0962,SME,East,04/09/2025,Active,contact00962@exampletelco.co.uk,07890399651
+ACC00963,Aster Health 0963,Consumer,West,27/05/2023,Active,contact00963@exampletelco.co.uk,07873795467
+ACC00964,Orion Retail 0964,Enterprise,Wales,12/02/2026,Active,contact00964@exampletelco.co.uk,07826299407
+ACC00965,Kaya Council 0965,Enterprise,South,28/06/2023,Active,contact00965@exampletelco.co.uk,07695809543
+ACC00966,Vista Finance 0966,Consumer,South,15/02/2025,Active,contact00966@exampletelco.co.uk,07970840830
+ACC00967,Vista Finance 0967,SME,London,16/03/2024,Active,contact00967@exampletelco.co.uk,07704190337
+ACC00968,Oak Energy 0968,Enterprise,North,10/01/2025,Active,contact00968@exampletelco.co.uk,07823440770
+ACC00969,Zenith Retail 0969,Wholesale,East,28/01/2023,Active,contact00969@exampletelco.co.uk,07302147413
+ACC00970,Kaya Energy 0970,SME,East,22/01/2024,Active,contact00970@exampletelco.co.uk,07424974076
+ACC00971,Orion Finance 0971,Consumer,Wales,28/03/2025,Inactive,contact00971@exampletelco.co.uk,07590850247
+ACC00972,Aster Logistics 0972,Public Sector,Wales,24/06/2025,Inactive,contact00972@exampletelco.co.uk,07873259723
+ACC00973,Kaya Energy 0973,Consumer,West,20/01/2026,Active,contact00973@exampletelco.co.uk,07113153126
+ACC00974,Oak Logistics 0974,Consumer,Wales,19/08/2025,Active,contact00974@exampletelco.co.uk,07455902204
+ACC00975,Metro Health 0975,Wholesale,North,30/01/2024,Inactive,contact00975@exampletelco.co.uk,07969828179
+ACC00976,Horizon Retail 0976,Public Sector,Midlands,08/01/2025,Active,contact00976@exampletelco.co.uk,07520481138
+ACC00977,Aster Telecom 0977,Consumer,Scotland,04/05/2024,Active,contact00977@exampletelco.co.uk,07817463471
+ACC00978,Vista Council 0978,Public Sector,South,16/04/2025,Inactive,contact00978@exampletelco.co.uk,07234005114
+ACC00979,Aster Telecom 0979,Consumer,Wales,01/12/2024,Active,contact00979@exampletelco.co.uk,07559877879
+ACC00980,Aster Telecom 0980,Wholesale,South,14/04/2024,Active,contact00980@exampletelco.co.uk,07618045450
+ACC00981,Orion Energy 0981,Enterprise,Scotland,23/06/2025,Ceased,contact00981@exampletelco.co.uk,07349911411
+ACC00982,Cedar Council 0982,Public Sector,London,21/12/2023,Active,contact00982@exampletelco.co.uk,07655210894
+ACC00983,Oak Logistics 0983,Consumer,North,27/03/2024,Active,contact00983@exampletelco.co.uk,07592727177
+ACC00984,Zenith Media 0984,Enterprise,Wales,16/04/2023,Active,contact00984@exampletelco.co.uk,07599996387
+ACC00985,Aster Telecom 0985,Retail,Scotland,09/02/2026,Active,contact00985@exampletelco.co.uk,07583487352
+ACC00986,Vista Telecom 0986,SME,Scotland,10/01/2026,Active,contact00986@exampletelco.co.uk,07517808613
+ACC00987,Zenith Telecom 0987,SME,North,20/12/2023,Active,contact00987@exampletelco.co.uk,07989305954
+ACC00988,Oak Retail 0988,Public Sector,Wales,21/12/2024,Active,contact00988@exampletelco.co.uk,07868008822
+ACC00989,Vista Health 0989,Consumer,Wales,11/06/2024,Active,contact00989@exampletelco.co.uk,07722516624
+ACC00990,Bluepeak Retail 0990,Consumer,West,19/09/2023,Active,contact00990@exampletelco.co.uk,07966599376
+ACC00991,Cedar Health 0991,Enterprise,Midlands,12/12/2024,Active,contact00991@exampletelco.co.uk,07832529077
+ACC00992,Vista Health 0992,Enterprise,Scotland,24/01/2026,Inactive,contact00992@exampletelco.co.uk,07449506924
+ACC00993,Zenith Logistics 0993,Wholesale,Wales,10/02/2024,Inactive,contact00993@exampletelco.co.uk,07127164120
+ACC00994,Zenith Logistics 0994,Retail,Scotland,07/06/2023,Active,contact00994@exampletelco.co.uk,07369455432
+ACC00995,Aster Retail 0995,Consumer,Scotland,16/07/2025,Active,contact00995@exampletelco.co.uk,07302565643
+ACC00996,Kaya Media 0996,Enterprise,Wales,19/10/2025,Active,contact00996@exampletelco.co.uk,07469176036
+ACC00997,Horizon Media 0997,SME,West,06/04/2024,Active,contact00997@exampletelco.co.uk,07966487871
+ACC00998,Bluepeak Health 0998,Wholesale,East,24/12/2023,Inactive,contact00998@exampletelco.co.uk,07669101380
+ACC00999,Zenith Finance 0999,Wholesale,North,24/04/2025,Active,contact00999@exampletelco.co.uk,07264533348
+ACC01000,Orion Health 1000,SME,Midlands,17/09/2024,Active,contact01000@exampletelco.co.uk,07888635703

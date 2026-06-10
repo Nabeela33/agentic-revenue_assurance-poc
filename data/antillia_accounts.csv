@@ -1,0 +1,1001 @@
+billing_account_id,account_id,billing_address,payment_method,billing_cycle,currency,status,created_date,service_number
+BACC00001,ACC00689,"67 Mill Road, Glasgow, UK",BACS,Quarterly,£,Active,23/01/2024,FTTC5990315930
+BACC00002,ACC00215,"4 Station Road, Liverpool, UK",Credit Card,Quarterly,£,Active,19/03/2024,CV6765473025
+BACC00003,ACC00995,"196 High Street, Cardiff, UK",Credit Card,Monthly,£,Active,08/11/2025,PSTN6857857586
+BACC00004,ACC00233,"82 Mill Road, Cardiff, UK",Invoice,Monthly,£,Active,22/10/2025,SIP4686389098
+BACC00005,ACC00150,"72 Station Road, London, UK",Credit Card,Annual,£,Active,18/01/2023,FTTP7228270729
+BACC00006,ACC00190,"71 Station Road, Liverpool, UK",Direct Debit,Monthly,£,Active,16/03/2024,PSTN5695998185
+BACC00007,ACC00047,"218 Station Road, Liverpool, UK",Direct Debit,Quarterly,£,Active,12/11/2025,CV7788992374
+BACC00008,ACC00020,"142 Mill Road, Reading, UK",Credit Card,Monthly,£,Active,16/02/2024,ETH7667675393
+BACC00009,ACC00378,"218 Station Road, Liverpool, UK",Credit Card,Quarterly,£,Active,02/05/2024,MPLS4966418144
+BACC00010,ACC00652,"241 Mill Road, Edinburgh, UK",BACS,Annual,£,Active,19/10/2024,FTTP4713508314
+BACC00011,ACC00629,"102 High Street, Glasgow, UK",Direct Debit,Annual,£,Active,31/01/2025,FTTC3531709273
+BACC00012,ACC00753,"84 Church Lane, Glasgow, UK",Credit Card,Quarterly,£,Active,18/07/2023,MPLS7456967553
+BACC00013,ACC00940,"15 High Street, London, UK",Invoice,Annual,£,Active,31/01/2024,BB9753843335
+BACC00014,ACC00524,"40 Station Road, Cardiff, UK",BACS,Quarterly,£,Inactive,30/11/2023,FTTC7468167962
+BACC00015,ACC00933,"130 Station Road, Leeds, UK",Credit Card,Monthly,£,Active,28/09/2024,SIP7303988520
+BACC00016,ACC00370,"197 Station Road, Liverpool, UK",Invoice,Annual,£,Active,03/10/2025,PSTN2967610741
+BACC00017,ACC00880,"235 Mill Road, Bristol, UK",Direct Debit,Monthly,£,Active,05/01/2024,SIP5630639274
+BACC00018,ACC00878,"1 Victoria Road, Cardiff, UK",Direct Debit,Annual,£,Active,14/11/2025,CV2222303831
+BACC00019,ACC00816,"183 Mill Road, Glasgow, UK",Direct Debit,Annual,£,Inactive,08/10/2023,PSTN5188628483
+BACC00020,ACC00880,"44 Station Road, Reading, UK",BACS,Annual,£,Ceased,23/08/2024,MOB1082108418
+BACC00021,ACC00015,"9 High Street, Manchester, UK",Invoice,Annual,£,Active,26/10/2025,FTTC9367934610
+BACC00022,ACC00412,"111 High Street, Reading, UK",Invoice,Monthly,£,Inactive,26/12/2025,SIP9693514265
+BACC00023,ACC00255,"189 Mill Road, Reading, UK",Direct Debit,Annual,£,Active,28/07/2023,PSTN8761723344
+BACC00024,ACC00823,"191 Church Lane, Cardiff, UK",Direct Debit,Annual,£,Active,25/04/2025,FTTC8705269807
+BACC00025,ACC00166,"181 Church Lane, Liverpool, UK",Invoice,Annual,£,Active,01/03/2024,MOB9308866387
+BACC00026,ACC00579,"110 Victoria Road, Edinburgh, UK",BACS,Quarterly,£,Active,22/07/2023,FTTP7595920490
+BACC00027,ACC00543,"63 Station Road, Birmingham, UK",Direct Debit,Quarterly,£,Active,02/04/2024,ETH1507869180
+BACC00028,ACC00964,"128 Mill Road, Bristol, UK",Direct Debit,Monthly,£,Active,29/11/2023,SIP4325752075
+BACC00029,ACC00883,"204 Station Road, Reading, UK",Direct Debit,Quarterly,£,Inactive,07/08/2024,FTTC5535440143
+BACC00030,ACC00120,"41 Mill Road, London, UK",Invoice,Monthly,£,Active,01/09/2025,FTTC4395027786
+BACC00031,ACC00393,"226 Mill Road, Edinburgh, UK",BACS,Quarterly,£,Active,15/07/2023,SIP1732728736
+BACC00032,ACC00946,"143 Victoria Road, Liverpool, UK",Direct Debit,Monthly,£,Active,26/03/2023,MOB7931312833
+BACC00033,ACC00956,"31 Station Road, Manchester, UK",BACS,Quarterly,£,Active,30/05/2025,BB9357618326
+BACC00034,ACC00754,"153 Victoria Road, Cardiff, UK",Direct Debit,Quarterly,£,Active,05/09/2024,SDWAN2496848534
+BACC00035,ACC00539,"31 Church Lane, Liverpool, UK",BACS,Monthly,£,Active,03/05/2025,CV4915860055
+BACC00036,ACC00222,"9 Station Road, Glasgow, UK",Credit Card,Annual,£,Active,11/07/2025,CV3504969962
+BACC00037,ACC00997,"57 Victoria Road, Edinburgh, UK",Direct Debit,Monthly,£,Active,02/02/2023,CV8714773265
+BACC00038,ACC00630,"195 Victoria Road, London, UK",Credit Card,Quarterly,£,Active,23/08/2025,FTTC2153712797
+BACC00039,ACC00299,"198 Station Road, Manchester, UK",Direct Debit,Annual,£,Inactive,10/10/2024,MPLS3818706681
+BACC00040,ACC00243,"243 High Street, London, UK",Direct Debit,Annual,£,Inactive,14/04/2023,PSTN6856494597
+BACC00041,ACC00451,"6 Church Lane, Edinburgh, UK",Credit Card,Quarterly,£,Active,21/02/2023,SIP9109023021
+BACC00042,ACC00505,"153 Victoria Road, Leeds, UK",Invoice,Monthly,£,Active,15/08/2024,PSTN1533406992
+BACC00043,ACC00395,"67 Mill Road, Manchester, UK",Invoice,Annual,£,Active,01/05/2024,PSTN6376557579
+BACC00044,ACC00194,"100 Mill Road, Glasgow, UK",Direct Debit,Quarterly,£,Active,30/05/2023,MPLS7605552147
+BACC00045,ACC00874,"99 Church Lane, Reading, UK",Invoice,Annual,£,Active,20/02/2026,PSTN5700057155
+BACC00046,ACC00631,"91 Mill Road, Manchester, UK",Invoice,Quarterly,£,Active,09/04/2025,SDWAN4091504661
+BACC00047,ACC00225,"183 Church Lane, Reading, UK",Direct Debit,Monthly,£,Ceased,24/10/2024,PSTN7167005626
+BACC00048,ACC00838,"40 Mill Road, Manchester, UK",Credit Card,Monthly,£,Active,10/02/2025,CV5748365882
+BACC00049,ACC00512,"32 High Street, London, UK",BACS,Annual,£,Active,05/01/2026,FTTP8780728222
+BACC00050,ACC00603,"79 High Street, Leeds, UK",Invoice,Monthly,£,Inactive,20/07/2023,BB4150852652
+BACC00051,ACC00380,"42 Mill Road, London, UK",Invoice,Quarterly,£,Ceased,09/05/2025,ETH3964815128
+BACC00052,ACC00753,"181 Mill Road, Edinburgh, UK",BACS,Annual,£,Ceased,15/10/2025,ETH2876125136
+BACC00053,ACC00428,"176 Station Road, Leeds, UK",Direct Debit,Quarterly,£,Active,05/08/2025,MPLS4644611398
+BACC00054,ACC00432,"139 Mill Road, Reading, UK",Invoice,Monthly,£,Active,16/02/2026,SDWAN7813278916
+BACC00055,ACC00750,"93 High Street, Reading, UK",Credit Card,Quarterly,£,Active,02/10/2025,MOB1609206368
+BACC00056,ACC00653,"120 Victoria Road, Leeds, UK",Direct Debit,Quarterly,£,Active,24/02/2025,BB7655301382
+BACC00057,ACC00937,"138 Victoria Road, Birmingham, UK",Credit Card,Monthly,£,Active,18/02/2023,SDWAN7503813361
+BACC00058,ACC00603,"5 Victoria Road, Birmingham, UK",BACS,Monthly,£,Inactive,12/10/2023,BB9331302071
+BACC00059,ACC00476,"89 Station Road, Cardiff, UK",BACS,Annual,£,Active,09/03/2025,ETH1714268631
+BACC00060,ACC00679,"127 High Street, Edinburgh, UK",Direct Debit,Monthly,£,Ceased,03/01/2023,SIP7528208112
+BACC00061,ACC00797,"184 Church Lane, Cardiff, UK",BACS,Annual,£,Active,02/10/2023,CV2120903423
+BACC00062,ACC00079,"52 Mill Road, Bristol, UK",Direct Debit,Monthly,£,Active,13/11/2025,FTTC4992902758
+BACC00063,ACC00125,"199 Church Lane, London, UK",Direct Debit,Annual,£,Active,11/01/2025,SIP2978780176
+BACC00064,ACC00397,"142 High Street, Bristol, UK",Invoice,Annual,£,Active,03/02/2026,BB3496190089
+BACC00065,ACC00880,"246 Victoria Road, Leeds, UK",Credit Card,Quarterly,£,Active,05/02/2026,ETH3667925656
+BACC00066,ACC00434,"216 Church Lane, Liverpool, UK",Credit Card,Monthly,£,Active,07/08/2023,CV2502605409
+BACC00067,ACC00089,"51 High Street, Liverpool, UK",Credit Card,Monthly,£,Active,19/02/2024,BB2993960132
+BACC00068,ACC00695,"207 Mill Road, Reading, UK",BACS,Annual,£,Active,23/08/2025,BB2428061972
+BACC00069,ACC00731,"231 Victoria Road, Reading, UK",Invoice,Annual,£,Active,22/06/2025,PSTN3641832799
+BACC00070,ACC00096,"25 Victoria Road, Edinburgh, UK",BACS,Quarterly,£,Active,16/05/2025,ETH2999775898
+BACC00071,ACC00931,"104 Church Lane, London, UK",Credit Card,Quarterly,£,Inactive,04/03/2024,MPLS3577965172
+BACC00072,ACC00856,"60 Victoria Road, Cardiff, UK",Direct Debit,Annual,£,Active,25/04/2023,MOB1018063958
+BACC00073,ACC00481,"36 Station Road, Leeds, UK",Credit Card,Annual,£,Active,24/03/2025,SDWAN4924692282
+BACC00074,ACC00784,"10 Victoria Road, Birmingham, UK",Invoice,Monthly,£,Active,22/04/2023,MOB6734113497
+BACC00075,ACC00838,"45 Church Lane, Birmingham, UK",Invoice,Annual,£,Active,06/05/2025,FTTP5055113072
+BACC00076,ACC00723,"59 Church Lane, London, UK",Invoice,Monthly,£,Active,01/05/2025,SDWAN6218320283
+BACC00077,ACC00533,"76 High Street, London, UK",Invoice,Quarterly,£,Active,18/10/2025,CV5151973471
+BACC00078,ACC00929,"219 Mill Road, Glasgow, UK",Direct Debit,Monthly,£,Active,27/10/2025,SIP4815152545
+BACC00079,ACC00911,"186 Church Lane, Leeds, UK",Direct Debit,Annual,£,Active,29/03/2023,PSTN7052494097
+BACC00080,ACC00691,"87 Station Road, Manchester, UK",Credit Card,Annual,£,Active,13/05/2024,ETH2107145590
+BACC00081,ACC00756,"33 Church Lane, Bristol, UK",Direct Debit,Annual,£,Inactive,20/10/2023,MOB7977668416
+BACC00082,ACC00370,"100 Station Road, London, UK",Direct Debit,Annual,£,Active,08/11/2023,FTTP3717723660
+BACC00083,ACC00650,"172 Station Road, Leeds, UK",BACS,Quarterly,£,Ceased,09/10/2025,FTTP7221944784
+BACC00084,ACC00430,"244 High Street, Edinburgh, UK",Credit Card,Quarterly,£,Inactive,17/11/2023,ETH1515205708
+BACC00085,ACC00274,"247 Victoria Road, Birmingham, UK",Direct Debit,Annual,£,Inactive,22/03/2023,CV4844162091
+BACC00086,ACC00848,"59 Mill Road, Reading, UK",Invoice,Annual,£,Inactive,11/07/2023,ETH2559212479
+BACC00087,ACC00465,"230 Station Road, Bristol, UK",BACS,Annual,£,Active,07/06/2024,MPLS9515620419
+BACC00088,ACC00177,"60 Mill Road, Cardiff, UK",Invoice,Annual,£,Active,09/04/2025,FTTC3961124735
+BACC00089,ACC00881,"195 High Street, Leeds, UK",BACS,Monthly,£,Active,02/06/2024,MPLS6888311666
+BACC00090,ACC00138,"81 Station Road, Birmingham, UK",Direct Debit,Annual,£,Active,06/12/2023,BB8071435599
+BACC00091,ACC00306,"4 Victoria Road, Leeds, UK",BACS,Annual,£,Active,09/07/2025,FTTC2730987361
+BACC00092,ACC00006,"69 Church Lane, London, UK",Invoice,Quarterly,£,Active,12/05/2025,CV5549415624
+BACC00093,ACC00836,"197 Church Lane, Leeds, UK",BACS,Quarterly,£,Active,09/10/2025,SDWAN7658867161
+BACC00094,ACC00100,"74 Mill Road, London, UK",BACS,Monthly,£,Ceased,10/08/2023,MOB6781116023
+BACC00095,ACC00447,"53 Victoria Road, Reading, UK",Invoice,Quarterly,£,Active,08/04/2025,FTTP4120404868
+BACC00096,ACC00772,"45 Church Lane, Manchester, UK",Credit Card,Quarterly,£,Active,08/11/2024,FTTC9944364880
+BACC00097,ACC00019,"226 Station Road, Liverpool, UK",Direct Debit,Annual,£,Active,03/10/2024,MPLS5794579337
+BACC00098,ACC00182,"14 Station Road, Birmingham, UK",Invoice,Quarterly,£,Active,04/03/2023,SDWAN2113841304
+BACC00099,ACC00479,"206 High Street, Birmingham, UK",Invoice,Quarterly,£,Active,06/11/2024,MPLS8183191597
+BACC00100,ACC00424,"181 Victoria Road, London, UK",Credit Card,Quarterly,£,Ceased,20/09/2024,FTTP6336975393
+BACC00101,ACC00489,"220 Mill Road, Glasgow, UK",Credit Card,Annual,£,Active,17/06/2024,SDWAN8401739086
+BACC00102,ACC00167,"2 Mill Road, Cardiff, UK",Invoice,Monthly,£,Active,12/01/2025,ETH1228390893
+BACC00103,ACC00130,"225 High Street, Liverpool, UK",BACS,Monthly,£,Active,13/11/2023,SIP5482275058
+BACC00104,ACC00766,"232 Station Road, London, UK",Invoice,Quarterly,£,Ceased,28/11/2023,CV3907373562
+BACC00105,ACC00420,"31 Church Lane, Bristol, UK",Direct Debit,Monthly,£,Active,14/07/2024,BB8957734644
+BACC00106,ACC00582,"128 Mill Road, Bristol, UK",Invoice,Quarterly,£,Active,05/06/2025,PSTN3829006036
+BACC00107,ACC00812,"108 Church Lane, Edinburgh, UK",Invoice,Quarterly,£,Active,26/05/2024,MPLS6515089330
+BACC00108,ACC00976,"17 Mill Road, Liverpool, UK",BACS,Annual,£,Active,09/01/2024,PSTN1178686429
+BACC00109,ACC00403,"40 Mill Road, Edinburgh, UK",Credit Card,Quarterly,£,Active,02/10/2025,BB5608740599
+BACC00110,ACC00158,"217 Church Lane, Reading, UK",Direct Debit,Quarterly,£,Active,25/09/2024,PSTN4727946375
+BACC00111,ACC00223,"158 Church Lane, Glasgow, UK",Credit Card,Monthly,£,Active,05/12/2025,SDWAN3041612140
+BACC00112,ACC00567,"58 Station Road, Liverpool, UK",BACS,Monthly,£,Active,28/04/2024,FTTC4494205503
+BACC00113,ACC00233,"142 High Street, Leeds, UK",Credit Card,Quarterly,£,Ceased,02/08/2025,FTTC6534253858
+BACC00114,ACC00546,"116 Church Lane, Leeds, UK",Credit Card,Monthly,£,Active,04/11/2023,FTTC3098173808
+BACC00115,ACC00617,"15 Station Road, Birmingham, UK",Invoice,Monthly,£,Active,16/06/2023,PSTN8198546206
+BACC00116,ACC00638,"182 Mill Road, Cardiff, UK",Direct Debit,Quarterly,£,Active,12/07/2024,BB7402138864
+BACC00117,ACC00769,"38 High Street, Birmingham, UK",BACS,Monthly,£,Active,27/08/2025,PSTN1860859402
+BACC00118,ACC00196,"175 Mill Road, Leeds, UK",Direct Debit,Quarterly,£,Active,06/11/2023,SDWAN6004881866
+BACC00119,ACC00619,"113 Mill Road, London, UK",Invoice,Quarterly,£,Active,05/03/2024,MOB3309919247
+BACC00120,ACC00325,"38 Mill Road, Reading, UK",Credit Card,Quarterly,£,Active,12/02/2024,MPLS7386038458
+BACC00121,ACC00152,"24 Church Lane, London, UK",Direct Debit,Annual,£,Active,11/01/2026,PSTN6292380760
+BACC00122,ACC00893,"238 High Street, London, UK",BACS,Quarterly,£,Active,05/04/2023,BB7413707609
+BACC00123,ACC00219,"39 Station Road, London, UK",Invoice,Quarterly,£,Active,26/05/2024,MPLS7740296418
+BACC00124,ACC00519,"160 Victoria Road, Glasgow, UK",Invoice,Monthly,£,Active,17/02/2023,MOB4833409505
+BACC00125,ACC00414,"178 Station Road, London, UK",BACS,Quarterly,£,Ceased,31/12/2024,FTTC1548585854
+BACC00126,ACC00681,"243 High Street, Glasgow, UK",Direct Debit,Monthly,£,Active,12/08/2025,MPLS7343665317
+BACC00127,ACC00061,"22 Church Lane, Edinburgh, UK",Direct Debit,Monthly,£,Active,02/01/2023,ETH3048490204
+BACC00128,ACC00634,"123 Station Road, Liverpool, UK",Credit Card,Quarterly,£,Active,06/02/2024,CV1081193035
+BACC00129,ACC00886,"151 Church Lane, Cardiff, UK",Invoice,Annual,£,Active,02/09/2023,PSTN7511654140
+BACC00130,ACC00200,"230 Station Road, Bristol, UK",BACS,Annual,£,Active,07/06/2023,MPLS6602637736
+BACC00131,ACC00184,"237 Mill Road, Leeds, UK",Invoice,Annual,£,Active,14/11/2024,MOB6738126741
+BACC00132,ACC00548,"61 Church Lane, Manchester, UK",Credit Card,Annual,£,Active,19/04/2024,ETH5425572500
+BACC00133,ACC00831,"87 Station Road, Cardiff, UK",Invoice,Annual,£,Active,20/04/2023,SDWAN4178167482
+BACC00134,ACC00894,"63 Victoria Road, Reading, UK",Direct Debit,Annual,£,Active,11/12/2023,FTTC3450422212
+BACC00135,ACC00595,"153 Mill Road, Manchester, UK",Direct Debit,Monthly,£,Active,17/08/2025,FTTP6704158494
+BACC00136,ACC00334,"77 Mill Road, Leeds, UK",Credit Card,Monthly,£,Active,03/02/2025,FTTP2802205933
+BACC00137,ACC00384,"99 Mill Road, Glasgow, UK",Invoice,Annual,£,Active,15/05/2023,SIP7393063685
+BACC00138,ACC00980,"180 High Street, Leeds, UK",BACS,Quarterly,£,Active,06/07/2025,ETH9553135019
+BACC00139,ACC00941,"105 Church Lane, Liverpool, UK",Credit Card,Annual,£,Inactive,09/01/2026,ETH1390769727
+BACC00140,ACC00839,"84 Church Lane, Glasgow, UK",Direct Debit,Monthly,£,Active,28/08/2024,ETH3915235755
+BACC00141,ACC00447,"234 High Street, Manchester, UK",Credit Card,Annual,£,Inactive,04/05/2024,CV3026700485
+BACC00142,ACC00032,"5 Station Road, Birmingham, UK",Invoice,Quarterly,£,Ceased,23/09/2024,MOB8991192877
+BACC00143,ACC00556,"145 Station Road, Edinburgh, UK",Invoice,Monthly,£,Active,18/02/2025,SDWAN2810567027
+BACC00144,ACC00566,"21 Station Road, Manchester, UK",Credit Card,Annual,£,Active,11/01/2025,BB7511441451
+BACC00145,ACC00244,"239 High Street, Glasgow, UK",BACS,Annual,£,Active,18/02/2025,ETH2782434592
+BACC00146,ACC00916,"54 Victoria Road, Liverpool, UK",Direct Debit,Annual,£,Active,10/02/2023,SIP6926131516
+BACC00147,ACC00121,"25 Mill Road, Manchester, UK",Credit Card,Quarterly,£,Ceased,13/10/2025,MPLS6052640978
+BACC00148,ACC00508,"178 Victoria Road, London, UK",Credit Card,Quarterly,£,Ceased,28/07/2023,MOB8644074137
+BACC00149,ACC00867,"71 Church Lane, Cardiff, UK",BACS,Quarterly,£,Inactive,16/11/2023,FTTP3549044698
+BACC00150,ACC00530,"190 High Street, Bristol, UK",Direct Debit,Monthly,£,Ceased,29/08/2025,FTTC3806270079
+BACC00151,ACC00743,"205 Mill Road, Liverpool, UK",Invoice,Monthly,£,Active,06/04/2023,FTTC4525821316
+BACC00152,ACC00605,"245 Victoria Road, Bristol, UK",Direct Debit,Quarterly,£,Active,18/01/2026,ETH9877936928
+BACC00153,ACC00003,"158 Church Lane, Liverpool, UK",Invoice,Quarterly,£,Active,18/03/2024,PSTN2898983977
+BACC00154,ACC00997,"96 Mill Road, Glasgow, UK",Direct Debit,Monthly,£,Inactive,05/11/2025,ETH2961504277
+BACC00155,ACC00288,"25 Church Lane, Liverpool, UK",Direct Debit,Quarterly,£,Active,02/09/2023,MOB3793597913
+BACC00156,ACC00279,"105 Victoria Road, Liverpool, UK",Credit Card,Quarterly,£,Inactive,07/02/2023,SIP9218836674
+BACC00157,ACC00803,"224 Victoria Road, Manchester, UK",Direct Debit,Annual,£,Ceased,20/02/2025,SDWAN3418458614
+BACC00158,ACC00405,"216 Mill Road, Liverpool, UK",Direct Debit,Annual,£,Active,25/10/2025,ETH3624031347
+BACC00159,ACC00024,"217 Church Lane, Glasgow, UK",BACS,Monthly,£,Ceased,29/12/2023,SIP3448503745
+BACC00160,ACC00035,"245 Station Road, Edinburgh, UK",BACS,Monthly,£,Ceased,08/04/2025,MOB8816570215
+BACC00161,ACC00130,"98 High Street, Manchester, UK",Invoice,Quarterly,£,Active,10/08/2025,FTTP6328036589
+BACC00162,ACC00925,"99 High Street, London, UK",Invoice,Annual,£,Active,03/06/2024,FTTC4237756858
+BACC00163,ACC00057,"85 High Street, Glasgow, UK",BACS,Quarterly,£,Inactive,27/09/2024,PSTN6835856842
+BACC00164,ACC00117,"199 Mill Road, Glasgow, UK",Direct Debit,Monthly,£,Active,30/10/2024,SDWAN9525701372
+BACC00165,ACC00352,"149 Mill Road, Edinburgh, UK",Credit Card,Quarterly,£,Active,15/09/2025,BB7483027578
+BACC00166,ACC00644,"217 Victoria Road, Liverpool, UK",Credit Card,Quarterly,£,Active,01/12/2025,PSTN7317671060
+BACC00167,ACC00016,"72 Church Lane, Reading, UK",Invoice,Monthly,£,Active,24/10/2023,PSTN9253240366
+BACC00168,ACC00556,"122 Mill Road, Edinburgh, UK",Invoice,Annual,£,Active,09/10/2023,CV8253424376
+BACC00169,ACC00964,"190 Mill Road, Liverpool, UK",Invoice,Annual,£,Active,11/10/2023,PSTN8699005668
+BACC00170,ACC00930,"207 Victoria Road, Leeds, UK",Credit Card,Monthly,£,Active,14/01/2024,CV7666606489
+BACC00171,ACC00303,"185 High Street, Leeds, UK",Credit Card,Monthly,£,Ceased,16/06/2024,BB4054268821
+BACC00172,ACC00288,"208 Mill Road, Manchester, UK",BACS,Quarterly,£,Active,30/09/2024,SDWAN5978250622
+BACC00173,ACC00351,"186 Mill Road, Reading, UK",Invoice,Quarterly,£,Active,17/02/2024,ETH7892346192
+BACC00174,ACC00363,"174 Victoria Road, Cardiff, UK",BACS,Annual,£,Active,18/09/2025,MPLS3897722278
+BACC00175,ACC00927,"121 Mill Road, Liverpool, UK",BACS,Monthly,£,Active,02/06/2023,MPLS4928355721
+BACC00176,ACC00360,"9 Station Road, Leeds, UK",Direct Debit,Annual,£,Active,17/12/2023,MOB6899347191
+BACC00177,ACC00944,"166 High Street, Reading, UK",BACS,Annual,£,Active,12/04/2023,FTTP7274345901
+BACC00178,ACC00177,"16 Church Lane, Glasgow, UK",Credit Card,Monthly,£,Active,02/10/2024,MOB8477244255
+BACC00179,ACC00229,"63 High Street, Reading, UK",BACS,Quarterly,£,Active,27/01/2026,MPLS3325702859
+BACC00180,ACC00331,"24 Station Road, Leeds, UK",BACS,Quarterly,£,Active,13/03/2023,FTTP4184667857
+BACC00181,ACC00626,"32 High Street, Glasgow, UK",Invoice,Quarterly,£,Active,22/02/2023,SIP5261998315
+BACC00182,ACC00407,"218 Mill Road, Birmingham, UK",BACS,Quarterly,£,Active,23/08/2025,CV6092758879
+BACC00183,ACC00851,"237 Victoria Road, Cardiff, UK",Direct Debit,Monthly,£,Active,23/09/2024,FTTC3291668623
+BACC00184,ACC00520,"84 Mill Road, Manchester, UK",Direct Debit,Quarterly,£,Active,20/01/2025,SIP6322078088
+BACC00185,ACC00862,"111 Station Road, Manchester, UK",BACS,Quarterly,£,Active,14/04/2023,BB8471769882
+BACC00186,ACC00070,"156 High Street, Birmingham, UK",Invoice,Annual,£,Active,12/11/2024,PSTN1952004414
+BACC00187,ACC00974,"17 Church Lane, Glasgow, UK",BACS,Annual,£,Active,02/01/2025,FTTC6670430921
+BACC00188,ACC00324,"119 Victoria Road, London, UK",BACS,Annual,£,Inactive,15/01/2024,PSTN6249226989
+BACC00189,ACC00808,"169 Victoria Road, Reading, UK",BACS,Monthly,£,Active,24/01/2026,BB1483240102
+BACC00190,ACC00250,"202 Station Road, Cardiff, UK",Credit Card,Quarterly,£,Ceased,16/08/2023,CV7797139833
+BACC00191,ACC00486,"19 Mill Road, Cardiff, UK",Direct Debit,Quarterly,£,Inactive,29/03/2023,SDWAN8158157638
+BACC00192,ACC00541,"55 Victoria Road, Glasgow, UK",BACS,Monthly,£,Active,13/07/2023,MPLS7920350323
+BACC00193,ACC00363,"154 Victoria Road, Liverpool, UK",Direct Debit,Quarterly,£,Active,12/09/2023,FTTC7149711358
+BACC00194,ACC00597,"51 Church Lane, Edinburgh, UK",BACS,Monthly,£,Active,01/04/2025,ETH7246615410
+BACC00195,ACC00826,"71 Station Road, Bristol, UK",Invoice,Annual,£,Active,21/10/2025,BB7396010567
+BACC00196,ACC00771,"236 Mill Road, Cardiff, UK",BACS,Monthly,£,Active,26/10/2024,MPLS8904086253
+BACC00197,ACC00889,"76 Church Lane, Reading, UK",Direct Debit,Monthly,£,Active,12/12/2024,MPLS4155369346
+BACC00198,ACC00069,"154 Mill Road, London, UK",Credit Card,Monthly,£,Ceased,22/01/2024,ETH8876151432
+BACC00199,ACC00371,"218 Church Lane, Edinburgh, UK",Invoice,Monthly,£,Active,29/06/2024,CV9621028616
+BACC00200,ACC00967,"100 Victoria Road, London, UK",Credit Card,Annual,£,Active,29/05/2024,SIP1048702737
+BACC00201,ACC00581,"58 Mill Road, Bristol, UK",Credit Card,Monthly,£,Active,14/09/2023,ETH5350704190
+BACC00202,ACC00803,"180 Victoria Road, Reading, UK",BACS,Annual,£,Active,15/01/2025,PSTN6380973777
+BACC00203,ACC00800,"183 Mill Road, Reading, UK",Credit Card,Quarterly,£,Active,05/03/2025,ETH8005575963
+BACC00204,ACC01000,"203 Mill Road, Liverpool, UK",Credit Card,Monthly,£,Active,09/03/2023,ETH6756869406
+BACC00205,ACC00059,"196 Church Lane, Leeds, UK",Direct Debit,Monthly,£,Active,29/06/2023,SDWAN2317392015
+BACC00206,ACC00330,"204 Victoria Road, Birmingham, UK",Invoice,Quarterly,£,Ceased,24/06/2025,BB5281693525
+BACC00207,ACC00462,"137 Church Lane, Reading, UK",Credit Card,Quarterly,£,Active,13/02/2026,ETH6521082521
+BACC00208,ACC00074,"87 Victoria Road, London, UK",Direct Debit,Annual,£,Active,18/02/2025,BB7688816764
+BACC00209,ACC00499,"130 Church Lane, Reading, UK",Credit Card,Annual,£,Active,08/09/2023,BB5439029221
+BACC00210,ACC00588,"181 Church Lane, Manchester, UK",Invoice,Annual,£,Inactive,04/03/2024,CV3369261159
+BACC00211,ACC00334,"168 Church Lane, Manchester, UK",BACS,Quarterly,£,Active,23/07/2023,SDWAN4363235291
+BACC00212,ACC00543,"80 Station Road, Glasgow, UK",Invoice,Annual,£,Active,09/05/2023,ETH5179062259
+BACC00213,ACC00844,"42 Station Road, London, UK",Direct Debit,Annual,£,Active,07/11/2025,FTTC1042730658
+BACC00214,ACC00067,"166 Station Road, Glasgow, UK",Credit Card,Annual,£,Active,05/02/2025,CV7687272099
+BACC00215,ACC00247,"32 Station Road, Bristol, UK",BACS,Annual,£,Active,11/01/2025,PSTN1909785399
+BACC00216,ACC00515,"43 Victoria Road, Liverpool, UK",Direct Debit,Monthly,£,Active,07/01/2026,MOB3885149733
+BACC00217,ACC00384,"7 Station Road, Reading, UK",BACS,Quarterly,£,Active,13/10/2024,MOB8484984157
+BACC00218,ACC00041,"210 Mill Road, Cardiff, UK",Invoice,Quarterly,£,Active,23/11/2024,FTTP5403016697
+BACC00219,ACC00286,"76 High Street, Leeds, UK",Credit Card,Annual,£,Active,04/12/2024,MPLS8462357570
+BACC00220,ACC00739,"241 Victoria Road, London, UK",Credit Card,Annual,£,Active,25/01/2024,SIP3110144676
+BACC00221,ACC00627,"209 Victoria Road, Reading, UK",BACS,Quarterly,£,Active,14/07/2023,SDWAN2825712149
+BACC00222,ACC00836,"237 High Street, Manchester, UK",Invoice,Monthly,£,Active,11/03/2024,CV7664334159
+BACC00223,ACC00885,"99 Mill Road, Manchester, UK",Direct Debit,Monthly,£,Active,29/03/2023,PSTN1539050424
+BACC00224,ACC00258,"114 Station Road, Liverpool, UK",Invoice,Quarterly,£,Active,09/11/2025,ETH9327821267
+BACC00225,ACC00185,"17 Church Lane, Glasgow, UK",BACS,Monthly,£,Active,29/08/2024,MOB5752531669
+BACC00226,ACC00978,"47 Church Lane, Edinburgh, UK",Credit Card,Annual,£,Active,12/10/2025,CV3978329470
+BACC00227,ACC00225,"25 Station Road, Glasgow, UK",Credit Card,Quarterly,£,Active,08/05/2023,PSTN9185662365
+BACC00228,ACC00328,"241 High Street, Manchester, UK",Invoice,Quarterly,£,Active,15/05/2024,ETH5553460986
+BACC00229,ACC00955,"15 High Street, Reading, UK",Invoice,Monthly,£,Active,11/11/2024,FTTP6157739558
+BACC00230,ACC00576,"179 High Street, Reading, UK",Invoice,Monthly,£,Active,09/01/2024,ETH3656053913
+BACC00231,ACC00777,"182 Station Road, Cardiff, UK",Invoice,Annual,£,Active,06/04/2023,MPLS3589407719
+BACC00232,ACC00658,"103 Station Road, London, UK",BACS,Annual,£,Active,03/10/2025,MPLS4040139090
+BACC00233,ACC00401,"166 High Street, Liverpool, UK",Direct Debit,Quarterly,£,Active,05/06/2023,FTTC3877536977
+BACC00234,ACC00558,"212 High Street, London, UK",Invoice,Quarterly,£,Ceased,03/07/2025,PSTN3242978273
+BACC00235,ACC00827,"224 Mill Road, Bristol, UK",Invoice,Annual,£,Active,20/09/2025,SDWAN5098706538
+BACC00236,ACC00270,"95 Victoria Road, Birmingham, UK",Credit Card,Monthly,£,Inactive,17/02/2024,CV7732076177
+BACC00237,ACC00193,"175 Victoria Road, Cardiff, UK",Invoice,Annual,£,Ceased,22/10/2023,MPLS2615910088
+BACC00238,ACC00133,"77 Mill Road, Liverpool, UK",Invoice,Monthly,£,Active,16/05/2025,FTTC9971876120
+BACC00239,ACC00248,"42 Mill Road, Edinburgh, UK",BACS,Monthly,£,Inactive,15/03/2025,PSTN2395324945
+BACC00240,ACC00065,"152 High Street, Liverpool, UK",Credit Card,Monthly,£,Active,08/08/2024,BB2226713041
+BACC00241,ACC00408,"198 High Street, Reading, UK",Direct Debit,Monthly,£,Inactive,09/11/2024,FTTP4378482495
+BACC00242,ACC00750,"194 Mill Road, London, UK",Direct Debit,Monthly,£,Active,17/04/2025,BB5342691775
+BACC00243,ACC00636,"212 Mill Road, Birmingham, UK",Credit Card,Quarterly,£,Active,14/10/2024,CV3481472319
+BACC00244,ACC00466,"7 Victoria Road, Reading, UK",Invoice,Monthly,£,Inactive,28/03/2023,BB7302205852
+BACC00245,ACC00269,"248 Station Road, Reading, UK",BACS,Annual,£,Active,14/08/2025,CV6146672567
+BACC00246,ACC00855,"104 Victoria Road, Leeds, UK",Invoice,Quarterly,£,Active,01/07/2025,ETH9762697240
+BACC00247,ACC00257,"87 Mill Road, Manchester, UK",Invoice,Quarterly,£,Active,30/03/2024,PSTN6978443800
+BACC00248,ACC00182,"71 Victoria Road, Liverpool, UK",BACS,Monthly,£,Active,24/04/2025,PSTN7210711370
+BACC00249,ACC00538,"101 Station Road, Manchester, UK",Invoice,Quarterly,£,Ceased,03/10/2023,SDWAN2147664354
+BACC00250,ACC00120,"180 High Street, London, UK",Credit Card,Annual,£,Inactive,14/08/2024,ETH9355734327
+BACC00251,ACC00377,"180 Church Lane, Liverpool, UK",BACS,Monthly,£,Active,21/10/2025,ETH3902742062
+BACC00252,ACC00914,"233 Church Lane, Edinburgh, UK",Invoice,Quarterly,£,Ceased,10/02/2023,SIP7278110238
+BACC00253,ACC00413,"226 Station Road, Reading, UK",Credit Card,Annual,£,Ceased,13/09/2025,FTTC3808103680
+BACC00254,ACC00902,"92 Station Road, Liverpool, UK",Direct Debit,Quarterly,£,Active,14/08/2024,ETH7515581834
+BACC00255,ACC00381,"239 Church Lane, Bristol, UK",Direct Debit,Monthly,£,Ceased,02/10/2024,FTTC9134440461
+BACC00256,ACC00698,"103 Mill Road, Leeds, UK",Credit Card,Quarterly,£,Active,29/11/2023,FTTP6704530718
+BACC00257,ACC00288,"225 Station Road, Edinburgh, UK",BACS,Monthly,£,Active,05/02/2026,BB8972493829
+BACC00258,ACC00075,"141 Victoria Road, London, UK",Credit Card,Annual,£,Active,11/02/2026,PSTN1514407669
+BACC00259,ACC00885,"166 Church Lane, Liverpool, UK",BACS,Annual,£,Inactive,23/12/2024,CV3850661991
+BACC00260,ACC00057,"219 Victoria Road, Birmingham, UK",BACS,Monthly,£,Active,27/01/2025,FTTC2490862799
+BACC00261,ACC00888,"9 Victoria Road, Edinburgh, UK",BACS,Annual,£,Active,23/02/2025,MOB8932763290
+BACC00262,ACC00581,"136 High Street, London, UK",Direct Debit,Annual,£,Active,08/10/2024,MPLS5065202334
+BACC00263,ACC00342,"9 Mill Road, Glasgow, UK",Credit Card,Annual,£,Active,11/08/2023,ETH7173590258
+BACC00264,ACC00515,"59 Victoria Road, Edinburgh, UK",Direct Debit,Annual,£,Active,02/04/2025,BB8336440549
+BACC00265,ACC00121,"204 Church Lane, Cardiff, UK",Invoice,Quarterly,£,Active,10/10/2024,SDWAN8153271912
+BACC00266,ACC00322,"25 Station Road, Leeds, UK",Credit Card,Quarterly,£,Active,08/10/2025,SIP8076561623
+BACC00267,ACC00849,"140 Station Road, Liverpool, UK",BACS,Annual,£,Ceased,04/10/2023,CV7558227131
+BACC00268,ACC00079,"42 High Street, Liverpool, UK",BACS,Monthly,£,Active,06/06/2025,PSTN5272908386
+BACC00269,ACC00640,"188 Victoria Road, Cardiff, UK",Invoice,Quarterly,£,Active,25/04/2025,ETH1638160795
+BACC00270,ACC00120,"215 Mill Road, London, UK",BACS,Quarterly,£,Inactive,02/02/2025,BB2485798881
+BACC00271,ACC00879,"177 Victoria Road, Manchester, UK",Direct Debit,Annual,£,Active,06/08/2023,CV8075671543
+BACC00272,ACC00777,"41 Victoria Road, London, UK",Invoice,Monthly,£,Active,23/03/2024,FTTP5636972154
+BACC00273,ACC00927,"29 Station Road, Manchester, UK",BACS,Monthly,£,Active,09/01/2023,MOB8745897669
+BACC00274,ACC00221,"210 High Street, Birmingham, UK",Credit Card,Monthly,£,Active,18/02/2025,MOB4387392916
+BACC00275,ACC00294,"42 Victoria Road, Edinburgh, UK",Invoice,Monthly,£,Active,03/03/2024,FTTC8424142815
+BACC00276,ACC00062,"5 Mill Road, Reading, UK",Credit Card,Quarterly,£,Active,15/04/2023,FTTP7228527353
+BACC00277,ACC00716,"12 Victoria Road, Manchester, UK",BACS,Monthly,£,Active,03/12/2025,SDWAN1469265658
+BACC00278,ACC00544,"211 Victoria Road, Glasgow, UK",Credit Card,Monthly,£,Inactive,11/03/2025,FTTP5179952198
+BACC00279,ACC00885,"154 High Street, Cardiff, UK",BACS,Annual,£,Ceased,07/07/2024,PSTN5949258073
+BACC00280,ACC00781,"117 High Street, London, UK",Invoice,Monthly,£,Ceased,30/10/2023,CV5965044543
+BACC00281,ACC00497,"92 Mill Road, Glasgow, UK",Direct Debit,Quarterly,£,Active,17/09/2025,SIP1063961828
+BACC00282,ACC00755,"113 Church Lane, Bristol, UK",Invoice,Quarterly,£,Active,01/06/2025,FTTP7078726386
+BACC00283,ACC00815,"6 High Street, Reading, UK",BACS,Annual,£,Active,04/07/2025,PSTN3429910532
+BACC00284,ACC00892,"137 Church Lane, Liverpool, UK",BACS,Annual,£,Active,07/08/2025,CV9382967525
+BACC00285,ACC00294,"190 Church Lane, Glasgow, UK",Direct Debit,Annual,£,Active,20/01/2024,CV8496857208
+BACC00286,ACC00504,"22 Station Road, Glasgow, UK",Direct Debit,Quarterly,£,Active,26/02/2025,BB8429323327
+BACC00287,ACC00717,"50 High Street, Cardiff, UK",Direct Debit,Monthly,£,Active,01/06/2024,BB6577253207
+BACC00288,ACC00872,"9 Station Road, Birmingham, UK",BACS,Monthly,£,Ceased,06/12/2023,SIP8092480509
+BACC00289,ACC00625,"134 Church Lane, Bristol, UK",Invoice,Monthly,£,Active,13/12/2025,SDWAN9351665823
+BACC00290,ACC00070,"183 Church Lane, London, UK",Invoice,Quarterly,£,Active,16/08/2023,MPLS5101081390
+BACC00291,ACC00726,"126 Station Road, Bristol, UK",Direct Debit,Monthly,£,Active,27/12/2025,CV2721498163
+BACC00292,ACC00107,"186 Mill Road, Bristol, UK",BACS,Quarterly,£,Inactive,13/01/2025,MOB1207139040
+BACC00293,ACC00421,"152 Victoria Road, Glasgow, UK",BACS,Monthly,£,Active,02/12/2023,MOB4040938001
+BACC00294,ACC00204,"59 Church Lane, Manchester, UK",Invoice,Monthly,£,Active,22/04/2024,PSTN4006130079
+BACC00295,ACC00432,"58 Station Road, Cardiff, UK",Invoice,Annual,£,Active,02/02/2023,MOB3097951825
+BACC00296,ACC00271,"108 Station Road, Liverpool, UK",Credit Card,Monthly,£,Active,11/04/2023,SIP2785412327
+BACC00297,ACC00244,"166 Station Road, Glasgow, UK",Invoice,Monthly,£,Active,01/08/2023,FTTC1560921224
+BACC00298,ACC00004,"196 Church Lane, Manchester, UK",Invoice,Monthly,£,Active,11/01/2025,MPLS8001232299
+BACC00299,ACC00218,"47 Mill Road, Cardiff, UK",BACS,Annual,£,Active,24/01/2026,MOB4592318897
+BACC00300,ACC00834,"151 Mill Road, Edinburgh, UK",Invoice,Quarterly,£,Active,24/01/2024,ETH1705620117
+BACC00301,ACC00228,"38 Station Road, Manchester, UK",Direct Debit,Monthly,£,Active,11/05/2023,SIP8640709198
+BACC00302,ACC00696,"84 High Street, Cardiff, UK",Invoice,Annual,£,Active,22/02/2023,CV5079572305
+BACC00303,ACC00951,"16 Mill Road, Leeds, UK",Direct Debit,Quarterly,£,Ceased,27/04/2023,FTTP1078299004
+BACC00304,ACC00158,"212 Mill Road, Birmingham, UK",Credit Card,Monthly,£,Active,10/06/2024,MPLS1189709154
+BACC00305,ACC00126,"213 Church Lane, Leeds, UK",Invoice,Monthly,£,Active,01/04/2024,MPLS7989811143
+BACC00306,ACC00435,"29 Victoria Road, Liverpool, UK",BACS,Quarterly,£,Active,05/09/2025,PSTN2836427101
+BACC00307,ACC00366,"122 Mill Road, Cardiff, UK",Direct Debit,Monthly,£,Active,20/10/2025,FTTC8439349776
+BACC00308,ACC00653,"54 Church Lane, Reading, UK",Invoice,Monthly,£,Active,16/08/2023,SIP5461103645
+BACC00309,ACC00310,"25 Victoria Road, Bristol, UK",Direct Debit,Monthly,£,Active,08/06/2023,BB3723402406
+BACC00310,ACC00049,"204 Station Road, Liverpool, UK",BACS,Quarterly,£,Active,23/09/2025,MPLS1875349522
+BACC00311,ACC00418,"222 High Street, Reading, UK",BACS,Annual,£,Active,20/06/2024,BB6256146097
+BACC00312,ACC00181,"95 Victoria Road, Cardiff, UK",Credit Card,Monthly,£,Active,08/02/2025,SDWAN3913498456
+BACC00313,ACC00653,"152 Victoria Road, Reading, UK",Direct Debit,Monthly,£,Active,23/12/2025,CV6673105951
+BACC00314,ACC00225,"239 Victoria Road, Liverpool, UK",Invoice,Monthly,£,Active,13/01/2024,SIP4459962585
+BACC00315,ACC00374,"8 Station Road, Bristol, UK",Direct Debit,Quarterly,£,Ceased,21/06/2023,BB2728176812
+BACC00316,ACC00466,"172 High Street, Cardiff, UK",Direct Debit,Quarterly,£,Active,23/04/2025,MOB4155394487
+BACC00317,ACC00011,"14 High Street, Liverpool, UK",Credit Card,Monthly,£,Active,01/07/2025,BB4952440358
+BACC00318,ACC00221,"215 Mill Road, Glasgow, UK",BACS,Annual,£,Inactive,02/09/2025,MPLS8251633815
+BACC00319,ACC00594,"223 High Street, Manchester, UK",Credit Card,Monthly,£,Active,05/03/2025,SDWAN5065567104
+BACC00320,ACC00719,"185 Victoria Road, Cardiff, UK",BACS,Monthly,£,Active,13/03/2023,SDWAN7901557960
+BACC00321,ACC00366,"12 Station Road, Glasgow, UK",Invoice,Quarterly,£,Active,17/10/2025,SDWAN4178420307
+BACC00322,ACC00794,"90 Mill Road, Glasgow, UK",BACS,Annual,£,Ceased,31/07/2024,ETH8100453317
+BACC00323,ACC00224,"191 High Street, Glasgow, UK",Direct Debit,Annual,£,Active,29/06/2024,PSTN4096999447
+BACC00324,ACC00533,"89 Station Road, Glasgow, UK",Invoice,Annual,£,Active,09/01/2024,ETH4776512484
+BACC00325,ACC00434,"247 Mill Road, Liverpool, UK",Invoice,Annual,£,Active,03/07/2025,CV7023086465
+BACC00326,ACC00127,"155 Station Road, Bristol, UK",Direct Debit,Quarterly,£,Active,06/02/2023,PSTN4901085345
+BACC00327,ACC00687,"154 High Street, Birmingham, UK",Invoice,Monthly,£,Active,14/02/2024,FTTP8487957429
+BACC00328,ACC00310,"6 High Street, Leeds, UK",Invoice,Annual,£,Active,12/06/2025,PSTN9529127300
+BACC00329,ACC00571,"80 Mill Road, Glasgow, UK",BACS,Quarterly,£,Active,10/01/2025,SDWAN2041985955
+BACC00330,ACC00677,"202 Mill Road, Liverpool, UK",BACS,Annual,£,Active,08/12/2025,ETH4503167236
+BACC00331,ACC00693,"249 Church Lane, Liverpool, UK",Invoice,Annual,£,Active,09/04/2024,BB4237406298
+BACC00332,ACC00658,"250 Mill Road, Edinburgh, UK",Invoice,Annual,£,Active,03/09/2024,MPLS2531872158
+BACC00333,ACC00896,"2 High Street, Liverpool, UK",Credit Card,Annual,£,Active,02/10/2024,PSTN4486370979
+BACC00334,ACC00901,"232 Church Lane, Bristol, UK",BACS,Annual,£,Active,23/10/2023,BB5393949498
+BACC00335,ACC00247,"127 Mill Road, Manchester, UK",BACS,Annual,£,Active,06/07/2023,FTTP3192202310
+BACC00336,ACC00954,"247 High Street, Reading, UK",Invoice,Annual,£,Active,06/10/2025,MPLS8590147560
+BACC00337,ACC00576,"104 Victoria Road, Glasgow, UK",BACS,Annual,£,Active,02/03/2025,SDWAN2719976109
+BACC00338,ACC00172,"5 Victoria Road, Edinburgh, UK",Invoice,Annual,£,Active,20/06/2024,FTTC4508552165
+BACC00339,ACC00743,"221 Station Road, Edinburgh, UK",Direct Debit,Annual,£,Active,05/07/2024,MPLS2667257569
+BACC00340,ACC00636,"170 Victoria Road, London, UK",Direct Debit,Quarterly,£,Active,22/03/2023,SDWAN3591743577
+BACC00341,ACC00066,"15 Church Lane, Leeds, UK",BACS,Annual,£,Active,22/11/2023,MPLS4259153302
+BACC00342,ACC00186,"71 Mill Road, Bristol, UK",BACS,Monthly,£,Ceased,14/08/2023,BB9078654545
+BACC00343,ACC00797,"215 Station Road, London, UK",BACS,Monthly,£,Active,07/03/2023,ETH8418994056
+BACC00344,ACC00095,"90 Victoria Road, Reading, UK",Credit Card,Annual,£,Active,29/04/2025,SIP5815594701
+BACC00345,ACC00019,"29 Church Lane, Manchester, UK",Invoice,Annual,£,Active,11/05/2023,FTTC4492352686
+BACC00346,ACC00331,"224 Mill Road, Glasgow, UK",Credit Card,Monthly,£,Active,08/03/2024,CV3417089807
+BACC00347,ACC00127,"29 High Street, Liverpool, UK",Invoice,Annual,£,Active,12/03/2023,MOB6544778233
+BACC00348,ACC00399,"249 Mill Road, Birmingham, UK",BACS,Annual,£,Active,22/11/2025,SIP4528292170
+BACC00349,ACC00857,"216 Mill Road, London, UK",Credit Card,Monthly,£,Ceased,21/04/2023,CV4136222760
+BACC00350,ACC00341,"173 Church Lane, Liverpool, UK",Credit Card,Quarterly,£,Active,09/11/2024,ETH3195804760
+BACC00351,ACC00593,"154 High Street, Edinburgh, UK",BACS,Annual,£,Active,10/08/2025,FTTC4995616118
+BACC00352,ACC00243,"54 Victoria Road, Edinburgh, UK",Credit Card,Annual,£,Active,13/12/2025,PSTN8414997012
+BACC00353,ACC00723,"202 Church Lane, Birmingham, UK",Credit Card,Monthly,£,Inactive,22/07/2023,PSTN1957643099
+BACC00354,ACC00851,"43 Church Lane, Liverpool, UK",Direct Debit,Annual,£,Active,14/09/2023,MOB8149240811
+BACC00355,ACC00187,"19 High Street, Glasgow, UK",BACS,Monthly,£,Active,04/05/2025,PSTN6804319527
+BACC00356,ACC00305,"38 High Street, Birmingham, UK",Direct Debit,Quarterly,£,Active,12/09/2025,SDWAN6150079571
+BACC00357,ACC00658,"178 Mill Road, Glasgow, UK",Credit Card,Quarterly,£,Active,21/02/2026,BB2546662754
+BACC00358,ACC00223,"148 High Street, Manchester, UK",Direct Debit,Annual,£,Active,21/01/2023,ETH1732746457
+BACC00359,ACC00777,"25 Victoria Road, Birmingham, UK",Credit Card,Annual,£,Active,25/01/2026,CV4359066560
+BACC00360,ACC00474,"240 Church Lane, Edinburgh, UK",Invoice,Quarterly,£,Inactive,05/01/2025,FTTP9478969091
+BACC00361,ACC00812,"212 Victoria Road, Birmingham, UK",Invoice,Annual,£,Active,26/11/2024,CV8148407523
+BACC00362,ACC00911,"162 Station Road, Reading, UK",Credit Card,Monthly,£,Active,05/11/2025,SIP1280735461
+BACC00363,ACC00424,"20 Station Road, London, UK",BACS,Quarterly,£,Active,02/10/2025,PSTN4957805214
+BACC00364,ACC00289,"153 Mill Road, Manchester, UK",Direct Debit,Annual,£,Inactive,17/02/2025,CV7238983480
+BACC00365,ACC00350,"17 Victoria Road, Glasgow, UK",Direct Debit,Annual,£,Active,09/08/2024,CV4415173516
+BACC00366,ACC00935,"72 Mill Road, Glasgow, UK",BACS,Quarterly,£,Inactive,12/01/2025,MOB3524022054
+BACC00367,ACC00687,"132 Victoria Road, Bristol, UK",BACS,Annual,£,Active,17/11/2024,FTTC6494750225
+BACC00368,ACC00887,"94 Church Lane, Edinburgh, UK",Direct Debit,Annual,£,Active,13/05/2024,SIP7075531806
+BACC00369,ACC00356,"96 Church Lane, Liverpool, UK",Credit Card,Monthly,£,Active,06/08/2025,SDWAN7140621492
+BACC00370,ACC00097,"1 Mill Road, Glasgow, UK",Credit Card,Monthly,£,Active,17/02/2023,MOB1041433529
+BACC00371,ACC00957,"24 Victoria Road, Edinburgh, UK",BACS,Monthly,£,Ceased,01/07/2023,SIP2443710811
+BACC00372,ACC00281,"150 Station Road, Glasgow, UK",Credit Card,Annual,£,Active,07/08/2023,MOB4149295613
+BACC00373,ACC00198,"111 Mill Road, Reading, UK",Credit Card,Quarterly,£,Inactive,30/03/2024,SIP8241653287
+BACC00374,ACC00857,"241 High Street, Edinburgh, UK",Direct Debit,Quarterly,£,Active,10/01/2025,MPLS7799383375
+BACC00375,ACC00206,"130 High Street, Manchester, UK",BACS,Quarterly,£,Active,14/04/2025,MOB7008454640
+BACC00376,ACC00779,"210 High Street, London, UK",Credit Card,Quarterly,£,Inactive,18/08/2024,SDWAN4746440155
+BACC00377,ACC00037,"179 High Street, London, UK",Invoice,Annual,£,Active,09/12/2023,CV8133717882
+BACC00378,ACC00045,"31 Mill Road, Glasgow, UK",Direct Debit,Monthly,£,Active,19/04/2023,MPLS8494617974
+BACC00379,ACC00258,"31 Victoria Road, Liverpool, UK",Direct Debit,Quarterly,£,Active,27/02/2025,FTTP9257298347
+BACC00380,ACC00202,"226 Victoria Road, Birmingham, UK",BACS,Quarterly,£,Active,03/11/2025,BB7866505517
+BACC00381,ACC00345,"126 High Street, Cardiff, UK",BACS,Monthly,£,Active,27/02/2023,ETH7085368788
+BACC00382,ACC00834,"166 Church Lane, Leeds, UK",Direct Debit,Annual,£,Active,24/12/2025,SIP1886227016
+BACC00383,ACC00746,"123 Station Road, Cardiff, UK",Direct Debit,Annual,£,Active,02/07/2024,FTTC5025909092
+BACC00384,ACC00531,"147 Mill Road, Manchester, UK",Invoice,Quarterly,£,Active,17/05/2023,PSTN2142473597
+BACC00385,ACC00522,"137 Station Road, Liverpool, UK",BACS,Monthly,£,Active,13/02/2025,CV7296668516
+BACC00386,ACC00917,"27 Station Road, Birmingham, UK",Invoice,Quarterly,£,Active,28/05/2025,FTTC5797394840
+BACC00387,ACC00193,"187 Church Lane, Liverpool, UK",Direct Debit,Quarterly,£,Active,12/06/2023,MOB9423698508
+BACC00388,ACC00306,"220 Mill Road, Reading, UK",Invoice,Annual,£,Active,02/05/2023,PSTN2413205632
+BACC00389,ACC00002,"20 Mill Road, Cardiff, UK",Direct Debit,Quarterly,£,Active,21/11/2025,FTTC8667027984
+BACC00390,ACC00806,"81 Station Road, London, UK",Direct Debit,Quarterly,£,Active,01/12/2024,MOB4763186623
+BACC00391,ACC00730,"117 Station Road, Cardiff, UK",Invoice,Monthly,£,Active,05/12/2025,SDWAN4163053913
+BACC00392,ACC00570,"110 Victoria Road, Liverpool, UK",BACS,Annual,£,Active,15/12/2024,FTTP1380695156
+BACC00393,ACC00877,"223 Mill Road, Glasgow, UK",Direct Debit,Annual,£,Ceased,09/02/2024,ETH3977421581
+BACC00394,ACC00971,"85 High Street, Leeds, UK",Credit Card,Annual,£,Active,12/11/2025,MPLS4790214824
+BACC00395,ACC00327,"34 High Street, London, UK",Credit Card,Quarterly,£,Active,05/04/2023,CV1452982389
+BACC00396,ACC00494,"92 Victoria Road, Reading, UK",BACS,Monthly,£,Active,06/08/2024,ETH7649515416
+BACC00397,ACC00775,"194 Station Road, London, UK",Invoice,Annual,£,Active,30/08/2024,PSTN2573057658
+BACC00398,ACC00967,"28 Victoria Road, Liverpool, UK",Invoice,Monthly,£,Active,17/04/2023,SIP7054878003
+BACC00399,ACC00115,"110 Church Lane, Glasgow, UK",Invoice,Quarterly,£,Active,24/05/2024,MPLS3955595351
+BACC00400,ACC00555,"112 Victoria Road, Glasgow, UK",BACS,Annual,£,Active,09/07/2025,BB5606215962
+BACC00401,ACC00760,"229 Church Lane, Leeds, UK",Invoice,Monthly,£,Active,22/08/2024,PSTN9095834034
+BACC00402,ACC00253,"138 Victoria Road, Cardiff, UK",BACS,Annual,£,Active,15/09/2024,MOB4775371607
+BACC00403,ACC00777,"184 Mill Road, Birmingham, UK",BACS,Quarterly,£,Active,27/07/2025,MOB7567774369
+BACC00404,ACC00436,"144 Church Lane, Cardiff, UK",Credit Card,Annual,£,Active,11/07/2025,SIP7515356646
+BACC00405,ACC00236,"95 Victoria Road, Manchester, UK",Credit Card,Monthly,£,Active,27/02/2023,PSTN1499961341
+BACC00406,ACC00794,"203 Victoria Road, Liverpool, UK",Direct Debit,Monthly,£,Active,28/07/2023,FTTC9376587829
+BACC00407,ACC00868,"172 Mill Road, London, UK",BACS,Monthly,£,Active,17/03/2023,SIP3746873832
+BACC00408,ACC00954,"11 Mill Road, London, UK",Invoice,Annual,£,Active,25/03/2023,MOB1528512841
+BACC00409,ACC00388,"175 High Street, Manchester, UK",Direct Debit,Quarterly,£,Ceased,03/01/2025,BB3865677512
+BACC00410,ACC00712,"147 Church Lane, Cardiff, UK",Direct Debit,Annual,£,Active,23/09/2024,FTTP6948201138
+BACC00411,ACC00734,"124 Victoria Road, Glasgow, UK",Invoice,Annual,£,Active,23/10/2024,FTTP6799816306
+BACC00412,ACC00892,"190 Station Road, Cardiff, UK",Credit Card,Monthly,£,Active,02/04/2023,MOB8894664524
+BACC00413,ACC00619,"198 Church Lane, Cardiff, UK",Invoice,Monthly,£,Inactive,08/02/2023,CV3147358558
+BACC00414,ACC00016,"148 Mill Road, Bristol, UK",Credit Card,Monthly,£,Active,27/01/2026,ETH9581126144
+BACC00415,ACC00095,"17 Mill Road, Reading, UK",Invoice,Annual,£,Active,22/04/2023,BB8450882008
+BACC00416,ACC00998,"165 Victoria Road, London, UK",BACS,Quarterly,£,Active,05/03/2023,SDWAN4320226141
+BACC00417,ACC00755,"40 Mill Road, Birmingham, UK",BACS,Monthly,£,Active,29/11/2024,SIP2969030005
+BACC00418,ACC00031,"103 Victoria Road, London, UK",Direct Debit,Monthly,£,Active,24/08/2023,SDWAN7826252749
+BACC00419,ACC00071,"107 Victoria Road, London, UK",Credit Card,Annual,£,Active,09/03/2024,SDWAN4945801592
+BACC00420,ACC00962,"230 Church Lane, Glasgow, UK",Credit Card,Monthly,£,Active,26/02/2024,ETH9452448346
+BACC00421,ACC00915,"71 Station Road, Bristol, UK",Direct Debit,Monthly,£,Active,24/01/2025,MPLS4695006048
+BACC00422,ACC00084,"51 Victoria Road, Reading, UK",Direct Debit,Annual,£,Active,11/02/2023,BB1474194722
+BACC00423,ACC00056,"20 High Street, Bristol, UK",Direct Debit,Monthly,£,Active,24/03/2025,SIP2568118652
+BACC00424,ACC00522,"57 Station Road, Reading, UK",Invoice,Annual,£,Ceased,15/01/2023,MPLS6345733426
+BACC00425,ACC00808,"246 High Street, London, UK",Invoice,Annual,£,Active,31/10/2023,FTTC9294267592
+BACC00426,ACC00616,"171 Mill Road, Reading, UK",Direct Debit,Annual,£,Active,18/01/2024,BB7470602341
+BACC00427,ACC00035,"118 Mill Road, Manchester, UK",Direct Debit,Annual,£,Active,20/02/2026,FTTC1546110983
+BACC00428,ACC00304,"215 Church Lane, London, UK",Credit Card,Quarterly,£,Active,24/03/2025,FTTC8054228425
+BACC00429,ACC00765,"149 High Street, Edinburgh, UK",Credit Card,Monthly,£,Active,28/08/2023,PSTN6761811505
+BACC00430,ACC00186,"12 Church Lane, Cardiff, UK",Credit Card,Monthly,£,Active,13/01/2024,FTTP7771978685
+BACC00431,ACC00556,"84 High Street, Edinburgh, UK",BACS,Monthly,£,Active,05/10/2023,SIP6398475569
+BACC00432,ACC00131,"40 Victoria Road, Edinburgh, UK",Credit Card,Quarterly,£,Active,21/08/2024,MOB1317118367
+BACC00433,ACC00153,"60 Station Road, Cardiff, UK",Credit Card,Annual,£,Active,24/07/2023,SDWAN2239373473
+BACC00434,ACC00661,"106 Church Lane, Birmingham, UK",Invoice,Monthly,£,Active,10/11/2025,FTTP7758039973
+BACC00435,ACC00366,"83 Church Lane, Cardiff, UK",Credit Card,Monthly,£,Active,13/09/2023,PSTN7792540012
+BACC00436,ACC00240,"120 Church Lane, Bristol, UK",Direct Debit,Quarterly,£,Active,30/12/2023,FTTP2265087467
+BACC00437,ACC00796,"88 Station Road, London, UK",Direct Debit,Quarterly,£,Active,07/02/2025,CV9705095571
+BACC00438,ACC00849,"31 High Street, Reading, UK",Credit Card,Quarterly,£,Active,02/02/2025,CV3104203382
+BACC00439,ACC00314,"105 Church Lane, Reading, UK",Credit Card,Annual,£,Active,16/05/2025,MOB8615831730
+BACC00440,ACC00803,"209 Victoria Road, Edinburgh, UK",BACS,Quarterly,£,Active,30/10/2024,ETH7242236486
+BACC00441,ACC00748,"137 Victoria Road, Birmingham, UK",Invoice,Monthly,£,Active,19/10/2024,SIP5923920967
+BACC00442,ACC00075,"152 Victoria Road, Leeds, UK",BACS,Monthly,£,Ceased,30/04/2023,SDWAN9173658105
+BACC00443,ACC00067,"64 High Street, Cardiff, UK",Invoice,Quarterly,£,Active,05/08/2024,CV6883460947
+BACC00444,ACC00491,"42 High Street, Edinburgh, UK",Credit Card,Monthly,£,Active,03/03/2025,PSTN8275476221
+BACC00445,ACC00795,"107 Victoria Road, Cardiff, UK",BACS,Monthly,£,Inactive,11/09/2025,CV6845920483
+BACC00446,ACC00439,"130 Church Lane, London, UK",Invoice,Monthly,£,Ceased,26/03/2023,MPLS1450845417
+BACC00447,ACC00529,"155 High Street, Manchester, UK",Credit Card,Monthly,£,Active,15/01/2025,ETH7259375071
+BACC00448,ACC00543,"176 Church Lane, Cardiff, UK",Direct Debit,Annual,£,Active,15/09/2025,FTTP1159187387
+BACC00449,ACC00394,"193 Mill Road, Manchester, UK",Invoice,Annual,£,Active,04/07/2025,MPLS9193013469
+BACC00450,ACC00406,"73 Victoria Road, Liverpool, UK",Direct Debit,Annual,£,Active,01/04/2024,FTTP1925961324
+BACC00451,ACC00357,"217 Station Road, Liverpool, UK",Credit Card,Annual,£,Active,13/07/2025,FTTC9818092057
+BACC00452,ACC00588,"98 Station Road, Manchester, UK",Invoice,Annual,£,Active,18/01/2025,CV1260490883
+BACC00453,ACC00116,"131 Church Lane, Liverpool, UK",BACS,Quarterly,£,Active,11/01/2024,CV7255600817
+BACC00454,ACC00252,"247 Station Road, Liverpool, UK",BACS,Quarterly,£,Active,08/01/2023,MPLS4250233671
+BACC00455,ACC00652,"231 Station Road, Reading, UK",Invoice,Annual,£,Active,02/05/2024,MPLS8885835256
+BACC00456,ACC00040,"216 Victoria Road, Manchester, UK",BACS,Annual,£,Active,03/05/2025,MOB7347966042
+BACC00457,ACC00847,"22 Station Road, Glasgow, UK",Invoice,Annual,£,Active,02/02/2026,BB8231850342
+BACC00458,ACC00698,"164 Station Road, Edinburgh, UK",Credit Card,Quarterly,£,Active,01/05/2025,BB9124268323
+BACC00459,ACC00847,"135 High Street, Cardiff, UK",Direct Debit,Monthly,£,Active,14/05/2025,CV2072394222
+BACC00460,ACC00664,"33 High Street, Liverpool, UK",Invoice,Annual,£,Ceased,24/03/2025,BB6958656066
+BACC00461,ACC00686,"19 High Street, Cardiff, UK",Credit Card,Monthly,£,Active,09/06/2025,MPLS3070652398
+BACC00462,ACC00360,"46 High Street, London, UK",Invoice,Annual,£,Active,12/08/2024,BB6817582276
+BACC00463,ACC00616,"128 High Street, Liverpool, UK",Credit Card,Quarterly,£,Active,01/06/2025,SDWAN6468931249
+BACC00464,ACC00831,"130 Mill Road, Manchester, UK",BACS,Quarterly,£,Active,10/06/2024,SDWAN7409610505
+BACC00465,ACC00306,"101 Station Road, Edinburgh, UK",Invoice,Quarterly,£,Active,26/11/2023,PSTN1003488978
+BACC00466,ACC00281,"21 High Street, Liverpool, UK",Credit Card,Monthly,£,Active,16/09/2025,ETH1654748213
+BACC00467,ACC00759,"111 Victoria Road, London, UK",Invoice,Quarterly,£,Inactive,24/07/2025,FTTP1423845501
+BACC00468,ACC00592,"47 Victoria Road, Glasgow, UK",BACS,Quarterly,£,Active,02/05/2025,ETH1838386093
+BACC00469,ACC00267,"193 Church Lane, Glasgow, UK",Direct Debit,Annual,£,Active,14/12/2024,FTTP4267360144
+BACC00470,ACC00587,"234 High Street, Glasgow, UK",BACS,Annual,£,Active,12/11/2025,FTTC3597539444
+BACC00471,ACC00404,"134 Victoria Road, London, UK",Invoice,Monthly,£,Active,20/02/2023,FTTP2130571056
+BACC00472,ACC00353,"212 High Street, Cardiff, UK",Invoice,Monthly,£,Active,01/09/2023,MPLS9606433483
+BACC00473,ACC00595,"177 Mill Road, Edinburgh, UK",Invoice,Monthly,£,Ceased,21/03/2023,FTTP6517671074
+BACC00474,ACC00370,"210 Mill Road, Manchester, UK",Invoice,Annual,£,Active,20/07/2025,SDWAN9484521746
+BACC00475,ACC00712,"12 Mill Road, Edinburgh, UK",Credit Card,Monthly,£,Active,19/03/2023,FTTP8884387164
+BACC00476,ACC00853,"44 Mill Road, Manchester, UK",Invoice,Quarterly,£,Active,25/02/2023,SDWAN5103023751
+BACC00477,ACC00104,"194 Victoria Road, Liverpool, UK",Direct Debit,Quarterly,£,Active,29/08/2023,FTTP2281054673
+BACC00478,ACC00059,"109 Mill Road, Liverpool, UK",BACS,Annual,£,Active,19/04/2025,MPLS1022165982
+BACC00479,ACC00291,"101 High Street, Leeds, UK",Direct Debit,Monthly,£,Ceased,14/12/2025,FTTC7950232725
+BACC00480,ACC00769,"144 Victoria Road, Leeds, UK",Direct Debit,Monthly,£,Inactive,13/05/2025,SIP4875113106
+BACC00481,ACC00431,"151 Station Road, London, UK",Invoice,Quarterly,£,Active,25/07/2024,MPLS9295642969
+BACC00482,ACC00858,"212 Victoria Road, Edinburgh, UK",Invoice,Quarterly,£,Active,17/02/2024,CV9403029164
+BACC00483,ACC00400,"49 Station Road, Glasgow, UK",Direct Debit,Quarterly,£,Active,05/10/2023,SDWAN3582085278
+BACC00484,ACC00583,"171 Church Lane, Bristol, UK",Direct Debit,Annual,£,Active,04/04/2025,MOB8827990042
+BACC00485,ACC00171,"250 High Street, London, UK",Credit Card,Monthly,£,Active,22/05/2023,BB7588297894
+BACC00486,ACC00670,"225 Victoria Road, Birmingham, UK",BACS,Monthly,£,Active,18/03/2024,MOB9204133204
+BACC00487,ACC00292,"162 High Street, Leeds, UK",Credit Card,Annual,£,Active,08/06/2025,BB6666438278
+BACC00488,ACC00026,"24 High Street, Bristol, UK",Credit Card,Monthly,£,Active,27/07/2024,MOB7259719860
+BACC00489,ACC00827,"109 Church Lane, Edinburgh, UK",BACS,Quarterly,£,Active,06/12/2025,ETH7495535470
+BACC00490,ACC00731,"139 Mill Road, Liverpool, UK",Invoice,Monthly,£,Active,21/05/2023,FTTC5054219632
+BACC00491,ACC00414,"69 Church Lane, Glasgow, UK",Invoice,Quarterly,£,Active,07/09/2023,FTTC5950276821
+BACC00492,ACC00244,"25 Station Road, Leeds, UK",Direct Debit,Quarterly,£,Inactive,14/06/2023,ETH8661355475
+BACC00493,ACC00071,"151 Station Road, Edinburgh, UK",Invoice,Monthly,£,Active,17/10/2025,FTTP7921503328
+BACC00494,ACC00967,"92 Mill Road, Bristol, UK",BACS,Monthly,£,Active,14/11/2024,BB9912387718
+BACC00495,ACC00218,"69 Station Road, Liverpool, UK",Direct Debit,Annual,£,Ceased,20/02/2024,FTTC7760786379
+BACC00496,ACC00669,"218 Mill Road, Birmingham, UK",BACS,Annual,£,Active,02/04/2023,SIP7513834365
+BACC00497,ACC00325,"114 Victoria Road, London, UK",Direct Debit,Annual,£,Active,17/02/2026,MOB2289418744
+BACC00498,ACC00107,"2 High Street, Edinburgh, UK",Credit Card,Monthly,£,Active,04/11/2024,ETH2398953489
+BACC00499,ACC00606,"217 Victoria Road, Manchester, UK",Credit Card,Monthly,£,Active,01/05/2025,MPLS5870203151
+BACC00500,ACC00600,"4 Mill Road, Leeds, UK",Credit Card,Quarterly,£,Active,18/03/2025,SDWAN9071253703
+BACC00501,ACC00205,"179 Church Lane, Glasgow, UK",Direct Debit,Monthly,£,Active,11/10/2025,ETH9970649903
+BACC00502,ACC00721,"186 Station Road, Liverpool, UK",BACS,Quarterly,£,Active,07/03/2023,FTTP5039430265
+BACC00503,ACC00103,"237 Station Road, Birmingham, UK",Credit Card,Quarterly,£,Active,09/01/2026,BB6116454525
+BACC00504,ACC00595,"26 Station Road, Liverpool, UK",Credit Card,Quarterly,£,Active,03/01/2023,MOB4308569847
+BACC00505,ACC00524,"60 High Street, Liverpool, UK",BACS,Monthly,£,Active,12/05/2025,MPLS9514078689
+BACC00506,ACC00231,"175 Church Lane, Reading, UK",Invoice,Monthly,£,Active,29/06/2023,MPLS8669559363
+BACC00507,ACC00333,"208 Victoria Road, Cardiff, UK",Invoice,Monthly,£,Active,18/09/2025,MPLS9498850744
+BACC00508,ACC00446,"96 Station Road, Cardiff, UK",BACS,Quarterly,£,Active,25/09/2024,FTTP5487708535
+BACC00509,ACC00112,"215 Mill Road, Cardiff, UK",Credit Card,Quarterly,£,Active,08/09/2023,PSTN8581534558
+BACC00510,ACC00858,"191 Mill Road, Liverpool, UK",Credit Card,Quarterly,£,Active,18/09/2023,SIP4050972047
+BACC00511,ACC00616,"96 Church Lane, Bristol, UK",Invoice,Quarterly,£,Active,15/11/2025,MPLS5907941690
+BACC00512,ACC00289,"223 Mill Road, Reading, UK",Invoice,Monthly,£,Active,31/07/2023,SDWAN2094362867
+BACC00513,ACC00189,"41 Victoria Road, Manchester, UK",Invoice,Monthly,£,Ceased,28/03/2023,MOB8182058122
+BACC00514,ACC00930,"146 Church Lane, Glasgow, UK",BACS,Annual,£,Active,18/09/2025,MOB1760233563
+BACC00515,ACC00373,"154 Station Road, Liverpool, UK",Credit Card,Monthly,£,Ceased,27/01/2026,MOB3112883400
+BACC00516,ACC00965,"225 Mill Road, Glasgow, UK",Invoice,Quarterly,£,Active,11/05/2023,MPLS4794788951
+BACC00517,ACC00193,"51 Station Road, Edinburgh, UK",Credit Card,Monthly,£,Active,27/10/2025,CV9881742652
+BACC00518,ACC00345,"169 Station Road, Birmingham, UK",Direct Debit,Quarterly,£,Ceased,14/01/2023,ETH7017370440
+BACC00519,ACC00667,"189 Church Lane, Cardiff, UK",Direct Debit,Quarterly,£,Ceased,13/08/2025,MPLS1155241352
+BACC00520,ACC00178,"196 High Street, Edinburgh, UK",Invoice,Quarterly,£,Ceased,27/02/2024,MOB7835189649
+BACC00521,ACC00939,"194 High Street, London, UK",Direct Debit,Quarterly,£,Active,17/02/2026,MOB4898755254
+BACC00522,ACC00516,"172 Victoria Road, Leeds, UK",Invoice,Monthly,£,Active,11/06/2023,BB5485327135
+BACC00523,ACC00121,"177 Victoria Road, Reading, UK",Direct Debit,Quarterly,£,Active,28/12/2023,FTTC6575360362
+BACC00524,ACC00117,"53 Church Lane, Birmingham, UK",Credit Card,Monthly,£,Active,22/01/2024,CV1844682742
+BACC00525,ACC00391,"250 High Street, Edinburgh, UK",Direct Debit,Quarterly,£,Active,31/05/2024,PSTN2284053283
+BACC00526,ACC00161,"241 Victoria Road, Cardiff, UK",BACS,Annual,£,Active,02/02/2024,PSTN8475310588
+BACC00527,ACC00747,"80 Victoria Road, Cardiff, UK",Credit Card,Quarterly,£,Inactive,24/06/2023,FTTP2679288233
+BACC00528,ACC00282,"179 Mill Road, Glasgow, UK",Direct Debit,Annual,£,Active,30/03/2024,SIP8677156587
+BACC00529,ACC00236,"39 Church Lane, London, UK",Direct Debit,Annual,£,Ceased,10/10/2024,MPLS7663430104
+BACC00530,ACC00392,"23 Station Road, London, UK",BACS,Quarterly,£,Active,30/12/2023,FTTC8610241218
+BACC00531,ACC00078,"197 Church Lane, Birmingham, UK",Direct Debit,Annual,£,Active,21/07/2025,ETH7786245824
+BACC00532,ACC00035,"204 Victoria Road, Bristol, UK",Direct Debit,Annual,£,Active,27/12/2024,FTTP1353967942
+BACC00533,ACC00176,"45 Church Lane, Bristol, UK",BACS,Annual,£,Ceased,02/03/2024,MPLS9628694281
+BACC00534,ACC00112,"11 High Street, Edinburgh, UK",BACS,Monthly,£,Active,29/08/2025,FTTC5670276483
+BACC00535,ACC00914,"138 High Street, Bristol, UK",Credit Card,Annual,£,Active,02/11/2023,BB3851725794
+BACC00536,ACC00402,"26 Victoria Road, Cardiff, UK",Credit Card,Monthly,£,Active,03/02/2025,MOB1502083854
+BACC00537,ACC00727,"148 Station Road, Birmingham, UK",Invoice,Annual,£,Active,15/06/2025,MOB9684343623
+BACC00538,ACC00568,"31 Station Road, Liverpool, UK",Invoice,Annual,£,Active,29/04/2023,SDWAN3942707124
+BACC00539,ACC00831,"214 Church Lane, Reading, UK",Direct Debit,Quarterly,£,Active,10/02/2024,MOB2242250706
+BACC00540,ACC00700,"177 Victoria Road, Bristol, UK",BACS,Quarterly,£,Active,18/08/2025,ETH4191264866
+BACC00541,ACC00008,"101 Mill Road, Cardiff, UK",Invoice,Quarterly,£,Active,08/12/2023,SIP8298697520
+BACC00542,ACC00067,"182 Station Road, Cardiff, UK",Direct Debit,Monthly,£,Ceased,08/06/2025,MPLS7818616034
+BACC00543,ACC00417,"84 Church Lane, Leeds, UK",BACS,Annual,£,Active,04/06/2024,ETH9971953682
+BACC00544,ACC00595,"182 Mill Road, London, UK",Invoice,Annual,£,Active,08/03/2024,FTTC2123328483
+BACC00545,ACC00643,"31 Victoria Road, Reading, UK",Direct Debit,Quarterly,£,Active,11/08/2024,SIP6668559240
+BACC00546,ACC00098,"237 High Street, Cardiff, UK",Credit Card,Monthly,£,Active,05/11/2025,MOB7421451428
+BACC00547,ACC00169,"8 Mill Road, Bristol, UK",BACS,Monthly,£,Inactive,07/07/2024,MOB2741384922
+BACC00548,ACC00789,"140 Church Lane, Liverpool, UK",Invoice,Quarterly,£,Ceased,09/03/2024,MOB1118558574
+BACC00549,ACC00610,"226 Mill Road, Bristol, UK",Credit Card,Annual,£,Ceased,06/03/2023,SDWAN3229300650
+BACC00550,ACC00997,"7 Mill Road, Birmingham, UK",Credit Card,Monthly,£,Active,03/02/2024,PSTN8325824663
+BACC00551,ACC00056,"46 High Street, Bristol, UK",Invoice,Quarterly,£,Active,27/05/2025,PSTN8714498076
+BACC00552,ACC00150,"237 Church Lane, Liverpool, UK",BACS,Monthly,£,Active,15/05/2025,PSTN1743154678
+BACC00553,ACC00259,"81 Church Lane, London, UK",Credit Card,Monthly,£,Active,03/12/2023,FTTC2758629100
+BACC00554,ACC00012,"210 Church Lane, Liverpool, UK",Credit Card,Monthly,£,Active,18/04/2025,CV4406963876
+BACC00555,ACC00349,"143 Church Lane, Manchester, UK",Credit Card,Monthly,£,Active,31/07/2024,MPLS6258355792
+BACC00556,ACC00961,"141 High Street, Glasgow, UK",Credit Card,Quarterly,£,Active,23/10/2024,SIP9971400707
+BACC00557,ACC00105,"190 Station Road, Bristol, UK",Direct Debit,Quarterly,£,Active,23/08/2023,SIP6541383585
+BACC00558,ACC00653,"29 Station Road, Reading, UK",Credit Card,Annual,£,Active,28/09/2024,MPLS7490981695
+BACC00559,ACC00595,"85 High Street, Reading, UK",BACS,Monthly,£,Active,12/12/2025,ETH4453903705
+BACC00560,ACC00946,"45 Victoria Road, Edinburgh, UK",Credit Card,Monthly,£,Active,09/04/2023,MPLS6496107895
+BACC00561,ACC00371,"73 Station Road, Edinburgh, UK",Direct Debit,Annual,£,Ceased,15/05/2023,SDWAN7921590540
+BACC00562,ACC00335,"207 High Street, Cardiff, UK",BACS,Quarterly,£,Active,28/08/2024,ETH6803987169
+BACC00563,ACC00467,"69 Victoria Road, Reading, UK",BACS,Annual,£,Active,24/04/2025,FTTP5253318800
+BACC00564,ACC00714,"43 High Street, Birmingham, UK",Direct Debit,Quarterly,£,Active,11/03/2023,FTTC9820017711
+BACC00565,ACC00931,"48 Church Lane, Birmingham, UK",Direct Debit,Monthly,£,Inactive,07/08/2023,CV5876835372
+BACC00566,ACC00460,"196 Mill Road, Liverpool, UK",Invoice,Quarterly,£,Active,01/01/2023,ETH4651678855
+BACC00567,ACC00204,"112 Victoria Road, Leeds, UK",Direct Debit,Monthly,£,Active,08/06/2025,SIP6132967010
+BACC00568,ACC00084,"178 Church Lane, London, UK",BACS,Quarterly,£,Ceased,10/04/2024,SDWAN7415749339
+BACC00569,ACC00373,"234 High Street, Manchester, UK",Direct Debit,Monthly,£,Active,26/01/2024,FTTP3588768494
+BACC00570,ACC00569,"101 High Street, Leeds, UK",BACS,Annual,£,Active,22/12/2025,PSTN1907180800
+BACC00571,ACC00476,"5 Church Lane, Reading, UK",Credit Card,Quarterly,£,Active,13/01/2025,SDWAN5194591969
+BACC00572,ACC00701,"202 Victoria Road, Bristol, UK",Direct Debit,Monthly,£,Inactive,04/02/2024,BB4451752398
+BACC00573,ACC00653,"119 Mill Road, Birmingham, UK",Credit Card,Annual,£,Ceased,11/08/2025,SIP7832851856
+BACC00574,ACC00132,"237 Victoria Road, Leeds, UK",Invoice,Monthly,£,Active,23/12/2023,PSTN1942437614
+BACC00575,ACC00140,"140 Mill Road, Glasgow, UK",BACS,Quarterly,£,Inactive,17/03/2025,FTTC7168199852
+BACC00576,ACC00804,"202 Station Road, Bristol, UK",BACS,Annual,£,Active,21/07/2024,MOB3452508807
+BACC00577,ACC00201,"224 Victoria Road, Liverpool, UK",BACS,Quarterly,£,Active,24/03/2024,PSTN2990664063
+BACC00578,ACC00103,"61 High Street, Glasgow, UK",BACS,Monthly,£,Inactive,15/09/2023,CV4113361699
+BACC00579,ACC00465,"177 High Street, Cardiff, UK",Direct Debit,Annual,£,Inactive,09/01/2024,MPLS9906296910
+BACC00580,ACC00850,"221 Mill Road, Edinburgh, UK",BACS,Annual,£,Active,01/06/2023,CV8303097787
+BACC00581,ACC00582,"77 Station Road, Cardiff, UK",Credit Card,Annual,£,Ceased,02/04/2023,FTTP4670732308
+BACC00582,ACC00152,"47 Mill Road, Glasgow, UK",BACS,Annual,£,Active,13/11/2023,CV2095156378
+BACC00583,ACC00654,"165 High Street, Edinburgh, UK",BACS,Monthly,£,Inactive,01/09/2024,MPLS4151183600
+BACC00584,ACC00311,"63 Station Road, Liverpool, UK",Credit Card,Annual,£,Active,30/08/2023,SDWAN5774017567
+BACC00585,ACC00931,"202 Station Road, Manchester, UK",Direct Debit,Quarterly,£,Ceased,26/07/2024,ETH4933578920
+BACC00586,ACC00602,"49 Station Road, London, UK",Credit Card,Quarterly,£,Active,26/03/2024,MPLS5718401583
+BACC00587,ACC00243,"221 Station Road, Reading, UK",Invoice,Monthly,£,Active,10/11/2023,ETH2032251034
+BACC00588,ACC00782,"25 Mill Road, Birmingham, UK",Credit Card,Quarterly,£,Active,06/10/2023,ETH4403469043
+BACC00589,ACC00560,"235 Mill Road, Cardiff, UK",Invoice,Monthly,£,Active,02/01/2025,CV2345929784
+BACC00590,ACC00916,"155 Victoria Road, Liverpool, UK",Credit Card,Monthly,£,Active,03/05/2023,MPLS1117348975
+BACC00591,ACC00292,"241 Mill Road, Reading, UK",Invoice,Annual,£,Active,06/10/2023,PSTN6796650862
+BACC00592,ACC00460,"99 High Street, Bristol, UK",Invoice,Quarterly,£,Active,05/12/2023,FTTC7628864082
+BACC00593,ACC00417,"196 Victoria Road, Birmingham, UK",Invoice,Monthly,£,Ceased,18/03/2024,FTTC2453868957
+BACC00594,ACC00548,"100 High Street, Glasgow, UK",Credit Card,Quarterly,£,Ceased,03/11/2024,BB8990362795
+BACC00595,ACC00597,"77 Station Road, Liverpool, UK",Credit Card,Monthly,£,Active,05/09/2023,BB1758191752
+BACC00596,ACC00943,"239 Victoria Road, Cardiff, UK",Invoice,Annual,£,Active,21/05/2025,MPLS2837037609
+BACC00597,ACC00224,"61 Mill Road, Glasgow, UK",Direct Debit,Annual,£,Active,19/02/2025,MPLS6703733456
+BACC00598,ACC00352,"156 Station Road, Glasgow, UK",BACS,Monthly,£,Active,13/12/2023,PSTN7271986060
+BACC00599,ACC00943,"8 Church Lane, Leeds, UK",Direct Debit,Annual,£,Active,02/05/2023,FTTP8427142521
+BACC00600,ACC00666,"211 High Street, Leeds, UK",Credit Card,Quarterly,£,Active,21/06/2024,SIP2507686253
+BACC00601,ACC00437,"93 Mill Road, Leeds, UK",Invoice,Annual,£,Active,26/03/2025,ETH2277026023
+BACC00602,ACC00942,"126 Victoria Road, Leeds, UK",Direct Debit,Annual,£,Ceased,31/08/2023,FTTP6395516852
+BACC00603,ACC00123,"130 Mill Road, Liverpool, UK",BACS,Annual,£,Active,31/03/2023,SDWAN6298294238
+BACC00604,ACC00828,"136 Church Lane, Cardiff, UK",Direct Debit,Annual,£,Active,08/01/2025,FTTP3096344165
+BACC00605,ACC00213,"93 Mill Road, Edinburgh, UK",Invoice,Annual,£,Active,26/07/2025,FTTP5056823298
+BACC00606,ACC00885,"14 Church Lane, Cardiff, UK",Credit Card,Monthly,£,Ceased,11/08/2023,BB5497343406
+BACC00607,ACC00364,"26 Church Lane, Reading, UK",Invoice,Annual,£,Inactive,13/01/2026,SDWAN9549869740
+BACC00608,ACC00151,"246 Church Lane, Manchester, UK",Credit Card,Quarterly,£,Active,18/12/2025,MPLS2711841045
+BACC00609,ACC00081,"92 High Street, Reading, UK",Invoice,Annual,£,Active,07/09/2025,MPLS1283271734
+BACC00610,ACC00523,"232 Station Road, Cardiff, UK",Invoice,Monthly,£,Active,13/03/2023,MPLS9591910838
+BACC00611,ACC00354,"160 Church Lane, Reading, UK",Invoice,Monthly,£,Active,15/04/2024,ETH7224152990
+BACC00612,ACC00230,"100 Mill Road, Leeds, UK",Credit Card,Annual,£,Active,06/02/2024,MPLS7275590137
+BACC00613,ACC00661,"16 Victoria Road, Liverpool, UK",Invoice,Annual,£,Ceased,26/11/2024,BB1164770627
+BACC00614,ACC00696,"93 Victoria Road, Leeds, UK",Invoice,Monthly,£,Active,13/03/2023,MOB4045098643
+BACC00615,ACC00853,"11 Church Lane, Liverpool, UK",Invoice,Quarterly,£,Active,02/07/2024,SDWAN3873775940
+BACC00616,ACC00901,"1 High Street, Glasgow, UK",Credit Card,Annual,£,Active,02/12/2024,CV2750740411
+BACC00617,ACC00611,"197 Victoria Road, London, UK",Direct Debit,Monthly,£,Active,05/07/2025,CV4238570543
+BACC00618,ACC00223,"169 Station Road, Bristol, UK",Credit Card,Monthly,£,Inactive,24/07/2023,MPLS6667858640
+BACC00619,ACC00890,"54 Station Road, Reading, UK",Credit Card,Annual,£,Ceased,07/02/2026,FTTC7304406424
+BACC00620,ACC00893,"194 High Street, Bristol, UK",Invoice,Quarterly,£,Active,16/05/2023,ETH8396644216
+BACC00621,ACC00743,"98 High Street, Bristol, UK",Credit Card,Quarterly,£,Active,16/08/2024,SIP3032141622
+BACC00622,ACC00452,"20 High Street, Bristol, UK",Invoice,Monthly,£,Active,12/03/2025,PSTN9411383184
+BACC00623,ACC00396,"160 High Street, Manchester, UK",Credit Card,Annual,£,Ceased,01/04/2024,FTTC8800630299
+BACC00624,ACC00310,"222 Victoria Road, Leeds, UK",Invoice,Annual,£,Active,15/04/2023,SIP6430712477
+BACC00625,ACC00396,"130 Station Road, Glasgow, UK",Credit Card,Monthly,£,Active,01/07/2023,SIP3246339279
+BACC00626,ACC00470,"167 Mill Road, London, UK",Direct Debit,Monthly,£,Ceased,20/04/2023,SDWAN6688245812
+BACC00627,ACC00198,"150 Mill Road, Edinburgh, UK",Direct Debit,Annual,£,Active,08/05/2025,ETH2224234817
+BACC00628,ACC00629,"163 Victoria Road, Cardiff, UK",Direct Debit,Annual,£,Active,06/02/2025,BB7193100540
+BACC00629,ACC00825,"119 Mill Road, Manchester, UK",Direct Debit,Annual,£,Ceased,14/09/2025,BB6818464010
+BACC00630,ACC00521,"228 High Street, Leeds, UK",BACS,Monthly,£,Active,01/06/2024,CV8375149062
+BACC00631,ACC00308,"21 Victoria Road, Cardiff, UK",Credit Card,Quarterly,£,Active,05/06/2024,CV4198410565
+BACC00632,ACC00076,"187 Mill Road, Reading, UK",BACS,Monthly,£,Active,16/03/2023,MPLS3285266665
+BACC00633,ACC00477,"45 Church Lane, London, UK",BACS,Quarterly,£,Inactive,19/03/2025,CV9551397442
+BACC00634,ACC00408,"207 Station Road, London, UK",BACS,Quarterly,£,Active,09/05/2023,ETH3905305894
+BACC00635,ACC00668,"220 High Street, Edinburgh, UK",Invoice,Monthly,£,Active,13/04/2025,BB2362630368
+BACC00636,ACC00160,"49 Station Road, Birmingham, UK",BACS,Monthly,£,Active,10/10/2025,CV9601964921
+BACC00637,ACC00683,"131 High Street, Manchester, UK",Invoice,Annual,£,Active,16/02/2024,FTTP7475113279
+BACC00638,ACC00161,"229 High Street, Liverpool, UK",Invoice,Annual,£,Active,05/08/2024,MPLS2910418473
+BACC00639,ACC00487,"192 Station Road, Liverpool, UK",Invoice,Quarterly,£,Active,24/10/2023,SIP2041952454
+BACC00640,ACC00078,"2 Station Road, Cardiff, UK",Credit Card,Quarterly,£,Active,09/12/2025,CV8945200498
+BACC00641,ACC00857,"123 High Street, Birmingham, UK",Invoice,Annual,£,Active,05/05/2023,CV3837116406
+BACC00642,ACC00188,"184 Station Road, Bristol, UK",Credit Card,Monthly,£,Active,30/06/2025,MOB7867181408
+BACC00643,ACC00699,"227 Station Road, Cardiff, UK",BACS,Quarterly,£,Active,03/06/2024,PSTN4680324296
+BACC00644,ACC00524,"238 High Street, Cardiff, UK",BACS,Monthly,£,Active,18/02/2024,CV2663575453
+BACC00645,ACC00261,"162 Victoria Road, Reading, UK",Credit Card,Monthly,£,Inactive,10/10/2024,MPLS1010341991
+BACC00646,ACC00790,"225 Station Road, Glasgow, UK",Credit Card,Annual,£,Active,19/03/2024,ETH7776846471
+BACC00647,ACC00200,"76 Mill Road, Reading, UK",BACS,Monthly,£,Active,21/11/2024,FTTP4866588446
+BACC00648,ACC00968,"39 Mill Road, London, UK",BACS,Quarterly,£,Active,20/02/2026,BB3292833495
+BACC00649,ACC00805,"134 Victoria Road, Leeds, UK",Credit Card,Annual,£,Active,27/08/2025,FTTP8235970965
+BACC00650,ACC00142,"137 Mill Road, Leeds, UK",Invoice,Annual,£,Active,20/04/2025,MPLS1756933721
+BACC00651,ACC00255,"30 Victoria Road, Cardiff, UK",BACS,Monthly,£,Active,07/11/2023,SDWAN7587899982
+BACC00652,ACC00044,"192 High Street, Birmingham, UK",Invoice,Annual,£,Active,18/07/2025,MOB1874478771
+BACC00653,ACC00146,"122 Church Lane, Edinburgh, UK",BACS,Monthly,£,Active,01/08/2023,ETH8547629297
+BACC00654,ACC00134,"92 Church Lane, Reading, UK",BACS,Annual,£,Active,09/04/2023,MPLS9491629550
+BACC00655,ACC00679,"156 Victoria Road, Birmingham, UK",Credit Card,Monthly,£,Active,08/03/2025,MPLS3447292345
+BACC00656,ACC00822,"144 Victoria Road, Glasgow, UK",BACS,Monthly,£,Active,30/04/2023,SDWAN9936654766
+BACC00657,ACC00418,"40 Station Road, London, UK",Credit Card,Annual,£,Ceased,07/08/2024,BB7150397228
+BACC00658,ACC00082,"53 Station Road, Birmingham, UK",Invoice,Quarterly,£,Active,02/02/2026,CV6759064435
+BACC00659,ACC00188,"188 Station Road, Liverpool, UK",Direct Debit,Quarterly,£,Inactive,05/10/2024,SDWAN8617110601
+BACC00660,ACC00609,"138 Mill Road, Manchester, UK",BACS,Quarterly,£,Active,03/12/2023,BB1983908148
+BACC00661,ACC00815,"22 Mill Road, Leeds, UK",Invoice,Monthly,£,Active,19/11/2024,CV6541052266
+BACC00662,ACC00799,"22 Church Lane, Cardiff, UK",Direct Debit,Quarterly,£,Active,13/02/2026,PSTN3950461978
+BACC00663,ACC00191,"239 Station Road, Birmingham, UK",Credit Card,Monthly,£,Active,15/01/2023,BB9823519696
+BACC00664,ACC00321,"238 Victoria Road, Leeds, UK",Direct Debit,Quarterly,£,Active,25/04/2024,MPLS9768328161
+BACC00665,ACC00407,"185 Victoria Road, Cardiff, UK",BACS,Annual,£,Active,02/12/2024,MPLS2496890659
+BACC00666,ACC00516,"153 Church Lane, Bristol, UK",Direct Debit,Monthly,£,Active,20/02/2025,PSTN6117083738
+BACC00667,ACC00505,"207 Church Lane, Leeds, UK",BACS,Monthly,£,Active,02/02/2026,SDWAN5076112182
+BACC00668,ACC00693,"220 Victoria Road, London, UK",Invoice,Annual,£,Active,10/02/2024,ETH2486516228
+BACC00669,ACC00230,"198 Victoria Road, Cardiff, UK",BACS,Monthly,£,Ceased,05/10/2023,SIP5691428880
+BACC00670,ACC00644,"194 Mill Road, Glasgow, UK",Invoice,Annual,£,Active,26/09/2024,CV8585786234
+BACC00671,ACC00717,"98 Station Road, Edinburgh, UK",Credit Card,Annual,£,Active,17/02/2026,CV6038940875
+BACC00672,ACC00438,"201 Church Lane, Bristol, UK",Direct Debit,Monthly,£,Active,23/08/2023,CV7383560617
+BACC00673,ACC00660,"162 Mill Road, Cardiff, UK",Direct Debit,Monthly,£,Active,28/01/2026,MOB1308926610
+BACC00674,ACC00474,"201 Mill Road, Birmingham, UK",Credit Card,Annual,£,Active,10/09/2025,FTTP3747889812
+BACC00675,ACC00295,"11 High Street, Leeds, UK",BACS,Annual,£,Active,07/05/2024,PSTN5334653796
+BACC00676,ACC00716,"87 High Street, London, UK",Invoice,Monthly,£,Ceased,26/12/2025,FTTC6105925481
+BACC00677,ACC00984,"205 High Street, London, UK",Direct Debit,Annual,£,Active,11/02/2023,PSTN4663696683
+BACC00678,ACC00049,"4 Mill Road, Birmingham, UK",Invoice,Monthly,£,Active,20/06/2025,ETH1149568175
+BACC00679,ACC00592,"3 Victoria Road, London, UK",BACS,Quarterly,£,Active,14/08/2025,MOB2845564623
+BACC00680,ACC00177,"206 High Street, Glasgow, UK",Direct Debit,Monthly,£,Active,16/06/2025,MOB9423032499
+BACC00681,ACC00569,"212 High Street, London, UK",Direct Debit,Monthly,£,Active,23/01/2023,SDWAN7640106228
+BACC00682,ACC00406,"110 Victoria Road, Edinburgh, UK",Invoice,Monthly,£,Ceased,28/05/2023,ETH8882396181
+BACC00683,ACC00616,"96 Mill Road, Liverpool, UK",Direct Debit,Monthly,£,Active,18/11/2025,FTTP8120250976
+BACC00684,ACC00475,"3 Victoria Road, Cardiff, UK",Invoice,Monthly,£,Active,30/01/2023,SDWAN8992731495
+BACC00685,ACC00091,"250 High Street, Glasgow, UK",Invoice,Quarterly,£,Active,08/12/2024,FTTC9935049534
+BACC00686,ACC00547,"217 Mill Road, Bristol, UK",BACS,Quarterly,£,Active,27/07/2024,FTTP9964535171
+BACC00687,ACC00869,"73 Victoria Road, Leeds, UK",Credit Card,Quarterly,£,Ceased,17/08/2023,MOB1068206276
+BACC00688,ACC00358,"61 Church Lane, Cardiff, UK",BACS,Quarterly,£,Active,12/07/2025,BB3396352217
+BACC00689,ACC00663,"85 Church Lane, Edinburgh, UK",Direct Debit,Monthly,£,Inactive,24/12/2024,SDWAN4866694031
+BACC00690,ACC00443,"127 Church Lane, Cardiff, UK",Credit Card,Monthly,£,Inactive,24/04/2024,MOB9882463596
+BACC00691,ACC00494,"216 High Street, Reading, UK",Direct Debit,Quarterly,£,Active,14/03/2025,ETH6274259447
+BACC00692,ACC00408,"163 High Street, London, UK",Direct Debit,Quarterly,£,Active,30/01/2023,MOB6876607841
+BACC00693,ACC00208,"90 Mill Road, Liverpool, UK",Credit Card,Monthly,£,Active,17/10/2025,BB4981586743
+BACC00694,ACC00024,"232 Church Lane, Leeds, UK",Credit Card,Annual,£,Active,29/07/2024,ETH8939387848
+BACC00695,ACC00937,"19 Church Lane, Liverpool, UK",Invoice,Quarterly,£,Active,13/01/2023,PSTN5553239911
+BACC00696,ACC00475,"66 Mill Road, Manchester, UK",Direct Debit,Quarterly,£,Active,08/03/2025,SDWAN8911986720
+BACC00697,ACC00017,"124 Victoria Road, Birmingham, UK",Credit Card,Monthly,£,Active,01/03/2024,CV8031380751
+BACC00698,ACC00400,"108 Church Lane, Bristol, UK",Credit Card,Quarterly,£,Active,05/12/2025,SIP3098409063
+BACC00699,ACC00877,"23 High Street, Glasgow, UK",BACS,Monthly,£,Inactive,24/02/2026,FTTC2184517246
+BACC00700,ACC00462,"24 Mill Road, Cardiff, UK",Invoice,Annual,£,Inactive,11/05/2024,FTTP3492986462
+BACC00701,ACC00209,"10 Mill Road, Manchester, UK",Invoice,Monthly,£,Active,24/03/2024,BB4965175449
+BACC00702,ACC00110,"111 High Street, Reading, UK",BACS,Annual,£,Active,08/01/2024,SDWAN6335884772
+BACC00703,ACC00694,"191 Victoria Road, Reading, UK",Direct Debit,Quarterly,£,Active,28/09/2024,FTTP5288624324
+BACC00704,ACC00564,"5 Station Road, Bristol, UK",Credit Card,Quarterly,£,Active,10/12/2024,ETH3730405986
+BACC00705,ACC00642,"211 Church Lane, Glasgow, UK",Credit Card,Annual,£,Active,29/03/2025,PSTN9181796204
+BACC00706,ACC00318,"201 Victoria Road, Liverpool, UK",BACS,Annual,£,Active,24/12/2023,CV1175379305
+BACC00707,ACC00001,"167 Mill Road, Cardiff, UK",BACS,Annual,£,Active,16/11/2025,MPLS4630632511
+BACC00708,ACC00496,"236 Victoria Road, Birmingham, UK",BACS,Monthly,£,Active,28/05/2024,FTTC4316960338
+BACC00709,ACC00844,"122 Church Lane, Birmingham, UK",Credit Card,Quarterly,£,Active,02/01/2023,PSTN8596542780
+BACC00710,ACC00174,"95 Station Road, Bristol, UK",BACS,Monthly,£,Active,07/12/2025,SIP7628144170
+BACC00711,ACC00436,"156 Station Road, Liverpool, UK",BACS,Annual,£,Active,03/04/2023,FTTP6732385773
+BACC00712,ACC00733,"173 Station Road, Birmingham, UK",Invoice,Quarterly,£,Ceased,08/10/2023,FTTP5859947347
+BACC00713,ACC00014,"137 Station Road, Birmingham, UK",Credit Card,Quarterly,£,Active,04/12/2025,MPLS9145319909
+BACC00714,ACC00893,"171 Mill Road, London, UK",Credit Card,Annual,£,Active,19/02/2025,MPLS3489275788
+BACC00715,ACC00800,"19 Church Lane, Reading, UK",Direct Debit,Monthly,£,Active,23/03/2024,MPLS1476343487
+BACC00716,ACC00399,"227 Victoria Road, Reading, UK",Direct Debit,Quarterly,£,Active,18/06/2025,SDWAN5995219316
+BACC00717,ACC00979,"187 Victoria Road, Liverpool, UK",BACS,Annual,£,Active,11/11/2025,SIP9837233097
+BACC00718,ACC00267,"245 Church Lane, Manchester, UK",Direct Debit,Annual,£,Inactive,30/05/2024,SIP7875347339
+BACC00719,ACC00894,"22 Church Lane, Glasgow, UK",BACS,Quarterly,£,Inactive,16/12/2025,ETH6387777375
+BACC00720,ACC00464,"152 Mill Road, Edinburgh, UK",Credit Card,Annual,£,Active,19/08/2025,FTTP5123170132
+BACC00721,ACC00823,"228 Station Road, Leeds, UK",Invoice,Annual,£,Active,22/02/2026,CV9688240635
+BACC00722,ACC00626,"133 High Street, Liverpool, UK",Credit Card,Annual,£,Active,30/08/2023,SDWAN8310059458
+BACC00723,ACC00599,"32 High Street, Edinburgh, UK",Direct Debit,Monthly,£,Active,02/06/2023,MOB4661781744
+BACC00724,ACC00609,"77 High Street, Glasgow, UK",BACS,Quarterly,£,Active,01/09/2023,ETH1699387979
+BACC00725,ACC00293,"85 Mill Road, Bristol, UK",Credit Card,Annual,£,Active,21/06/2024,BB7114112138
+BACC00726,ACC00466,"225 Mill Road, London, UK",BACS,Annual,£,Active,15/11/2023,MOB8358396411
+BACC00727,ACC00893,"149 High Street, London, UK",Direct Debit,Annual,£,Active,03/11/2025,BB6416364373
+BACC00728,ACC00495,"174 Church Lane, Cardiff, UK",Invoice,Annual,£,Inactive,14/06/2025,SDWAN7027951249
+BACC00729,ACC00978,"221 Victoria Road, Bristol, UK",Credit Card,Quarterly,£,Active,20/02/2026,PSTN1256977819
+BACC00730,ACC00646,"14 Station Road, Manchester, UK",Credit Card,Monthly,£,Active,01/04/2023,BB9326117108
+BACC00731,ACC00553,"215 Mill Road, London, UK",Invoice,Monthly,£,Active,26/09/2024,SIP5509141917
+BACC00732,ACC00437,"115 Mill Road, Glasgow, UK",BACS,Quarterly,£,Active,06/03/2024,PSTN2182728056
+BACC00733,ACC00282,"136 Mill Road, London, UK",BACS,Quarterly,£,Active,25/11/2025,FTTP9163108839
+BACC00734,ACC00244,"103 Church Lane, Birmingham, UK",Direct Debit,Monthly,£,Active,21/05/2023,BB1561093208
+BACC00735,ACC00028,"13 Station Road, Cardiff, UK",Invoice,Annual,£,Active,21/04/2025,BB6882630390
+BACC00736,ACC00623,"182 Church Lane, Glasgow, UK",Invoice,Annual,£,Active,28/12/2025,BB1384550086
+BACC00737,ACC00503,"61 High Street, Birmingham, UK",Invoice,Monthly,£,Active,17/03/2024,FTTC8273391850
+BACC00738,ACC00725,"137 Station Road, Manchester, UK",Invoice,Annual,£,Active,16/06/2025,MPLS7409313423
+BACC00739,ACC00873,"170 Church Lane, Glasgow, UK",Invoice,Annual,£,Active,27/12/2023,MOB7864016765
+BACC00740,ACC00721,"11 Church Lane, Birmingham, UK",Direct Debit,Quarterly,£,Active,09/08/2023,CV1931560067
+BACC00741,ACC00498,"33 Victoria Road, Liverpool, UK",Credit Card,Monthly,£,Ceased,03/07/2023,FTTP4825514915
+BACC00742,ACC00537,"170 Mill Road, Liverpool, UK",Invoice,Quarterly,£,Inactive,10/12/2024,MPLS8543377490
+BACC00743,ACC00363,"136 Church Lane, Birmingham, UK",Credit Card,Quarterly,£,Active,14/12/2023,FTTP4852498522
+BACC00744,ACC00950,"153 Station Road, Bristol, UK",Invoice,Monthly,£,Ceased,31/12/2023,SIP9960577364
+BACC00745,ACC00227,"38 Mill Road, London, UK",Invoice,Quarterly,£,Active,26/05/2023,MOB3578728934
+BACC00746,ACC00942,"3 High Street, Reading, UK",BACS,Quarterly,£,Active,12/04/2023,PSTN9203666279
+BACC00747,ACC00067,"140 Mill Road, London, UK",Direct Debit,Monthly,£,Active,11/11/2024,CV1833515024
+BACC00748,ACC00285,"64 Victoria Road, Manchester, UK",BACS,Annual,£,Active,05/02/2024,MOB2412016611
+BACC00749,ACC00926,"184 Station Road, Manchester, UK",Credit Card,Quarterly,£,Inactive,29/01/2024,SDWAN6773585077
+BACC00750,ACC00464,"190 Victoria Road, Birmingham, UK",BACS,Monthly,£,Active,06/01/2026,FTTC8734345344
+BACC00751,ACC00251,"90 Station Road, Birmingham, UK",Invoice,Monthly,£,Active,18/01/2025,BB8712922464
+BACC00752,ACC00946,"160 Station Road, Liverpool, UK",Direct Debit,Annual,£,Active,25/11/2025,FTTP9513047946
+BACC00753,ACC00293,"44 Victoria Road, Reading, UK",BACS,Monthly,£,Active,28/11/2024,ETH6164227131
+BACC00754,ACC00099,"22 High Street, Glasgow, UK",Invoice,Quarterly,£,Active,19/05/2023,SIP1422948505
+BACC00755,ACC00346,"174 Mill Road, Edinburgh, UK",Credit Card,Monthly,£,Active,16/05/2025,SDWAN2757720467
+BACC00756,ACC00253,"78 Church Lane, Cardiff, UK",Invoice,Quarterly,£,Active,28/09/2024,SDWAN2834611674
+BACC00757,ACC00272,"10 Station Road, Liverpool, UK",Direct Debit,Monthly,£,Active,23/11/2023,SIP5701374805
+BACC00758,ACC00065,"180 Church Lane, Glasgow, UK",Invoice,Annual,£,Active,27/10/2023,MPLS7270518691
+BACC00759,ACC00058,"36 Victoria Road, Manchester, UK",Direct Debit,Annual,£,Active,19/02/2024,FTTP5138780846
+BACC00760,ACC00661,"192 Mill Road, Liverpool, UK",Credit Card,Quarterly,£,Ceased,07/09/2023,SIP7499209822
+BACC00761,ACC00308,"84 Victoria Road, Edinburgh, UK",Invoice,Annual,£,Active,24/09/2023,ETH7369591251
+BACC00762,ACC00868,"141 Church Lane, Cardiff, UK",Credit Card,Quarterly,£,Active,06/09/2024,PSTN9162249080
+BACC00763,ACC00823,"166 Church Lane, Cardiff, UK",Direct Debit,Monthly,£,Active,17/10/2023,FTTP1619422917
+BACC00764,ACC00466,"34 Church Lane, Birmingham, UK",Invoice,Monthly,£,Active,02/03/2025,CV1028184012
+BACC00765,ACC00388,"57 Station Road, Edinburgh, UK",BACS,Annual,£,Ceased,12/03/2025,SIP8951464030
+BACC00766,ACC00088,"127 Church Lane, Bristol, UK",Invoice,Monthly,£,Active,05/07/2024,ETH4142318580
+BACC00767,ACC00062,"224 Church Lane, Cardiff, UK",Credit Card,Monthly,£,Ceased,21/09/2024,FTTC7325214241
+BACC00768,ACC00671,"96 Mill Road, Birmingham, UK",Direct Debit,Monthly,£,Active,17/04/2024,MPLS8707284662
+BACC00769,ACC00116,"169 Victoria Road, Cardiff, UK",Invoice,Monthly,£,Active,21/04/2024,BB5198033770
+BACC00770,ACC00470,"107 Mill Road, Glasgow, UK",Direct Debit,Quarterly,£,Active,08/01/2025,FTTC7113500569
+BACC00771,ACC00760,"176 Victoria Road, Manchester, UK",Invoice,Quarterly,£,Inactive,24/05/2023,MPLS4906316704
+BACC00772,ACC00918,"179 High Street, Liverpool, UK",Invoice,Monthly,£,Active,22/07/2023,FTTP1214018445
+BACC00773,ACC00636,"134 Church Lane, London, UK",BACS,Annual,£,Active,25/10/2024,SIP9453028270
+BACC00774,ACC00743,"46 Victoria Road, Liverpool, UK",Credit Card,Quarterly,£,Active,15/02/2023,FTTC7039475142
+BACC00775,ACC00190,"16 High Street, Birmingham, UK",Credit Card,Annual,£,Ceased,21/07/2024,SDWAN3376921669
+BACC00776,ACC00118,"114 High Street, London, UK",Invoice,Monthly,£,Active,25/05/2024,FTTP3030136743
+BACC00777,ACC00660,"249 Mill Road, Reading, UK",Invoice,Monthly,£,Active,04/12/2025,SDWAN8802751935
+BACC00778,ACC00209,"120 Church Lane, Bristol, UK",BACS,Quarterly,£,Active,10/03/2023,SIP7535609385
+BACC00779,ACC00314,"128 High Street, Cardiff, UK",Invoice,Quarterly,£,Active,14/08/2024,FTTP7685429273
+BACC00780,ACC00198,"144 Station Road, Cardiff, UK",Invoice,Monthly,£,Active,19/07/2025,SDWAN8677636047
+BACC00781,ACC00351,"169 Station Road, Bristol, UK",Credit Card,Quarterly,£,Active,11/09/2023,ETH6782667591
+BACC00782,ACC00643,"137 High Street, Glasgow, UK",BACS,Quarterly,£,Active,04/09/2025,ETH5866489990
+BACC00783,ACC00674,"245 Victoria Road, Reading, UK",Direct Debit,Monthly,£,Active,22/08/2024,BB1933926771
+BACC00784,ACC00973,"225 High Street, Bristol, UK",Invoice,Quarterly,£,Active,02/02/2026,SDWAN2541012479
+BACC00785,ACC00473,"172 Victoria Road, Birmingham, UK",Direct Debit,Annual,£,Inactive,25/01/2024,BB7868604048
+BACC00786,ACC00421,"123 Victoria Road, Manchester, UK",BACS,Quarterly,£,Active,25/03/2025,ETH4634333197
+BACC00787,ACC00481,"111 High Street, Glasgow, UK",Invoice,Quarterly,£,Active,04/01/2023,MOB5147166560
+BACC00788,ACC00889,"40 High Street, Glasgow, UK",Invoice,Annual,£,Active,12/05/2025,SIP6565947986
+BACC00789,ACC00445,"191 Church Lane, Leeds, UK",BACS,Annual,£,Inactive,25/11/2023,MOB6593444743
+BACC00790,ACC00795,"37 Station Road, Glasgow, UK",BACS,Monthly,£,Active,21/08/2024,MOB7912730118
+BACC00791,ACC00893,"223 Station Road, London, UK",BACS,Quarterly,£,Active,27/02/2024,ETH3715083201
+BACC00792,ACC00621,"74 Church Lane, Manchester, UK",Credit Card,Annual,£,Active,23/01/2025,CV1325024049
+BACC00793,ACC00301,"180 High Street, Leeds, UK",Invoice,Annual,£,Ceased,12/01/2025,CV3809785226
+BACC00794,ACC00367,"223 Station Road, Leeds, UK",Credit Card,Annual,£,Active,24/01/2026,MOB4174678704
+BACC00795,ACC00301,"46 High Street, Birmingham, UK",BACS,Quarterly,£,Active,08/05/2023,CV6520091203
+BACC00796,ACC00713,"35 Victoria Road, Reading, UK",Direct Debit,Quarterly,£,Ceased,24/10/2023,SDWAN9703256767
+BACC00797,ACC00759,"105 Church Lane, Leeds, UK",BACS,Annual,£,Active,25/01/2025,CV5616602759
+BACC00798,ACC00001,"43 Church Lane, Edinburgh, UK",Direct Debit,Monthly,£,Active,15/11/2025,SDWAN9548733145
+BACC00799,ACC00489,"94 High Street, Birmingham, UK",Direct Debit,Annual,£,Active,08/02/2024,SIP4144866149
+BACC00800,ACC00483,"235 Mill Road, Manchester, UK",Credit Card,Quarterly,£,Active,17/08/2023,BB7678532545
+BACC00801,ACC00845,"156 Victoria Road, Reading, UK",BACS,Annual,£,Active,11/04/2024,MPLS9097509910
+BACC00802,ACC00111,"210 High Street, Cardiff, UK",Credit Card,Monthly,£,Active,18/07/2025,BB6709432425
+BACC00803,ACC00149,"86 High Street, Bristol, UK",Direct Debit,Monthly,£,Active,20/06/2025,BB8243096123
+BACC00804,ACC00389,"14 Victoria Road, Manchester, UK",BACS,Annual,£,Active,06/07/2024,MPLS8902999418
+BACC00805,ACC00276,"189 Mill Road, Cardiff, UK",Invoice,Monthly,£,Active,28/10/2025,FTTP2700601722
+BACC00806,ACC00531,"203 Mill Road, London, UK",Direct Debit,Quarterly,£,Ceased,12/11/2024,PSTN2732545145
+BACC00807,ACC00918,"151 Church Lane, Manchester, UK",Invoice,Annual,£,Active,06/12/2023,SDWAN6771519694
+BACC00808,ACC00327,"235 Church Lane, Cardiff, UK",Invoice,Annual,£,Ceased,29/03/2025,MPLS8709465636
+BACC00809,ACC00531,"89 Church Lane, Cardiff, UK",BACS,Monthly,£,Active,21/01/2023,MOB6300545024
+BACC00810,ACC00592,"221 Mill Road, Manchester, UK",BACS,Annual,£,Ceased,06/10/2025,BB3740613954
+BACC00811,ACC00974,"80 Station Road, Cardiff, UK",Credit Card,Monthly,£,Active,13/12/2024,SDWAN6846045167
+BACC00812,ACC00577,"156 Mill Road, Cardiff, UK",BACS,Quarterly,£,Active,03/06/2023,ETH6014628142
+BACC00813,ACC00182,"230 Victoria Road, London, UK",Direct Debit,Quarterly,£,Ceased,12/12/2025,SIP7573689707
+BACC00814,ACC00223,"50 Church Lane, Edinburgh, UK",BACS,Monthly,£,Active,24/01/2024,SIP5563790653
+BACC00815,ACC00737,"39 Victoria Road, Edinburgh, UK",Direct Debit,Annual,£,Active,11/07/2024,FTTC3653467627
+BACC00816,ACC00977,"175 Mill Road, Cardiff, UK",Credit Card,Quarterly,£,Active,13/04/2024,BB1788674042
+BACC00817,ACC00298,"193 Station Road, Glasgow, UK",Invoice,Annual,£,Active,22/11/2024,CV1510885311
+BACC00818,ACC00814,"95 Mill Road, Edinburgh, UK",Direct Debit,Quarterly,£,Inactive,30/11/2025,SIP8126778958
+BACC00819,ACC00113,"69 High Street, Cardiff, UK",BACS,Annual,£,Ceased,19/04/2025,MOB5170070654
+BACC00820,ACC00476,"95 Church Lane, Cardiff, UK",Direct Debit,Monthly,£,Active,11/09/2025,CV4966019721
+BACC00821,ACC00210,"220 Mill Road, Liverpool, UK",Direct Debit,Quarterly,£,Ceased,16/02/2024,MPLS8483094625
+BACC00822,ACC00556,"96 High Street, Reading, UK",Direct Debit,Annual,£,Active,01/10/2025,FTTC4865102591
+BACC00823,ACC00674,"110 Mill Road, Cardiff, UK",Direct Debit,Annual,£,Active,08/01/2026,ETH4945329651
+BACC00824,ACC00543,"176 Victoria Road, Reading, UK",Credit Card,Monthly,£,Active,13/10/2024,CV3297585933
+BACC00825,ACC00992,"82 Church Lane, Reading, UK",Credit Card,Monthly,£,Active,12/05/2024,SIP2845561612
+BACC00826,ACC00043,"124 Mill Road, Leeds, UK",Direct Debit,Monthly,£,Ceased,01/05/2025,FTTP7256506197
+BACC00827,ACC00120,"96 Victoria Road, Bristol, UK",Credit Card,Quarterly,£,Active,06/06/2024,SIP2927342419
+BACC00828,ACC00436,"106 Victoria Road, London, UK",Invoice,Annual,£,Active,18/08/2024,CV1341789186
+BACC00829,ACC00206,"225 Mill Road, Birmingham, UK",Credit Card,Quarterly,£,Active,09/02/2026,CV4064571279
+BACC00830,ACC00520,"149 Mill Road, Bristol, UK",Invoice,Quarterly,£,Active,14/08/2024,PSTN2990138668
+BACC00831,ACC00970,"78 Mill Road, London, UK",BACS,Quarterly,£,Active,29/10/2024,SIP1901263532
+BACC00832,ACC00957,"173 Station Road, London, UK",Credit Card,Annual,£,Inactive,28/12/2025,ETH6078700435
+BACC00833,ACC00438,"96 Church Lane, Manchester, UK",Credit Card,Quarterly,£,Ceased,02/09/2024,FTTC4944230909
+BACC00834,ACC00855,"96 Station Road, Edinburgh, UK",Credit Card,Monthly,£,Active,24/07/2025,SDWAN6779805098
+BACC00835,ACC00341,"196 Church Lane, Manchester, UK",Invoice,Quarterly,£,Active,04/03/2024,BB7479299920
+BACC00836,ACC00514,"160 Mill Road, Bristol, UK",Invoice,Monthly,£,Active,12/12/2025,BB3146715493
+BACC00837,ACC00541,"159 Church Lane, Birmingham, UK",BACS,Monthly,£,Active,23/08/2023,SIP2943725866
+BACC00838,ACC00823,"64 High Street, Bristol, UK",BACS,Quarterly,£,Active,02/07/2024,SIP8766626381
+BACC00839,ACC00235,"246 Church Lane, Birmingham, UK",Direct Debit,Annual,£,Active,24/08/2025,MPLS3688509932
+BACC00840,ACC00727,"194 Victoria Road, Manchester, UK",Credit Card,Monthly,£,Active,17/02/2026,CV1650404186
+BACC00841,ACC00771,"68 Station Road, Reading, UK",Invoice,Annual,£,Active,20/12/2024,FTTP3542542929
+BACC00842,ACC00868,"108 Church Lane, Liverpool, UK",BACS,Annual,£,Ceased,27/06/2024,PSTN2895926331
+BACC00843,ACC00637,"70 High Street, Liverpool, UK",Direct Debit,Quarterly,£,Active,14/03/2024,ETH3024300635
+BACC00844,ACC00278,"135 High Street, Leeds, UK",Invoice,Monthly,£,Active,14/02/2023,FTTC7681718751
+BACC00845,ACC00474,"28 High Street, London, UK",Credit Card,Annual,£,Inactive,21/05/2025,CV9474655615
+BACC00846,ACC00635,"83 High Street, Manchester, UK",Invoice,Quarterly,£,Active,18/07/2025,CV8565221666
+BACC00847,ACC00993,"119 Station Road, Leeds, UK",BACS,Annual,£,Active,18/04/2024,SDWAN3879095307
+BACC00848,ACC00470,"135 Church Lane, Leeds, UK",Credit Card,Quarterly,£,Ceased,19/10/2023,CV5525325471
+BACC00849,ACC00915,"44 Church Lane, Bristol, UK",Invoice,Annual,£,Ceased,30/11/2025,BB8411151351
+BACC00850,ACC00229,"50 Victoria Road, Cardiff, UK",Credit Card,Quarterly,£,Active,09/11/2024,PSTN7203792822
+BACC00851,ACC00158,"167 Station Road, Birmingham, UK",Invoice,Quarterly,£,Active,02/10/2025,SIP3802483134
+BACC00852,ACC00258,"239 Station Road, Leeds, UK",BACS,Quarterly,£,Active,18/10/2025,SDWAN2344914442
+BACC00853,ACC00063,"27 Victoria Road, Edinburgh, UK",Credit Card,Annual,£,Active,17/02/2026,SDWAN4299422301
+BACC00854,ACC00458,"47 Mill Road, Leeds, UK",BACS,Quarterly,£,Active,27/02/2025,CV1079243744
+BACC00855,ACC00193,"234 High Street, Manchester, UK",BACS,Annual,£,Active,06/03/2025,MPLS4370962021
+BACC00856,ACC00610,"4 Mill Road, Bristol, UK",BACS,Quarterly,£,Active,05/01/2026,MPLS2383461525
+BACC00857,ACC00126,"214 Church Lane, Edinburgh, UK",BACS,Quarterly,£,Active,04/01/2024,MPLS8865928955
+BACC00858,ACC00846,"117 Church Lane, Glasgow, UK",Invoice,Annual,£,Inactive,18/08/2023,FTTP1627099799
+BACC00859,ACC00759,"150 Victoria Road, London, UK",Credit Card,Quarterly,£,Active,23/05/2023,SIP6570918964
+BACC00860,ACC00131,"81 Church Lane, Edinburgh, UK",Direct Debit,Monthly,£,Active,05/01/2026,PSTN7008763905
+BACC00861,ACC00714,"93 Victoria Road, Cardiff, UK",Direct Debit,Monthly,£,Active,01/12/2024,ETH6762010148
+BACC00862,ACC00393,"153 Victoria Road, Reading, UK",Credit Card,Quarterly,£,Active,06/02/2024,PSTN4160634276
+BACC00863,ACC00729,"184 Victoria Road, Glasgow, UK",Credit Card,Monthly,£,Ceased,22/09/2023,FTTC8538720383
+BACC00864,ACC00273,"56 Church Lane, Manchester, UK",Credit Card,Quarterly,£,Active,20/11/2023,MOB1975084299
+BACC00865,ACC00109,"65 Mill Road, Leeds, UK",Direct Debit,Quarterly,£,Active,08/04/2025,ETH9973296894
+BACC00866,ACC00566,"187 Mill Road, Leeds, UK",Direct Debit,Annual,£,Active,12/11/2023,MPLS2271238923
+BACC00867,ACC00528,"24 Church Lane, Reading, UK",Direct Debit,Monthly,£,Active,27/05/2025,CV1082749505
+BACC00868,ACC00904,"164 Church Lane, Birmingham, UK",Credit Card,Annual,£,Ceased,11/07/2025,PSTN2030927850
+BACC00869,ACC00901,"144 Mill Road, Edinburgh, UK",BACS,Quarterly,£,Active,20/06/2025,FTTP9632206536
+BACC00870,ACC00243,"151 Station Road, Manchester, UK",Invoice,Quarterly,£,Active,01/02/2025,FTTP8483637902
+BACC00871,ACC00623,"219 Mill Road, Birmingham, UK",Direct Debit,Annual,£,Active,09/05/2023,FTTC2761615197
+BACC00872,ACC00882,"41 High Street, Birmingham, UK",Credit Card,Monthly,£,Active,13/08/2023,FTTP6737616390
+BACC00873,ACC00618,"143 Victoria Road, Reading, UK",Credit Card,Monthly,£,Ceased,22/02/2024,FTTP7828199836
+BACC00874,ACC00613,"85 Church Lane, Leeds, UK",Direct Debit,Monthly,£,Active,10/11/2025,BB7749458683
+BACC00875,ACC00135,"209 Victoria Road, Leeds, UK",Direct Debit,Monthly,£,Active,21/06/2023,SDWAN3091471638
+BACC00876,ACC00396,"193 Church Lane, Birmingham, UK",Credit Card,Quarterly,£,Active,05/03/2025,MPLS7781824127
+BACC00877,ACC00363,"72 Church Lane, Manchester, UK",Invoice,Monthly,£,Active,30/03/2023,SDWAN1928472240
+BACC00878,ACC00652,"76 Mill Road, Reading, UK",Direct Debit,Quarterly,£,Active,14/11/2025,FTTP9163071699
+BACC00879,ACC00721,"3 Station Road, Leeds, UK",Credit Card,Monthly,£,Active,08/02/2025,FTTC2174230222
+BACC00880,ACC00918,"187 Church Lane, Liverpool, UK",Direct Debit,Quarterly,£,Active,24/07/2023,CV3309888028
+BACC00881,ACC00459,"36 Mill Road, Bristol, UK",Credit Card,Quarterly,£,Inactive,02/02/2023,BB5553807991
+BACC00882,ACC00727,"40 Victoria Road, Leeds, UK",Direct Debit,Quarterly,£,Active,21/11/2024,CV7691396709
+BACC00883,ACC00134,"37 Station Road, Edinburgh, UK",Direct Debit,Quarterly,£,Active,23/05/2025,SIP6070187176
+BACC00884,ACC00547,"109 High Street, Reading, UK",BACS,Monthly,£,Active,09/11/2023,SIP3491990059
+BACC00885,ACC00390,"223 Church Lane, Reading, UK",Credit Card,Quarterly,£,Active,30/06/2024,CV9634777371
+BACC00886,ACC00389,"102 Victoria Road, Leeds, UK",Credit Card,Annual,£,Active,13/10/2025,ETH9598260218
+BACC00887,ACC00773,"66 Church Lane, Bristol, UK",Credit Card,Monthly,£,Active,20/01/2025,ETH5862785123
+BACC00888,ACC00766,"140 Station Road, Bristol, UK",BACS,Annual,£,Active,24/11/2023,CV4115080970
+BACC00889,ACC00594,"13 Mill Road, Leeds, UK",Invoice,Monthly,£,Active,18/05/2024,FTTC3587548666
+BACC00890,ACC00868,"140 Church Lane, Edinburgh, UK",Invoice,Annual,£,Active,09/07/2023,FTTC1727269363
+BACC00891,ACC00617,"88 Church Lane, Birmingham, UK",Invoice,Annual,£,Active,05/04/2023,SDWAN1235771071
+BACC00892,ACC00077,"205 Victoria Road, Manchester, UK",Credit Card,Annual,£,Active,26/01/2026,SDWAN8541137079
+BACC00893,ACC00953,"44 High Street, Manchester, UK",BACS,Monthly,£,Active,05/01/2025,CV3937225922
+BACC00894,ACC00343,"21 Station Road, Leeds, UK",BACS,Quarterly,£,Active,05/02/2026,ETH4603296549
+BACC00895,ACC00669,"41 Church Lane, Reading, UK",Direct Debit,Quarterly,£,Active,01/01/2026,MOB7037463046
+BACC00896,ACC00685,"122 Victoria Road, Edinburgh, UK",Credit Card,Quarterly,£,Active,19/02/2024,MOB3918861197
+BACC00897,ACC00339,"135 High Street, Bristol, UK",Credit Card,Monthly,£,Active,23/10/2025,MPLS8355860366
+BACC00898,ACC00417,"172 Victoria Road, Leeds, UK",Invoice,Monthly,£,Active,25/12/2025,SDWAN6277497085
+BACC00899,ACC00276,"216 Station Road, Liverpool, UK",Credit Card,Annual,£,Active,31/03/2024,ETH1383623920
+BACC00900,ACC00375,"105 Station Road, Edinburgh, UK",BACS,Monthly,£,Active,17/02/2025,ETH9866745766
+BACC00901,ACC_BILL_ONLY_00901,"230 Green Lane, Leeds, UK",Credit Card,Annual,£,Active,27/10/2025,FTTCBNS236661
+BACC00902,ACC_BILL_ONLY_00902,"163 Green Lane, Manchester, UK",BACS,Monthly,£,Active,21/09/2024,CVBNS353461
+BACC00903,ACC_BILL_ONLY_00903,"246 Queens Road, Edinburgh, UK",Credit Card,Annual,£,Active,23/12/2024,MOBBNS317568
+BACC00904,ACC_BILL_ONLY_00904,"130 Queens Road, Cardiff, UK",Credit Card,Monthly,£,Active,18/08/2025,FTTPBNS756999
+BACC00905,ACC_BILL_ONLY_00905,"196 Market Road, London, UK",Invoice,Quarterly,£,Active,29/08/2025,MOBBNS896907
+BACC00906,ACC_BILL_ONLY_00906,"117 Queens Road, Birmingham, UK",BACS,Monthly,£,Active,19/12/2023,SIPBNS991823
+BACC00907,ACC_BILL_ONLY_00907,"6 Queens Road, London, UK",Direct Debit,Annual,£,Active,27/03/2024,CVBNS672645
+BACC00908,ACC_BILL_ONLY_00908,"61 Green Lane, Cardiff, UK",Invoice,Monthly,£,Active,10/07/2025,SIPBNS237370
+BACC00909,ACC_BILL_ONLY_00909,"139 Market Road, London, UK",BACS,Annual,£,Active,23/02/2023,SDWANBNS258202
+BACC00910,ACC_BILL_ONLY_00910,"55 Queens Road, Glasgow, UK",Credit Card,Monthly,£,Active,14/05/2024,ETHBNS135418
+BACC00911,ACC_BILL_ONLY_00911,"102 King Street, Liverpool, UK",BACS,Quarterly,£,Active,16/06/2024,ETHBNS424380
+BACC00912,ACC_BILL_ONLY_00912,"144 Green Lane, London, UK",BACS,Quarterly,£,Active,30/10/2024,SDWANBNS574996
+BACC00913,ACC_BILL_ONLY_00913,"52 King Street, Birmingham, UK",BACS,Quarterly,£,Active,20/02/2026,FTTCBNS305251
+BACC00914,ACC_BILL_ONLY_00914,"238 King Street, London, UK",Invoice,Annual,£,Active,15/02/2024,FTTPBNS364873
+BACC00915,ACC_BILL_ONLY_00915,"6 King Street, London, UK",Credit Card,Annual,£,Active,05/03/2025,ETHBNS580274
+BACC00916,ACC_BILL_ONLY_00916,"227 Queens Road, Birmingham, UK",BACS,Quarterly,£,Active,28/07/2024,MPLSBNS585896
+BACC00917,ACC_BILL_ONLY_00917,"12 Green Lane, Leeds, UK",Credit Card,Monthly,£,Active,11/02/2026,PSTNBNS383517
+BACC00918,ACC_BILL_ONLY_00918,"192 King Street, Reading, UK",Direct Debit,Annual,£,Active,14/06/2025,ETHBNS859467
+BACC00919,ACC_BILL_ONLY_00919,"69 Green Lane, Edinburgh, UK",Direct Debit,Annual,£,Active,17/09/2025,SDWANBNS621865
+BACC00920,ACC_BILL_ONLY_00920,"189 Green Lane, Glasgow, UK",Credit Card,Annual,£,Active,02/12/2025,FTTPBNS518398
+BACC00921,ACC_BILL_ONLY_00921,"160 Green Lane, Bristol, UK",Credit Card,Quarterly,£,Active,15/01/2024,SDWANBNS260724
+BACC00922,ACC_BILL_ONLY_00922,"117 King Street, Glasgow, UK",Direct Debit,Annual,£,Active,25/09/2023,ETHBNS497792
+BACC00923,ACC_BILL_ONLY_00923,"194 Queens Road, Leeds, UK",Invoice,Quarterly,£,Active,25/05/2023,BBBNS473238
+BACC00924,ACC_BILL_ONLY_00924,"194 Queens Road, Birmingham, UK",Invoice,Quarterly,£,Active,15/05/2025,MOBBNS102130
+BACC00925,ACC_BILL_ONLY_00925,"138 King Street, Liverpool, UK",Direct Debit,Quarterly,£,Active,05/09/2024,CVBNS847798
+BACC00926,ACC_BILL_ONLY_00926,"83 King Street, Reading, UK",Invoice,Quarterly,£,Active,01/02/2026,SDWANBNS676541
+BACC00927,ACC_BILL_ONLY_00927,"30 Queens Road, Cardiff, UK",Credit Card,Annual,£,Active,12/02/2023,SIPBNS186822
+BACC00928,ACC_BILL_ONLY_00928,"68 Green Lane, Edinburgh, UK",BACS,Monthly,£,Active,20/06/2023,MOBBNS581522
+BACC00929,ACC_BILL_ONLY_00929,"113 Queens Road, Bristol, UK",Invoice,Quarterly,£,Active,18/08/2024,BBBNS243867
+BACC00930,ACC_BILL_ONLY_00930,"126 King Street, Glasgow, UK",Credit Card,Quarterly,£,Active,29/06/2025,MPLSBNS569323
+BACC00931,ACC_BILL_ONLY_00931,"45 Green Lane, London, UK",Direct Debit,Monthly,£,Active,05/03/2023,PSTNBNS938476
+BACC00932,ACC_BILL_ONLY_00932,"226 Queens Road, London, UK",Direct Debit,Annual,£,Active,31/01/2025,FTTPBNS230874
+BACC00933,ACC_BILL_ONLY_00933,"73 Market Road, Liverpool, UK",Direct Debit,Monthly,£,Active,21/10/2023,BBBNS984240
+BACC00934,ACC_BILL_ONLY_00934,"65 Green Lane, Reading, UK",BACS,Monthly,£,Active,13/05/2025,BBBNS555463
+BACC00935,ACC_BILL_ONLY_00935,"247 Green Lane, London, UK",Credit Card,Annual,£,Active,15/01/2023,PSTNBNS954256
+BACC00936,ACC_BILL_ONLY_00936,"203 Queens Road, Edinburgh, UK",BACS,Quarterly,£,Active,31/10/2023,BBBNS923148
+BACC00937,ACC_BILL_ONLY_00937,"150 King Street, Leeds, UK",Credit Card,Quarterly,£,Active,16/02/2024,BBBNS843362
+BACC00938,ACC_BILL_ONLY_00938,"193 King Street, Birmingham, UK",Credit Card,Monthly,£,Active,06/03/2023,ETHBNS973881
+BACC00939,ACC_BILL_ONLY_00939,"137 Green Lane, Cardiff, UK",Invoice,Annual,£,Active,24/09/2023,SDWANBNS725136
+BACC00940,ACC_BILL_ONLY_00940,"84 Green Lane, Birmingham, UK",Direct Debit,Monthly,£,Active,25/01/2024,PSTNBNS757094
+BACC00941,ACC_BILL_ONLY_00941,"200 Green Lane, London, UK",Credit Card,Annual,£,Active,16/01/2025,SIPBNS670426
+BACC00942,ACC_BILL_ONLY_00942,"225 Market Road, Bristol, UK",Direct Debit,Monthly,£,Active,22/02/2024,CVBNS962368
+BACC00943,ACC_BILL_ONLY_00943,"191 Market Road, London, UK",Direct Debit,Annual,£,Active,17/05/2023,SIPBNS747500
+BACC00944,ACC_BILL_ONLY_00944,"174 Green Lane, Bristol, UK",BACS,Monthly,£,Active,17/02/2025,MOBBNS253911
+BACC00945,ACC_BILL_ONLY_00945,"152 King Street, Cardiff, UK",Invoice,Monthly,£,Active,13/09/2023,PSTNBNS297754
+BACC00946,ACC_BILL_ONLY_00946,"112 Green Lane, Birmingham, UK",Direct Debit,Quarterly,£,Active,14/04/2023,CVBNS817372
+BACC00947,ACC_BILL_ONLY_00947,"70 Queens Road, Cardiff, UK",Credit Card,Quarterly,£,Active,08/02/2026,MPLSBNS209303
+BACC00948,ACC_BILL_ONLY_00948,"88 Green Lane, Edinburgh, UK",Direct Debit,Annual,£,Active,09/03/2023,ETHBNS512653
+BACC00949,ACC_BILL_ONLY_00949,"60 Green Lane, Liverpool, UK",Direct Debit,Monthly,£,Active,20/12/2023,FTTCBNS337600
+BACC00950,ACC_BILL_ONLY_00950,"184 Market Road, Birmingham, UK",Direct Debit,Monthly,£,Active,17/01/2024,MPLSBNS841061
+BACC00951,ACC_BILL_ONLY_00951,"90 Green Lane, Bristol, UK",BACS,Quarterly,£,Active,09/02/2026,BBBNS889341
+BACC00952,ACC_BILL_ONLY_00952,"22 Green Lane, London, UK",Direct Debit,Quarterly,£,Active,03/04/2023,MOBBNS395046
+BACC00953,ACC_BILL_ONLY_00953,"64 King Street, Leeds, UK",BACS,Quarterly,£,Active,13/06/2023,FTTPBNS586610
+BACC00954,ACC_BILL_ONLY_00954,"225 King Street, Cardiff, UK",Direct Debit,Annual,£,Active,30/11/2025,ETHBNS430028
+BACC00955,ACC_BILL_ONLY_00955,"207 Green Lane, Cardiff, UK",Credit Card,Annual,£,Active,07/01/2024,BBBNS721948
+BACC00956,ACC_BILL_ONLY_00956,"226 Market Road, Glasgow, UK",Direct Debit,Quarterly,£,Active,17/09/2025,BBBNS529669
+BACC00957,ACC_BILL_ONLY_00957,"138 Queens Road, Leeds, UK",Invoice,Annual,£,Active,05/06/2025,MPLSBNS287729
+BACC00958,ACC_BILL_ONLY_00958,"161 Green Lane, London, UK",Direct Debit,Monthly,£,Active,04/12/2024,FTTCBNS403823
+BACC00959,ACC_BILL_ONLY_00959,"75 King Street, Manchester, UK",Credit Card,Monthly,£,Active,06/12/2024,ETHBNS345849
+BACC00960,ACC_BILL_ONLY_00960,"123 Queens Road, Bristol, UK",BACS,Quarterly,£,Active,19/04/2025,MPLSBNS969580
+BACC00961,ACC_BILL_ONLY_00961,"167 King Street, Birmingham, UK",BACS,Quarterly,£,Active,18/07/2025,PSTNBNS738423
+BACC00962,ACC_BILL_ONLY_00962,"30 Green Lane, Leeds, UK",Credit Card,Monthly,£,Active,26/01/2026,FTTCBNS385900
+BACC00963,ACC_BILL_ONLY_00963,"13 Market Road, Reading, UK",Invoice,Monthly,£,Active,11/04/2025,ETHBNS559939
+BACC00964,ACC_BILL_ONLY_00964,"246 Queens Road, London, UK",Direct Debit,Quarterly,£,Active,17/12/2024,FTTPBNS475307
+BACC00965,ACC_BILL_ONLY_00965,"209 Market Road, Bristol, UK",Direct Debit,Quarterly,£,Active,08/12/2025,FTTPBNS805909
+BACC00966,ACC_BILL_ONLY_00966,"186 Green Lane, London, UK",Direct Debit,Monthly,£,Active,02/04/2023,FTTCBNS112720
+BACC00967,ACC_BILL_ONLY_00967,"4 Queens Road, Leeds, UK",Invoice,Quarterly,£,Active,19/04/2023,MOBBNS234245
+BACC00968,ACC_BILL_ONLY_00968,"167 Green Lane, Birmingham, UK",Invoice,Annual,£,Active,20/10/2025,PSTNBNS242981
+BACC00969,ACC_BILL_ONLY_00969,"17 Market Road, Leeds, UK",Invoice,Quarterly,£,Active,22/08/2023,FTTPBNS193406
+BACC00970,ACC_BILL_ONLY_00970,"53 Queens Road, Bristol, UK",Direct Debit,Quarterly,£,Active,07/01/2026,SDWANBNS109250
+BACC00971,ACC_BILL_ONLY_00971,"38 Market Road, Manchester, UK",BACS,Annual,£,Active,28/12/2023,MOBBNS479136
+BACC00972,ACC_BILL_ONLY_00972,"40 Green Lane, Bristol, UK",BACS,Monthly,£,Active,05/02/2025,ETHBNS803700
+BACC00973,ACC_BILL_ONLY_00973,"137 Queens Road, Manchester, UK",Credit Card,Annual,£,Active,22/09/2023,FTTPBNS963365
+BACC00974,ACC_BILL_ONLY_00974,"142 King Street, Bristol, UK",Invoice,Quarterly,£,Active,15/04/2025,BBBNS479194
+BACC00975,ACC_BILL_ONLY_00975,"205 Green Lane, Bristol, UK",Direct Debit,Quarterly,£,Active,05/05/2024,PSTNBNS407910
+BACC00976,ACC_BILL_ONLY_00976,"83 Market Road, Reading, UK",Invoice,Quarterly,£,Active,25/04/2024,MOBBNS598864
+BACC00977,ACC_BILL_ONLY_00977,"197 Green Lane, Cardiff, UK",Direct Debit,Quarterly,£,Active,21/05/2024,FTTCBNS601189
+BACC00978,ACC_BILL_ONLY_00978,"84 Green Lane, Edinburgh, UK",BACS,Annual,£,Active,03/05/2023,SDWANBNS368793
+BACC00979,ACC_BILL_ONLY_00979,"195 Green Lane, Glasgow, UK",BACS,Annual,£,Active,24/08/2023,MPLSBNS803022
+BACC00980,ACC_BILL_ONLY_00980,"230 Market Road, Liverpool, UK",Invoice,Monthly,£,Active,24/01/2024,ETHBNS808107
+BACC00981,ACC_BILL_ONLY_00981,"18 Queens Road, Reading, UK",Direct Debit,Quarterly,£,Active,11/12/2024,SIPBNS161152
+BACC00982,ACC_BILL_ONLY_00982,"210 Green Lane, Glasgow, UK",Invoice,Monthly,£,Active,01/12/2024,FTTCBNS810848
+BACC00983,ACC_BILL_ONLY_00983,"182 Green Lane, Cardiff, UK",Invoice,Monthly,£,Active,05/10/2025,MOBBNS461017
+BACC00984,ACC_BILL_ONLY_00984,"125 Market Road, Manchester, UK",Credit Card,Annual,£,Active,16/07/2024,MOBBNS139458
+BACC00985,ACC_BILL_ONLY_00985,"55 Queens Road, Leeds, UK",Direct Debit,Quarterly,£,Active,29/11/2023,SDWANBNS557128
+BACC00986,ACC_BILL_ONLY_00986,"149 King Street, Bristol, UK",Credit Card,Quarterly,£,Active,30/07/2025,SDWANBNS168167
+BACC00987,ACC_BILL_ONLY_00987,"65 King Street, Birmingham, UK",Invoice,Monthly,£,Active,21/06/2025,MPLSBNS149271
+BACC00988,ACC_BILL_ONLY_00988,"28 Green Lane, Glasgow, UK",Direct Debit,Annual,£,Active,01/06/2023,PSTNBNS129159
+BACC00989,ACC_BILL_ONLY_00989,"62 Queens Road, Bristol, UK",Direct Debit,Quarterly,£,Active,09/02/2025,SIPBNS858098
+BACC00990,ACC_BILL_ONLY_00990,"57 Green Lane, London, UK",Direct Debit,Monthly,£,Active,11/01/2023,CVBNS249926
+BACC00991,ACC_BILL_ONLY_00991,"162 Green Lane, Liverpool, UK",BACS,Annual,£,Active,05/10/2023,CVBNS452615
+BACC00992,ACC_BILL_ONLY_00992,"183 King Street, Bristol, UK",Credit Card,Annual,£,Active,03/12/2024,MPLSBNS777615
+BACC00993,ACC_BILL_ONLY_00993,"152 King Street, Edinburgh, UK",Credit Card,Monthly,£,Active,02/06/2024,CVBNS402028
+BACC00994,ACC_BILL_ONLY_00994,"55 Green Lane, Leeds, UK",Credit Card,Annual,£,Active,26/03/2024,SDWANBNS987270
+BACC00995,ACC_BILL_ONLY_00995,"190 Market Road, Birmingham, UK",Invoice,Annual,£,Active,20/02/2026,FTTCBNS334857
+BACC00996,ACC_BILL_ONLY_00996,"121 Green Lane, Reading, UK",Direct Debit,Monthly,£,Active,16/03/2025,MOBBNS814229
+BACC00997,ACC_BILL_ONLY_00997,"172 Market Road, Bristol, UK",Invoice,Quarterly,£,Active,31/10/2023,FTTPBNS913589
+BACC00998,ACC_BILL_ONLY_00998,"85 Queens Road, Leeds, UK",BACS,Monthly,£,Active,24/10/2023,ETHBNS746245
+BACC00999,ACC_BILL_ONLY_00999,"102 Queens Road, London, UK",BACS,Quarterly,£,Active,11/05/2024,CVBNS887896
+BACC01000,ACC_BILL_ONLY_01000,"49 Market Road, London, UK",Invoice,Monthly,£,Active,04/07/2023,ETHBNS476684
