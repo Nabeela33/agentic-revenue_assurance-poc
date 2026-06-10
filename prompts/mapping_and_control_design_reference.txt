@@ -1,1 +1,128 @@
+TELECOM RA AGENTIC POC
+System Mapping Context Reference
+Version: Demo v3
 
+Purpose
+-------
+This file is context for the Design Agent.
+It does not contain completed control logic, SQL, or prescribed exception rules.
+
+Systems
+-------
+One Siebel:
+- CRM, order capture and service inventory system.
+- Tables: siebel_accounts, siebel_orders, siebel_assets.
+
+Antillia:
+- Billing system.
+- Tables: antillia_accounts, antillia_products.
+
+One Siebel Relationships
+------------------------
+siebel_accounts:
+- Customer account master.
+- Useful fields: account_id, account_name, account_type, region, status, created_date.
+- Related to siebel_orders by account_id.
+- Related to siebel_assets by account_id.
+
+siebel_orders:
+- Order activity.
+- Useful fields: order_id, account_id, asset_id, order_date, order_type, quantity, unit_price, total_price, order_status.
+- Valid order statuses: Completed, In Progress, Open.
+- Related to siebel_accounts by account_id.
+- Related to siebel_assets by asset_id.
+
+siebel_assets:
+- Service inventory.
+- Useful fields: asset_id, account_id, asset_type, installation_date, asset_status, location, maintenance_cost, service_number.
+- Valid asset statuses: Active, Inactive, Ceased.
+- Related to siebel_accounts by account_id.
+- Related to siebel_orders by asset_id.
+
+Antillia Relationships
+----------------------
+antillia_accounts:
+- Billing account.
+- Useful fields: billing_account_id, account_id, billing_address, payment_method, billing_cycle, currency, status, created_date, service_number.
+- Valid statuses: Active, Inactive, Ceased.
+- Related to antillia_products by billing_account_id.
+- May relate to One Siebel by account_id and/or service_number.
+
+antillia_products:
+- Billable product or charge.
+- Useful fields: billing_product_id, billing_account_id, asset_id, order_id, product_name, charge_type, charge_amount, last_billed_date, next_billing_date, status.
+- Valid statuses: Active, Inactive, Ceased.
+- Related to antillia_accounts by billing_account_id.
+- May relate to One Siebel by asset_id and/or order_id.
+
+Possible Cross-System Relationship Fields
+-----------------------------------------
+Service-level:
+- siebel_assets.service_number
+- antillia_accounts.service_number
+
+Asset-level:
+- siebel_assets.asset_id
+- antillia_products.asset_id
+
+Account-level:
+- siebel_accounts.account_id
+- siebel_assets.account_id
+- siebel_orders.account_id
+- antillia_accounts.account_id
+
+Order-level:
+- siebel_orders.order_id
+- antillia_products.order_id
+
+Product comparison:
+- siebel_assets.asset_type
+- antillia_products.product_name
+
+Status comparison:
+- siebel_accounts.status
+- siebel_assets.asset_status
+- antillia_accounts.status
+- antillia_products.status
+
+Telecom Vocabulary
+------------------
+Common products:
+- PSTN Line
+- Broadband
+- FTTP Broadband
+- FTTC Broadband
+- SIP Trunk
+- Ethernet Circuit
+- MPLS Circuit
+- Cloud Voice
+- Mobile Voice
+- SD-WAN
+
+Business terms:
+- SNB means Service No Bill.
+- BNS means Bill No Service.
+- Completeness control checks whether expected records exist across systems.
+- Accuracy control checks whether matched records have consistent values.
+
+Expected Agent Behaviour
+------------------------
+Design Agent:
+- Understands user objective.
+- Selects relevant systems and tables.
+- Selects possible relationship fields.
+- Proposes design and assumptions.
+- Waits for approval.
+
+Developer Agent:
+- Runs only after design approval.
+- Converts approved design into BigQuery SQL.
+- Executes control.
+- Returns exception records.
+- Waits for approval.
+
+Insight Agent:
+- Runs only after control output approval.
+- Summarises findings.
+- Creates downloadable insights.
+- Presents insights in Streamlit.
