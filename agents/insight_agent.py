@@ -1,10 +1,6 @@
 import pandas as pd
 
 
-def _empty_df(columns):
-    return pd.DataFrame(columns=columns)
-
-
 def _find_impact_column(df):
     for col in [
         "estimated_monthly_impact",
@@ -17,21 +13,11 @@ def _find_impact_column(df):
     return None
 
 
-def _top_breakdown(df, column, metric_name, top_n=10):
-    if column not in df.columns:
-        return _empty_df(["category", "count", "metric"])
-
-    out = (
-        df[column]
-        .astype(str)
-        .value_counts()
-        .head(top_n)
-        .reset_index()
-    )
-
-    out.columns = ["category", "count"]
-    out["metric"] = metric_name
-    return out
+def _first_existing_column(df, candidates):
+    for col in candidates:
+        if col in df.columns:
+            return col
+    return None
 
 
 def run_insight_agent(
@@ -44,46 +30,30 @@ def run_insight_agent(
     df = exception_df.copy()
 
     total_exceptions = len(df)
-    impact_col = _find_impact_column(df)
 
+    impact_col = _find_impact_column(df)
     monthly_impact = 0.0
+
     if impact_col:
         df[impact_col] = pd.to_numeric(df[impact_col], errors="coerce").fillna(0)
-        monthly_impact = df[impact_col].abs().sum()
+        monthly_impact = float(df[impact_col].abs().sum())
 
     annualised_impact = monthly_impact * 12
 
-    exception_breakdown = _top_breakdown(
-        df,
-        "exception_type",
-        "Exceptions by Type",
-    )
+    exception_breakdown = pd.DataFrame(columns=["category", "count"])
+    if "exception_type" in df.columns:
+        exception_breakdown = (
+            df["exception_type"]
+            .astype(str)
+            .value_counts()
+            .reset_index()
+        )
+        exception_breakdown.columns = ["category", "count"]
 
-    product_col = None
-    for col in ["product_name", "asset_type"]:
-        if col in df.columns:
-            product_col = col
-            break
+    product_col = _first_existing_column(df, ["product_name", "asset_type"])
+    account_col = _first_existing_column(df, ["account_id", "billing_account_id"])
 
-    product_breakdown = (
-        _top_breakdown(df, product_col, "Top Products")
-        if product_col
-        else _empty_df(["category", "count", "metric"])
-    )
-
-    account_col = None
-    for col in ["account_id", "billing_account_id"]:
-        if col in df.columns:
-            account_col = col
-            break
-
-    account_breakdown = (
-        _top_breakdown(df, account_col, "Top Accounts")
-        if account_col
-        else _empty_df(["category", "count", "metric"])
-    )
-
-    impact_breakdown = _empty_df(["category", "impact"])
+    impact_breakdown = pd.DataFrame(columns=["category", "impact"])
 
     if impact_col and product_col:
         impact_breakdown = (
@@ -91,56 +61,49 @@ def run_insight_agent(
             .sum()
             .abs()
             .sort_values(ascending=False)
-            .head(10)
+            .head(8)
+            .reset_index()
+        )
+        impact_breakdown.columns = ["category", "impact"]
+    elif impact_col and account_col:
+        impact_breakdown = (
+            df.groupby(account_col)[impact_col]
+            .sum()
+            .abs()
+            .sort_values(ascending=False)
+            .head(8)
             .reset_index()
         )
         impact_breakdown.columns = ["category", "impact"]
 
+    top_exceptions = df.head(10).copy()
+
     insight_rows = [
         {
+            "section": "KPI",
             "metric": "Total Exceptions",
             "category": "Overall",
             "value": total_exceptions,
         },
         {
+            "section": "KPI",
             "metric": "Estimated Monthly Impact",
             "category": "Financial",
-            "value": round(float(monthly_impact), 2),
+            "value": round(monthly_impact, 2),
         },
         {
+            "section": "KPI",
             "metric": "Estimated Annualised Impact",
             "category": "Financial",
-            "value": round(float(annualised_impact), 2),
-        },
-        {
-            "metric": "Impact Column Used",
-            "category": "Metadata",
-            "value": impact_col or "Not available",
+            "value": round(annualised_impact, 2),
         },
     ]
 
     for _, row in exception_breakdown.iterrows():
         insight_rows.append(
             {
-                "metric": "Exception Type",
-                "category": row["category"],
-                "value": int(row["count"]),
-            }
-        )
-
-    for _, row in product_breakdown.iterrows():
-        insight_rows.append(
-            {
-                "metric": "Top Product",
-                "category": row["category"],
-                "value": int(row["count"]),
-            }
-        )
-
-    for _, row in account_breakdown.iterrows():
-        insight_rows.append(
-            {
-                "metric": "Top Account",
+                "section": "Exception Mix",
+                "metric": "Exception Count",
                 "category": row["category"],
                 "value": int(row["count"]),
             }
@@ -149,7 +112,8 @@ def run_insight_agent(
     for _, row in impact_breakdown.iterrows():
         insight_rows.append(
             {
-                "metric": "Product Impact",
+                "section": "Financial Impact",
+                "metric": "Impact",
                 "category": row["category"],
                 "value": round(float(row["impact"]), 2),
             }
@@ -159,8 +123,6 @@ def run_insight_agent(
 
     summary = f"""
 ## Insight Dashboard
-
-Use this dashboard to review exception volume, product concentration, account concentration and estimated financial impact.
 
 | KPI | Value |
 |---|---:|
@@ -173,9 +135,9 @@ Use this dashboard to review exception volume, product concentration, account co
         "summary": summary,
         "insight_df": insight_df,
         "exception_breakdown": exception_breakdown,
-        "product_breakdown": product_breakdown,
-        "account_breakdown": account_breakdown,
         "impact_breakdown": impact_breakdown,
+        "top_exceptions": top_exceptions,
+        "exception_count": total_exceptions,
         "monthly_impact": monthly_impact,
         "annualised_impact": annualised_impact,
     }
