@@ -6,10 +6,6 @@ from utils.bigquery_client import run_sql
 
 
 def extract_sql(response_text):
-    """
-    Extract SQL from Gemini response.
-    """
-
     match = re.search(
         r"```sql\s*(.*?)```",
         response_text,
@@ -28,10 +24,6 @@ def extract_sql(response_text):
 
 
 def validate_sql(sql):
-    """
-    Allow only SELECT statements.
-    """
-
     sql_upper = sql.upper()
 
     if not sql_upper.startswith("SELECT"):
@@ -61,24 +53,29 @@ def run_developer_agent(
     dataset,
     approved_design,
     metadata,
+    feedback="",
 ):
-    """
-    Developer Agent:
-    - Reads approved design
-    - Generates BigQuery SQL using Gemini
-    - Executes SQL in BigQuery
-    - Returns exception dataset
-    """
-
     prompt = f"""
 You are the Developer Agent for a telecom Revenue Assurance POC.
 
-The user has approved the following control design:
+Your role:
+- Convert the approved data mapping/control model into executable BigQuery SQL.
+- Execute the reconciliation control.
+- Return exception records only.
 
+Important:
+- Do not write commentary.
+- Do not explain the SQL.
+- Do not generate markdown explanation.
+- The SQL will be executed internally, not shown to the user unless debug is enabled.
+
+Approved design:
 {approved_design}
 
-Available table metadata:
+User feedback, if this is regeneration:
+{feedback}
 
+Available table metadata:
 {json.dumps(metadata, indent=2)}
 
 Generate ONE BigQuery Standard SQL SELECT query.
@@ -88,11 +85,12 @@ Rules:
 2. Use fully qualified table names:
    `{project_id}.{dataset}.table_name`
 3. Return exception records only.
-4. Add a column named exception_type.
-5. Add a column named recommended_action.
+4. Add exception_type.
+5. Add recommended_action.
 6. Add estimated_monthly_impact or estimated_customer_impact if possible.
-7. LIMIT 500.
-8. Return SQL only inside a ```sql block.
+7. Include service/account/product fields where available.
+8. LIMIT 500.
+9. Return SQL only inside a ```sql block.
 """
 
     response = call_gemini(
@@ -102,7 +100,6 @@ Rules:
     )
 
     sql = extract_sql(response)
-
     sql = validate_sql(sql)
 
     exception_df = run_sql(
