@@ -5,7 +5,7 @@ from vertexai.generative_models import GenerativeModel, GenerationConfig
 def call_gemini(project_id, location, prompt):
     vertexai.init(project=project_id, location=location)
 
-    model = GenerativeModel("gemini-1.5-flash-002")
+    model = GenerativeModel("gemini-2.5-flash")
 
     response = model.generate_content(
         prompt,
