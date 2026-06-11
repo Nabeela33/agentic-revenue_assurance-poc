@@ -1,7 +1,4 @@
-import json
 import pandas as pd
-
-from utils.vertex_client import call_gemini
 
 
 def run_insight_agent(
@@ -13,14 +10,16 @@ def run_insight_agent(
 ):
     """
     Insight Agent:
-    - Reads approved design
-    - Reviews generated SQL
-    - Analyses exception output
-    - Produces business summary
+    - Creates insight tables for charts/visuals
+    - Does not write long narrative
     - Produces downloadable insight dataframe
     """
 
-    preview_records = exception_df.head(50).to_dict(orient="records")
+    df = exception_df.copy()
+
+    insight_rows = []
+
+    total_exceptions = len(df)
 
     impact_col = ""
     monthly_impact = 0.0
@@ -31,104 +30,81 @@ def run_insight_agent(
         "estimated_customer_impact",
         "charge_amount",
     ]:
-        if col in exception_df.columns:
+        if col in df.columns:
             impact_col = col
             monthly_impact = (
-                pd.to_numeric(exception_df[col], errors="coerce")
+                pd.to_numeric(df[col], errors="coerce")
                 .fillna(0)
                 .abs()
                 .sum()
             )
             break
 
-    prompt = f"""
-You are the Insight Agent for a telecom Revenue Assurance POC.
-
-Your job:
-- Analyse the approved control output.
-- Summarise findings in business language.
-- Highlight financial impact.
-- Identify risk themes.
-- Recommend next actions.
-- Avoid inventing numbers that are not in the data.
-
-Approved design:
-{approved_design}
-
-Generated SQL:
-{generated_sql}
-
-Exception count:
-{len(exception_df)}
-
-Impact column used:
-{impact_col}
-
-Estimated monthly impact:
-{monthly_impact}
-
-Sample exception records:
-{json.dumps(preview_records, indent=2, default=str)}
-
-Return markdown with:
-
-## Executive Summary
-
-## What The Control Found
-
-## Estimated Financial Impact
-
-## Key Risk Themes
-
-## Recommended Actions
-
-## Productionisation Notes
-"""
-
-    summary = call_gemini(
-        project_id=project_id,
-        location=location,
-        prompt=prompt,
+    insight_rows.append(
+        {
+            "metric": "Total Exceptions",
+            "category": "Overall",
+            "value": total_exceptions,
+        }
     )
 
-    insight_rows = [
+    insight_rows.append(
         {
-            "metric": "exception_count",
-            "value": len(exception_df),
-        },
-        {
-            "metric": "impact_column_used",
-            "value": impact_col,
-        },
-        {
-            "metric": "estimated_monthly_impact",
+            "metric": "Estimated Monthly Impact",
+            "category": "Financial",
             "value": round(float(monthly_impact), 2),
-        },
+        }
+    )
+
+    insight_rows.append(
         {
-            "metric": "estimated_annualised_impact",
+            "metric": "Estimated Annualised Impact",
+            "category": "Financial",
             "value": round(float(monthly_impact) * 12, 2),
-        },
-    ]
+        }
+    )
+
+    if "exception_type" in df.columns:
+        for key, value in df["exception_type"].astype(str).value_counts().items():
+            insight_rows.append(
+                {
+                    "metric": "Exception Type",
+                    "category": key,
+                    "value": int(value),
+                }
+            )
 
     for col in [
-        "exception_type",
         "product_name",
         "asset_type",
         "account_id",
         "billing_account_id",
     ]:
-        if col in exception_df.columns:
-            top_values = exception_df[col].astype(str).value_counts().head(10)
+        if col in df.columns:
+            top_values = df[col].astype(str).value_counts().head(10)
 
-            for key, count in top_values.items():
+            for key, value in top_values.items():
                 insight_rows.append(
                     {
-                        "metric": f"top_{col}",
-                        "value": f"{key}: {count}",
+                        "metric": f"Top {col}",
+                        "category": key,
+                        "value": int(value),
                     }
                 )
 
     insight_df = pd.DataFrame(insight_rows)
+
+    summary = f"""
+## Insight Summary
+
+| Metric | Value |
+|---|---:|
+| Total exceptions | {total_exceptions:,} |
+| Estimated monthly impact | £{monthly_impact:,.2f} |
+| Estimated annualised impact | £{monthly_impact * 12:,.2f} |
+
+Use the charts below to review exception distribution, product impact and account concentration.
+"""
 
     return {
         "summary": summary,
