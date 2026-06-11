@@ -83,7 +83,7 @@ with tabs[0]:
 
 with tabs[1]:
     st.subheader("Design Agent")
-    st.caption("Creates a stable data mapping model and control model. It does not write SQL.")
+    
 
     if run_design:
         with st.spinner("Design Agent is generating data mapping and control model..."):
@@ -118,7 +118,7 @@ with tabs[1]:
 
 with tabs[2]:
     st.subheader("Developer Agent")
-    st.caption("Runs reconciliation and returns the exception table. SQL is generated internally and not shown.")
+    
 
     if not st.session_state.get("design_approved"):
         st.warning("Approve the Design Agent output first.")
@@ -167,7 +167,7 @@ with tabs[2]:
 
 with tabs[3]:
     st.subheader("Insight Agent")
-    st.caption("Creates a concise executive dashboard from the approved reconciliation output.")
+    
 
     if not st.session_state.get("control_approved"):
         st.warning("Approve the Developer Agent output first.")
