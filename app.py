@@ -37,7 +37,7 @@ CONTROL_OPTIONS = ["Service No Bill (SNB)", "Bill No Service (BNS)"]
 st.markdown("""
 <div class="main-title">
     <h1>Agentic Revenue Assurance POC</h1>
-    <p>One Siebel vs Antillia | Vertex AI + BigQuery + Streamlit + Cloud Run</p>
+    
 </div>
 """, unsafe_allow_html=True)
 
