@@ -60,6 +60,12 @@ with st.sidebar:
         height=130,
     )
 
+    design_feedback = st.text_area(
+        "Design feedback / change request",
+        "",
+        height=80,
+    )
+
     run_design = st.button("Run Design Agent", type="primary")
 
 
@@ -75,29 +81,13 @@ tabs = st.tabs(
 
 
 with tabs[0]:
-    st.subheader("BigQuery Source Tables")
+    st.subheader("Source Data Overview")
 
     cols = st.columns(5)
 
     for idx, table in enumerate(TABLES):
         row_count = metadata.get(table, {}).get("row_count", 0)
         cols[idx].metric(table, f"{row_count:,}")
-
-    st.markdown("### Table Metadata")
-
-    metadata_rows = []
-
-    for table in TABLES:
-        table_meta = metadata.get(table, {})
-        metadata_rows.append(
-            {
-                "table": table,
-                "row_count": table_meta.get("row_count", 0),
-                "columns": ", ".join(table_meta.get("columns", [])),
-            }
-        )
-
-    st.dataframe(pd.DataFrame(metadata_rows), use_container_width=True)
 
     st.markdown("### Preview Data")
 
@@ -112,9 +102,10 @@ with tabs[0]:
 
 with tabs[1]:
     st.subheader("Design Agent")
+    st.caption("Creates the data mapping model and control model. It does not write SQL.")
 
     if run_design:
-        with st.spinner("Design Agent is analysing the request, metadata and mapping context..."):
+        with st.spinner("Design Agent is generating data mapping and control model..."):
             design_output = run_design_agent(
                 project_id=PROJECT_ID,
                 location=LOCATION,
@@ -122,53 +113,77 @@ with tabs[1]:
                 control_family=control_family,
                 metadata=metadata,
                 mapping=mapping_reference,
+                feedback=design_feedback,
             )
 
             st.session_state["design_output"] = design_output
             st.session_state["design_created_at"] = datetime.now().strftime(
                 "%Y-%m-%d %H:%M:%S"
             )
+            st.session_state["design_approved"] = False
+            st.session_state.pop("developer_result", None)
+            st.session_state["control_approved"] = False
+            st.session_state.pop("insights", None)
 
     if "design_output" in st.session_state:
         st.markdown(st.session_state["design_output"])
 
-        if st.button("Approve Design", type="primary"):
-            st.session_state["design_approved"] = True
-            st.session_state["design_approved_at"] = datetime.now().strftime(
-                "%Y-%m-%d %H:%M:%S"
-            )
-            st.success("Design approved. Developer Agent can now build the control.")
+        design_col1, design_col2 = st.columns(2)
+
+        with design_col1:
+            if st.button("Approve Design", type="primary"):
+                st.session_state["design_approved"] = True
+                st.session_state["design_approved_at"] = datetime.now().strftime(
+                    "%Y-%m-%d %H:%M:%S"
+                )
+                st.success("Design approved. Developer Agent can now build the control.")
+
+        with design_col2:
+            if st.button("Regenerate Design"):
+                st.session_state.pop("design_output", None)
+                st.session_state["design_approved"] = False
+                st.session_state.pop("developer_result", None)
+                st.session_state["control_approved"] = False
+                st.session_state.pop("insights", None)
+                st.rerun()
     else:
         st.info("Enter a request in the sidebar and run the Design Agent.")
 
 
 with tabs[2]:
     st.subheader("Developer Agent")
+    st.caption("Runs reconciliation and returns the exception table. SQL is generated internally and not shown.")
 
     if not st.session_state.get("design_approved"):
         st.warning("Approve the Design Agent output first.")
     else:
+        developer_feedback = st.text_area(
+            "Developer feedback / change request",
+            "",
+            height=80,
+        )
+
         if st.button("Run Developer Agent", type="primary"):
-            with st.spinner("Developer Agent is generating SQL and executing it in BigQuery..."):
+            with st.spinner("Developer Agent is reconciling One Siebel and Antillia in BigQuery..."):
                 developer_result = run_developer_agent(
                     project_id=PROJECT_ID,
                     location=LOCATION,
                     dataset=DATASET,
                     approved_design=st.session_state["design_output"],
                     metadata=metadata,
+                    feedback=developer_feedback,
                 )
 
                 st.session_state["developer_result"] = developer_result
                 st.session_state["developer_ran_at"] = datetime.now().strftime(
                     "%Y-%m-%d %H:%M:%S"
                 )
+                st.session_state["control_approved"] = False
+                st.session_state.pop("insights", None)
 
         if "developer_result" in st.session_state:
             result = st.session_state["developer_result"]
             exception_df = result["exception_df"]
-
-            st.markdown("### Generated SQL")
-            st.code(result["generated_sql"], language="sql")
 
             impact = 0.0
 
@@ -191,7 +206,7 @@ with tabs[2]:
             col1.metric("Exceptions Found", f"{len(exception_df):,}")
             col2.metric("Estimated Monthly Impact", f"£{impact:,.2f}")
 
-            st.markdown("### Control Output")
+            st.markdown("### Reconciliation Output")
             st.dataframe(exception_df, use_container_width=True)
 
             st.download_button(
@@ -201,22 +216,33 @@ with tabs[2]:
                 mime="text/csv",
             )
 
-            if st.button("Approve Control Output", type="primary"):
-                st.session_state["control_approved"] = True
-                st.session_state["control_approved_at"] = datetime.now().strftime(
-                    "%Y-%m-%d %H:%M:%S"
-                )
-                st.success("Control output approved. Insight Agent can now run.")
+            control_col1, control_col2 = st.columns(2)
+
+            with control_col1:
+                if st.button("Approve Control Output", type="primary"):
+                    st.session_state["control_approved"] = True
+                    st.session_state["control_approved_at"] = datetime.now().strftime(
+                        "%Y-%m-%d %H:%M:%S"
+                    )
+                    st.success("Control output approved. Insight Agent can now run.")
+
+            with control_col2:
+                if st.button("Regenerate Control"):
+                    st.session_state.pop("developer_result", None)
+                    st.session_state["control_approved"] = False
+                    st.session_state.pop("insights", None)
+                    st.rerun()
 
 
 with tabs[3]:
     st.subheader("Insight Agent")
+    st.caption("Generates insight tables and visual summaries from the approved reconciliation output.")
 
     if not st.session_state.get("control_approved"):
         st.warning("Approve the Developer Agent output first.")
     else:
         if st.button("Run Insight Agent", type="primary"):
-            with st.spinner("Insight Agent is generating business summary and downloadable insights..."):
+            with st.spinner("Insight Agent is generating charts and downloadable insights..."):
                 insights = run_insight_agent(
                     project_id=PROJECT_ID,
                     location=LOCATION,
@@ -231,12 +257,32 @@ with tabs[3]:
                 )
 
         if "insights" in st.session_state:
-            st.markdown(st.session_state["insights"]["summary"])
-
             insight_df = st.session_state["insights"]["insight_df"]
 
-            st.markdown("### Downloadable Insight File")
-            st.dataframe(insight_df, use_container_width=True)
+            st.markdown(st.session_state["insights"]["summary"])
+
+            if not insight_df.empty:
+                st.markdown("### Insight Breakdown")
+
+                chart_df = insight_df[
+                    insight_df["metric"].isin(
+                        [
+                            "Exception Type",
+                            "Top product_name",
+                            "Top asset_type",
+                            "Top account_id",
+                            "Top billing_account_id",
+                        ]
+                    )
+                ]
+
+                if not chart_df.empty:
+                    st.bar_chart(
+                        chart_df.set_index("category")["value"],
+                        use_container_width=True,
+                    )
+
+                st.dataframe(insight_df, use_container_width=True)
 
             st.download_button(
                 "Download Insights",
