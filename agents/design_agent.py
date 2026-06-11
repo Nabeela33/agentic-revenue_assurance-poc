@@ -2,17 +2,16 @@ import json
 from utils.vertex_client import call_gemini
 
 
-def run_design_agent(project_id, location, user_request, control_family, metadata, mapping):
+def run_design_agent(project_id, location, user_request, control_family, metadata, mapping, feedback=""):
     prompt = f"""
 You are the Design Agent for a telecom Revenue Assurance POC.
 
-Your job:
-- Understand the user's control request.
-- Use the available BigQuery metadata and mapping context.
-- Propose a control design.
-- Do NOT write SQL.
-- Do NOT execute logic.
-- Do NOT invent tables or columns.
+Your role is to create a DATA MAPPING / CONTROL MODEL only.
+Do not write SQL.
+Do not give long explanation.
+Do not write an essay.
+Do not execute anything.
+Do not invent tables or columns.
 
 User request:
 {user_request}
@@ -20,29 +19,49 @@ User request:
 Control family:
 {control_family}
 
+User feedback, if this is regeneration:
+{feedback}
+
 Available table metadata:
 {json.dumps(metadata, indent=2)}
 
 Mapping context:
 {mapping}
 
-Return markdown with:
+Return concise markdown with these exact sections:
 
-## Proposed Control Design
+## Data Mapping Model
 
-### 1. Control Name
-### 2. Objective
-### 3. Control Type
-### 4. Source Tables
-### 5. Candidate Join Keys
-### 6. Base Population
-### 7. Exception Definition
-### 8. Output Fields
-### 9. Impact Estimate
-### 10. Assumptions
-### 11. Approval Question
+| Layer | Source System | Table | Key Field | Business Meaning |
+|---|---|---|---|---|
+
+## Cross-System Mapping
+
+| One Siebel Field | Antillia Field | Match Type | Purpose |
+|---|---|---|---|
+
+## Control Model
+
+| Item | Design |
+|---|---|
+
+Rows should include:
+- Control name
+- Control objective
+- Base population
+- Match logic
+- Exception logic
+- Impact field
+- Output fields
+
+## Assumptions
+
+Use max 5 bullet points.
+
+## Approval
 
 End with:
-Please approve this design before the Developer Agent builds the control.
+Approve this design or provide feedback to regenerate.
 """
+
     return call_gemini(project_id, location, prompt)
