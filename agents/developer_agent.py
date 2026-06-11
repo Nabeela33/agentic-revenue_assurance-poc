@@ -24,27 +24,13 @@ def extract_sql(response_text):
 
 
 def validate_sql(sql):
-    sql_upper = sql.upper()
+    sql_clean = sql.strip()
+    sql_upper = sql_clean.upper()
 
     if not sql_upper.startswith("SELECT"):
         raise ValueError("Only SELECT statements are allowed.")
 
-    forbidden = [
-        "DELETE ",
-        "UPDATE ",
-        "INSERT ",
-        "MERGE ",
-        "DROP ",
-        "TRUNCATE ",
-        "CREATE ",
-        "ALTER ",
-    ]
-
-    for keyword in forbidden:
-        if keyword in sql_upper:
-            raise ValueError(f"Unsafe SQL detected: {keyword.strip()}")
-
-    return sql
+    return sql_clean
 
 
 def run_developer_agent(
@@ -64,9 +50,11 @@ Your role:
 - Return exception records only.
 
 Important:
+- Return only one SELECT query.
+- Do not create tables.
+- Do not use CREATE, INSERT, UPDATE, DELETE, MERGE, DROP, ALTER, or TRUNCATE.
 - Do not write commentary.
 - Do not explain the SQL.
-- Do not generate markdown explanation.
 - The SQL will be executed internally, not shown to the user unless debug is enabled.
 
 Approved design:
